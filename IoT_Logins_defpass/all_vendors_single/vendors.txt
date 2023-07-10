@@ -1,0 +1,118 @@
+155
+3Com
+3WARE
+8level
+ABB
+ACTi
+Adcon Telemetry
+Advantech
+Alcatel
+Alcatel-Lucent Nokia
+Alien
+Allied Telesis
+Allnet
+Amigo
+APC
+Askey
+ASRock
+Asus
+AVIOSYS
+Axis
+B&B ELECTRONICS
+Barracuda
+Beck IPC
+Beckhoff Automation GmbH
+Benq
+BinTec Elmeg
+Canon
+Carlo Gavazzi
+Cisco
+Contemporary Control Systems
+D-Link
+Datasensor
+Deif
+Dell
+Digi
+DrayTek
+Echelon
+Electro Industries/GaugeTech
+Emerson
+Encore
+Endress+Hauser
+ENTES
+eQ-3 AG
+eWON
+Falcon
+Fronius
+GarrettCom
+General Electric Healthcare
+General Electric Intelligent Platforms
+Gigabyte
+Handlink
+Helmholz Systeme
+Hirschmann
+HollySys Automation Technologies
+Honeywell
+Huawei
+IBM
+Inteno
+Juniper
+Kostal Solar
+KUKA
+Lancom
+Lantronix
+LB-Link
+Linksys
+Loxone
+LOYTEC Electronics
+Metrobility
+Mitsubishi
+Mobotix
+Moxa
+Netatmo
+NetComm
+Netcomm Wireless
+Netgear
+NOVUS AUTOMATION
+Nuance
+Omron
+Omron IA
+Opengear
+Ouman
+Paessler
+PCI
+Phasefale Controls
+Phoenix Contact
+Phoenix Contact Cyber Security, Innominate
+PIPS Technology
+Prosoft Technology
+RayTalk
+Rockwell Automation / Allen-Bradley
+SAMSON GROUP
+Samsung
+Schneider Electric
+Siemens
+Sierra Wireless
+Sinapsi
+SMA Solar Technology AG
+Snom
+SolarWinds
+Stulz GmbH
+Sunways AG
+TAC AB
+Tecomat 
+TP-Link
+Trafficware
+Tridium
+Turck
+Ubiquiti
+Wago
+WashTec
+Wellintech
+Westermo
+Wonderware
+Xzeres
+Yokogawa
+Zcom
+Zoe Medical
+Zyxel

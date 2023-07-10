@@ -1,0 +1,5075 @@
+[
+    {
+        "Vendor": "ABB",
+        "Device": "AC 800M",
+        "Default password": "service:ABB800xA",
+        "Device type": "Controller",
+        "Source": "https://library.e.abb.com/public/f355a67551218ae7c1257dc0003298c5/3BDS021515-600_-_en_AC_800M_6.0_PROFINET_IO_Configuration.pdf"
+    },
+    {
+        "Vendor": "ABB",
+        "Device": "SREA-01",
+        "Default password": "admin:admin",
+        "Port": "80/tcp",
+        "Device type": "Ethernet Adapter Module",
+        "Protocol": "http",
+        "Source": "https://www.inverterdrive.com/file/ABB-SREA-01-Manual"
+    },
+    {
+        "Vendor": "Adcon Telemetry",
+        "Device": "Telemetry Gateway A840 and Wireless Modem A440",
+        "Default password": "root:840sw",
+        "Port": "terminal program",
+        "Device type": "Base Station",
+        "Source": "http://www.adcon.com/index.php?option=com_docman&task=doc_download&gid=41&Itemid=239&lang=de"
+    },
+    {
+        "Vendor": "Adcon Telemetry",
+        "Device": "addVANTAGE Pro 6.1",
+        "Default password": "root:root",
+        "Port": "8080/tcp",
+        "Device type": "HMI",
+        "Protocol": "HTTP",
+        "Source": "http://adcon.com/index.php?option=com_docman&task=doc_download&gid=31&Itemid=239&lang=en"
+    },
+    {
+        "Vendor": "Advantech",
+        "Device": "Advantech WebAccess browser-based HMI and SCADA software",
+        "Default password": "admin:blank",
+        "Port": "80/tcp",
+        "Device type": "browser-based HMI and SCADA software",
+        "Protocol": "HTTP",
+        "Source": "http://advantech.vo.llnwd.net/o35/www/webaccess/driver_manual/Advantech-WebAccess-Quick-Start-Guide.pdf"
+    },
+    {
+        "Vendor": "Allied Telesis",
+        "Device": "IE200 Series AT-IE200-6GT, AT-IE200-6GP, AT-IE200-6FT, AT-IE200-6FP",
+        "Default password": "manager:friend",
+        "Port": "terminal or terminal emulator program",
+        "Device type": "Industrial Ethernet Switches",
+        "Source": "http://www.alliedtelesis.com/userfiles/file/IE200_InstallGuide_RevC.pdf"
+    },
+    {
+        "Vendor": "B&B ELECTRONICS",
+        "Device": "CR10 v2",
+        "Default password": "root:root",
+        "Port": "80/tcp",
+        "Device type": "Industrial router",
+        "Protocol": "http",
+        "Source": "http://tekniska.pl/downloadfile/1400014902-1208342584-pdf"
+    },
+    {
+        "Vendor": "B&B ELECTRONICS",
+        "Device": "Conel 4.0.1",
+        "Default password": "root:root",
+        "Port": "80/tcp",
+        "Device type": "Industrial router",
+        "Protocol": "http",
+        "Source": "http://conel.ru/shared/files/201502/9_411.pdf"
+    },
+    {
+        "Vendor": "B&B ELECTRONICS",
+        "Device": "SPECTRE Router",
+        "Default password": "root:root",
+        "Port": "80/tcp",
+        "Device type": "Router",
+        "Protocol": "http",
+        "Source": "b&b electronics SPECTRE Router.pdf"
+    },
+    {
+        "Vendor": "B&B ELECTRONICS",
+        "Device": "ER75i/ER 75i DUO/ER 75i SL/ER75i v2",
+        "Default password": "root:root",
+        "Port": "80/tcp",
+        "Device type": "Industrial router",
+        "Protocol": "http",
+        "Source": "http://ec-mobile.ru/user_files/File/Conel/ER75i_Manual_RUS.pdf"
+    },
+    {
+        "Vendor": "B&B ELECTRONICS",
+        "Device": "LR77 v2 Libratum/LR77 v2",
+        "Default password": "root:root",
+        "Port": "80/tcp",
+        "Device type": "Industrial router",
+        "Protocol": "http",
+        "Source": "http://www.induowireless.com/wp-content/uploads/2014/12/lr77-v2-libratum-manual.pdf, http://data.kommago.nl/files/pdf/conel-lr77_v2-handleiding.pdf"
+    },
+    {
+        "Vendor": "B&B ELECTRONICS",
+        "Device": "UR5i v2",
+        "Default password": "root:root",
+        "Port": "80/tcp",
+        "Device type": "Industrial router",
+        "Protocol": "http",
+        "Source": "http://www.cd.lucom.de/vpn-industrie-router/dokumentation/handbuch/ur5iv2-guide.pdf"
+    },
+    {
+        "Vendor": "B&B ELECTRONICS",
+        "Device": "UCR11-v2/UCR11 v2 SL",
+        "Default password": "root:root",
+        "Port": "80/tcp",
+        "Device type": "Industrial router",
+        "Protocol": "http",
+        "Source": "http://www.induowireless.com/wp-content/uploads/2014/03/ucr11-3g-router-hspa-cdma.pdf"
+    },
+    {
+        "Vendor": "B&B ELECTRONICS",
+        "Device": "XR5i v2E/XR5i v2/XR5i/XR5i SL",
+        "Default password": "root:root",
+        "Port": "80/tcp",
+        "Device type": "Industrial router",
+        "Protocol": "http",
+        "Source": "http://www.cd.lucom.de/vpn-industrie-router/dokumentation/handbuch/xr5iv2e-guide.pdf"
+    },
+    {
+        "Vendor": "Beckhoff Automation GmbH",
+        "Device": "CX5020",
+        "Default password": "webguest:1",
+        "Port": "23/tcp",
+        "Device type": "PLC",
+        "Protocol": "Telnet",
+        "Source": "https://www.researchgate.net/publication/272420507_ICSSCADA_Security_Analysis_of_a_Beckhoff_CX5020_PLC"
+    },
+    {
+        "Vendor": "Beck IPC",
+        "Device": "IPC@CHIP",
+        "Default password": "PPPSERVER:, ppps:ppps",
+        "Device type": "PLC",
+        "Protocol": "pap/chap",
+        "Source": "https://www.beck-ipc.com/files/api/scxxx/config.htm"
+    },
+    {
+        "Vendor": "BinTec Elmeg",
+        "Device": "BinTec X1200 II",
+        "Default password": "admin:bintec,",
+        "Device type": "Router",
+        "Source": "http://www.router-defaults.com/Router/BinTec--x1200-ip-password-username"
+    },
+    {
+        "Vendor": "BinTec Elmeg",
+        "Device": "any routers",
+        "Default password": "(##unknown - means not known or any char):, ##unknown:snmp-Trap , suggested:, admin:1234, admin:password, admin:admin",
+        "Device type": "Router",
+        "Source": "http://www.router-defaults.com/Router/BinTec--x1200-ip-password-username"
+    },
+    {
+        "Vendor": "BinTec Elmeg",
+        "Device": "BinTec R230aw",
+        "Default password": "admin:funkwerk",
+        "Device type": "Router",
+        "Source": "http://www.tomshw.it/forum/banda-larga/154194-router-bintec.html"
+    },
+    {
+        "Vendor": "BinTec Elmeg",
+        "Device": "Bintec W2002T-n",
+        "Default password": "admin:funkwerk, admin:admin",
+        "Device type": "WLAN Access Point for applications in rolling stocks",
+        "Source": "http://www.bintec-elmeg.com/download.php?src=portal/downloadcenter/dateien/w2002tn/documentation/Notes-default-password-standard-passwort.pdf&system_id=138324"
+    },
+    {
+        "Vendor": "Carlo Gavazzi",
+        "Device": "PowerSoft",
+        "Default password": "admin:admin, user:user",
+        "Device type": "modular software",
+        "Source": "https://www.gavazzionline.com/pdf/PowerSoftIMENG.pdf"
+    },
+    {
+        "Vendor": "Contemporary Control Systems",
+        "Device": "BASRT-B",
+        "Default password": "admin:admin",
+        "Port": "80/tcp",
+        "Device type": "Router",
+        "Protocol": "http",
+        "Source": "http://www.ccontrols.com/pdf/TD0712000I2.pdf"
+    },
+    {
+        "Vendor": "Datasensor",
+        "Device": "UR5i/UR5i SL",
+        "Default password": "root:root",
+        "Port": "80/tcp",
+        "Device type": "Router",
+        "Protocol": "http",
+        "Source": "http://datasensor.de/sites/datasensor.de/files/datasheets/UR5i_m_e.pdf"
+    },
+    {
+        "Vendor": "Deif",
+        "Device": "AWC 500",
+        "Default password": "root:deif7800 (administrator), default:1234 (user)",
+        "Device type": "Advanced Wind turbine Controller",
+        "Source": "http://www.deifwindpower.com/Files/Files/Documentation/Products/AWC-500/4189340733_AWC_500_Getting_started.pdf"
+    },
+    {
+        "Vendor": "Digi",
+        "Device": "DC-ME-01T-S",
+        "Default password": "root:dbps",
+        "Device type": "Networking Modules",
+        "Protocol": "http",
+        "Source": "http://www.digi.com/support/forum/13553/digi-connect-me-default-password"
+    },
+    {
+        "Vendor": "Digi",
+        "Device": "Digi Connect SP,Digi Connect Wi-SP,Digi Connect ME,Digi Connect ME 4 MB,Digi Connect Wi-ME,Digi Connect EM,Digi Connect Wi-EM",
+        "Default password": "root:dbps",
+        "Port": "80/tcp",
+        "Device type": "Network Device Server Module",
+        "Protocol": "http",
+        "Source": "http://ftp1.digi.com/support/documentation/90000565_P1.pdf"
+    },
+    {
+        "Vendor": "Digi",
+        "Device": "Digi Connect ES 4/8 SB with Switch, Digi Connect ES 4/8 SB",
+        "Default password": "root:dbps",
+        "Port": "80/tcp",
+        "Device type": "Concentrator",
+        "Protocol": "http",
+        "Source": "http://ftp1.digi.com/support/documentation/90000565_P1.pdf"
+    },
+    {
+        "Vendor": "Digi",
+        "Device": "ConnectPort TS 4x4, ConnectPort TS 4x2, ConnectPort TS W, ConnectPort TS 8, ConnectPort TS 8 MEI, ConnectPort TS 16",
+        "Default password": "root:dbps",
+        "Port": "80/tcp",
+        "Device type": "Terminal Server",
+        "Protocol": "http",
+        "Source": "http://ftp1.digi.com/support/documentation/90000565_P1.pdf"
+    },
+    {
+        "Vendor": "Digi",
+        "Device": "Digi Connect WAN, Digi Connect WAN GPRS, Digi Connect WAN GSM-R, Digi Connect WAN VPN, Digi Connect WAN IA, Digi Connect WAN 3G, Digi Connect WAN 3G IA, Digi Connect WAN 4G",
+        "Default password": "root:dbps",
+        "Port": "80/tcp",
+        "Device type": "Industrial router",
+        "Protocol": "http",
+        "Source": "http://www.acspl.com.au/Manuals/digi_Wan.pdf"
+    },
+    {
+        "Vendor": "Digi",
+        "Device": "Digi TransPort WR21/WR44",
+        "Default password": "username:password",
+        "Port": "80/tcp",
+        "Device type": "Industrial router",
+        "Protocol": "http",
+        "Source": "http://ftp1.digi.com/support/documentation/transport/assets/guides/IG_Digi_WR21.pdf"
+    },
+    {
+        "Vendor": "Digi",
+        "Device": "Digi CM",
+        "Default password": "root:dbps",
+        "Port": "console port (9600, 8, N, 1)",
+        "Device type": "Industrial router",
+        "Source": "http://ftp1.digi.com/support/documentation/90000300_E.pdf"
+    },
+    {
+        "Vendor": "Digi",
+        "Device": "DigiOne IAP Serial",
+        "Default password": "root:dbps",
+        "Port": "80/tcp",
+        "Device type": "Gateway",
+        "Protocol": "http",
+        "Source": "http://web-material3.yokogawa.com/IMMW100EIP.pdf"
+    },
+    {
+        "Vendor": "Echelon",
+        "Device": "i.LON SmartServer",
+        "Default password": "for ftp and lns servers:, ilon:ilon",
+        "Device type": "router",
+        "Protocol": "ftp, L2TP",
+        "Source": "http://www.unicom-bg.com/pdf/systemintegration/iLONproducts/i.LON_SmartServer_Freely_Programmable_Modules_User_Guide.pdf"
+    },
+    {
+        "Vendor": "Electro Industries/GaugeTech",
+        "Device": "Nexus 1500+, Nexus 1500",
+        "Default password": "anonymous:anonymous",
+        "Port": "80/tcp",
+        "Device type": "Power Quality Meter",
+        "Protocol": "HTTP",
+        "Source": "http://www.electroind.com/products/Nexus_1500+/pdf/manuals/Nexus%201500+%20Power%20Quality%20Meter%20User%20Manual%20V.1.01_E154713.pdf, http://www.electroind.com/products/Nexus_1500/pdf/manuals/Nexus%201500%20Transient%20Recording%20Power%20Quality%20Rev"
+    },
+    {
+        "Vendor": "Electro Industries/GaugeTech",
+        "Device": "Communicator EXT 3.0",
+        "Default password": "eignet:inp100",
+        "Port": "80/tcp",
+        "Device type": "Power Monitoring Software",
+        "Protocol": "HTTP",
+        "Source": "http://www.electroind.com/pdf/11_13_12_pdf/E107707_ComEXT_Manual.pdf"
+    },
+    {
+        "Vendor": "Emerson",
+        "Device": "DeltaV Digital Automation System",
+        "Default password": "Administrator:deltav",
+        "Device type": "Automation System",
+        "Source": "http://www.chem.mtu.edu/chem_eng/current/new_courses/CM4120/2009/Getting%20Started.pdf"
+    },
+    {
+        "Vendor": "Emerson",
+        "Device": "Liebert IntelliSlot Web Card",
+        "Default password": "Liebert:Liebert, User:User",
+        "Port": "23/tcp",
+        "Device type": "Web Card",
+        "Protocol": "telnet",
+        "Source": "http://www.emersonnetworkpower.com/documentation/en-us/products/monitoring/documents/sl-52615.pdf"
+    },
+    {
+        "Vendor": "Emerson",
+        "Device": "Smart Wireless Gateway 1420",
+        "Default password": "admin:default, maint:default, oper:default, exec:default",
+        "Port": "80/tcp",
+        "Device type": "Wireless Gateway",
+        "Protocol": "http",
+        "Source": "http://www2.emersonprocess.com/siteadmincenter/PM%20Rosemount%20Documents/00809-0200-4420.pdf"
+    },
+    {
+        "Vendor": "Emerson",
+        "Device": "Network Power MPH2 Rack PDU",
+        "Default password": "admin:admin",
+        "Port": "80/tcp",
+        "Device type": "Rack PDUs",
+        "Protocol": "http",
+        "Source": "https://community.emerson.com/networkpower/support/avocent/power/mph2/m/mediagallery/3093"
+    },
+    {
+        "Vendor": "Emerson",
+        "Device": "UL33 UPS",
+        "Default password": "123456",
+        "Device type": "UPS",
+        "Protocol": "Serial",
+        "Source": "http://www.emersonnetworkpower-partner.com/ArticleDocuments/4091/UL33%20User%20Manual%20Communication.doc.aspx"
+    },
+    {
+        "Vendor": "Emerson",
+        "Device": "Control Link Refrigeration System Controller",
+        "Default password": "0",
+        "Device type": "Controller",
+        "Source": "http://foodservice.structuralconcepts.com/media/com_sccmanager/temp-controller-info/emerson-control-link-cpc-controller.pdf"
+    },
+    {
+        "Vendor": "Emerson",
+        "Device": "UltraSite",
+        "Default password": "User 01:100, User 05:200, User 09:300, Engineer:400",
+        "Device type": "Software",
+        "Source": "http://www.emersonclimate.com/Documents/Retail%20Solutions/Manuals/0261004Rev1.pdf"
+    },
+    {
+        "Vendor": "Emerson",
+        "Device": "Avocent ACS 6000 Advanced Console Server",
+        "Default password": "admin:avocent, root:linux",
+        "Device type": "Console Server",
+        "Protocol": "console port, with Telnet, SSH",
+        "Source": "http://pcs.mktg.avocent.com/@@content/manual/590767501h.pdf"
+    },
+    {
+        "Vendor": "Emerson",
+        "Device": "ROCLINK 800",
+        "Default password": "LOI:1000",
+        "Device type": "Software",
+        "Protocol": "Console",
+        "Source": "http://www.documentation.emersonprocess.com/groups/public/documents/instruction_manuals/d301159x012.pdf"
+    },
+    {
+        "Vendor": "Emerson",
+        "Device": "ControlWave Micro Quick",
+        "Default password": "for download project:, SYSTEM:666666",
+        "Device type": "PLC",
+        "Source": "http://www.documentation.emersonprocess.com/groups/public/documents/users_guide/d301425x012.pdf"
+    },
+    {
+        "Vendor": "Emerson",
+        "Device": "IP-KVM Avocent MergePoint Unity",
+        "Default password": "Admin:blank",
+        "Device type": "Switch",
+        "Protocol": "local, HTTP",
+        "Source": "http://community.emerson.com/networkpower/support/avocent/kvmip/mpunity/w/wiki-mergepoint-unity/363.default-user-name-and-password-for-the-mergepoint-unity-kvm-over-ip-appliance"
+    },
+    {
+        "Vendor": "Emerson",
+        "Device": "Ovation DCS",
+        "Default password": "wdpf",
+        "Device type": "Switch for Distributed Control System",
+        "Protocol": "Telnet",
+        "Source": "https://supportforums.cisco.com/sites/default/files/legacy/0/3/9/11930-cs2.txt"
+    },
+    {
+        "Vendor": "Emerson",
+        "Device": "Ovation DCS",
+        "Default password": "SNMP community string wdpfRO",
+        "Device type": "Switch for Distributed Control System",
+        "Protocol": "SNMP",
+        "Source": "https://supportforums.cisco.com/sites/default/files/legacy/0/3/9/11930-cs2.txt"
+    },
+    {
+        "Vendor": "Endress+Hauser",
+        "Device": "Fieldgate FXA520",
+        "Default password": "super:super",
+        "Port": "80/tcp",
+        "Device type": "Gateway for remote monitoring and diagnosis",
+        "Protocol": "HTTP",
+        "Source": "https://portal.endress.com/wa001/dla/5000241/6638/000/03/BA00051SEN_1514.pdf"
+    },
+    {
+        "Vendor": "ENTES",
+        "Device": "EMG-10, EMG-02 , EMG-12",
+        "Default password": "emg12 (for EMG12), emg10 (for EMG10), emg02 (for EMG02)",
+        "Port": "80/tcp",
+        "Device type": "MODBUS Gateway",
+        "Protocol": "http",
+        "Source": "http://www.entes.com.tr/dosyalar/EMG_Series_EN-ver_2_2.pdf"
+    },
+    {
+        "Vendor": "eWON",
+        "Device": "all",
+        "Default password": "adm:adm",
+        "Port": "80/tcp",
+        "Device type": "Router",
+        "Protocol": "http",
+        "Source": "http://ewon.biz/sites/default/files/aug-004-0-en-ewon_getting_started.pdf"
+    },
+    {
+        "Vendor": "General Electric Intelligent Platforms",
+        "Device": "IC695PNC001",
+        "Default password": "admin:system",
+        "Port": "23/tcp (telnet) or USB",
+        "Device type": "PROFINET Controller",
+        "Protocol": "telnet",
+        "Source": "http://platforma.astor.com.pl/files/getfile/id/6314"
+    },
+    {
+        "Vendor": "General Electric Intelligent Platforms",
+        "Device": "IC695ECM850",
+        "Default password": "admin:system",
+        "Port": "23/tcp (telnet) or USB",
+        "Device type": "IEC 61850 Client",
+        "Protocol": "telnet",
+        "Source": "http://platforma.astor.com.pl/files/getfile/id/6314, as referenced by http://www.pdfsupply.com/pdfs/gfk-2849.pdf"
+    },
+    {
+        "Vendor": "General Electric Intelligent Platforms",
+        "Device": "IC695ETM001, IC695CPE305, IC695CPE310, IC695CPE330, IC698ETM001, IC698CPE010, IC698CPE020, IC698CRE020, IC698CPE030, IC698CPE040, IC698CRE030, IC698CRE040",
+        "Default password": "system",
+        "Port": "18245/udp",
+        "Device type": "Ethernet module/programmable controller",
+        "Source": "http://platforma.astor.com.pl/files/getfile/id/7823"
+    },
+    {
+        "Vendor": "General Electric Intelligent Platforms",
+        "Device": "IC698CPE030, IC698CPE040, IC698CRE030, IC698CRE040",
+        "Default password": "user:system",
+        "Port": "21/tcp",
+        "Device type": "Programmable controller with built-in web server",
+        "Protocol": "ftp",
+        "Source": "http://platforma.astor.com.pl/files/getfile/id/9043"
+    },
+    {
+        "Vendor": "Helmholz Systeme",
+        "Device": "NETLink PRO HW 1-1a-1 and FW 1. 54 and higher",
+        "Default password": "NETLink PRO PoE:admin",
+        "Device type": "Ethernet Gateway for MPI/PROFIBUS",
+        "Protocol": "HTTP",
+        "Source": "https://www.helmholz.com/dnl/NETLink_PRO_PoE_QSG_v2_en.pdf"
+    },
+    {
+        "Vendor": "Hirschmann",
+        "Device": "RS20/RS30, MICE",
+        "Default password": "user:public, admin:private",
+        "Port": "80/tcp",
+        "Device type": "Switch",
+        "Protocol": "http",
+        "Source": "http://www.wwsinternational.com.au/Hirschmann/pdf/quickstart.pdf;, Hirschmann MICE.pdf"
+    },
+    {
+        "Vendor": "Hirschmann",
+        "Device": "RSP 20/25/30/35",
+        "Default password": "user:public, admin:private",
+        "Port": "23/tcp (telnet)",
+        "Device type": "Industrial router",
+        "Protocol": "telnet",
+        "Source": "http://www.prosoft.ru/cms/f/456864.pdf"
+    },
+    {
+        "Vendor": "Hirschmann",
+        "Device": "MACH 4000 Family/MACH 1000 Family/MACH 100 Family/MACH 4002 Family/MACH104 Family Full Gigabit/MACH 1040 Family Full Gigabit",
+        "Default password": "user:public, admin:private",
+        "Device type": "Industrial router",
+        "Source": "Hirschmann MACH1040 Full Gigabit.pdf, Hirschmann MACH4002 Family.pdf, Hirschmann MACH1000 Family.pdf, Hirschmann MACH4000 Family.pdf, http://www.industrialcomms.co.uk/images/pdf/IG_MACH104_02_1210_en.pdf, http://www.industrialcomms.co.uk/images/pdf/IG_MAC"
+    },
+    {
+        "Vendor": "Hirschmann",
+        "Device": "OCTOPUS 8M..., OCTOPUS 16M..., OCTOPUS 24M\u201a\u00c4\u00b6",
+        "Default password": "user:public, admin:private",
+        "Port": "23/tcp",
+        "Device type": "Industrial router",
+        "Protocol": "telnet",
+        "Source": "https://www.neteon.net/media/downloads/IG_Octopus8M16M24M_PoETrain_02_0708_en_1.pdf"
+    },
+    {
+        "Vendor": "HollySys Automation Technologies",
+        "Device": "LK SERIES PLC",
+        "Default password": "FTP blank, Telnet blank",
+        "Port": "21/tcp, 23/tcp",
+        "Device type": "PLC",
+        "Protocol": "FTP, Telnet",
+        "Source": "http://plcscan.org/blog/2014/12/hollysys-lk-series-plc-system-default-password-vulnerability/"
+    },
+    {
+        "Vendor": "IBM",
+        "Device": "2210",
+        "Default password": "def:trade",
+        "Device type": "Multiprotocol Router",
+        "Source": "http://www.governmentsecurity.org/_/articles/default-logins-and-passwords-for-networked-devices.html"
+    },
+    {
+        "Vendor": "Kostal Solar",
+        "Device": "PIKO-Inverter 3.0, 3.6, 4.2, 5.5, 7.0, 8.3, 10.1",
+        "Default password": "pvserver:pvwr",
+        "Port": "80/tcp",
+        "Device type": "solar inverter",
+        "Protocol": "HTTP",
+        "Source": "http://www.kostal-solar-electric.com/Standalone/MediaDispositionViewer.aspx?medid=7a7356e144fd48b0b8557c4249cb35fd"
+    },
+    {
+        "Vendor": "Mitsubishi",
+        "Device": "PLC QnUCPU QnUDVCPU",
+        "Default password": "MELSEC:MELSEC",
+        "Port": "21/tcp",
+        "Device type": "PLC",
+        "Protocol": "FTP, HTTP",
+        "Source": "http://dl.mitsubishielectric.com/dl/fa/document/manual/plc/sh080811eng/sh080811engp.pdf"
+    },
+    {
+        "Vendor": "Mitsubishi",
+        "Device": "PLC QnUCPU QnUDE(H)CPU",
+        "Default password": "QNUDECPU:QNUDECPU",
+        "Port": "21/tcp",
+        "Device type": "PLC",
+        "Protocol": "FTP, HTTP",
+        "Source": "http://dl.mitsubishielectric.com/dl/fa/document/manual/plc/sh080811eng/sh080811engp.pdf"
+    },
+    {
+        "Vendor": "Moxa",
+        "Device": "AirWorks AWK-3131-RCC",
+        "Default password": "admin:root",
+        "Port": "80/tcp",
+        "Device type": "Industrial 802.11n wireless AP/bridge/client",
+        "Protocol": "HTTP",
+        "Source": "http://www.moxa.com/doc/man/AWK-3131-RCC_UM_1e.pdf"
+    },
+    {
+        "Vendor": "Moxa",
+        "Device": "Railway Remote I/O (ioLogik E12xx, ioLogik E15xx)",
+        "Default password": "HTTP on Port 9020 1)none:root, 2)none:none",
+        "Port": "9020/tcp",
+        "Device type": "Remote Ethernet I/O",
+        "Protocol": "HTTP",
+        "Source": "http://www.toolswatch.org/2013/02/new-scada-default-passwords-added-to-dpe-xml-database/"
+    },
+    {
+        "Vendor": "Moxa",
+        "Device": "Cellular Micro RTU Controller (ioLogik W53xx, ioLogik)",
+        "Default password": "administrator:blank, Telnet on port 9900 / 9000 root:root",
+        "Port": "9900/9000/tcp",
+        "Device type": "micro RTU controller",
+        "Protocol": "telnet or serial console",
+        "Source": "http://www.toolswatch.org/2013/02/new-scada-default-passwords-added-to-dpe-xml-database/"
+    },
+    {
+        "Vendor": "Moxa",
+        "Device": "VPort 461 Industrial Video Encoder",
+        "Default password": "admin:admin",
+        "Device type": "Industrial Video Encoder",
+        "Protocol": "telnet",
+        "Source": "http://www.moxa.com/doc/man/VPort_461_UM_2e.pdf"
+    },
+    {
+        "Vendor": "Moxa",
+        "Device": "IA240/241 Embedded computer",
+        "Default password": "telnet root:root, FTP root:blank, PPP root:root, serial console root:root",
+        "Device type": "Embedded computers are designed for industrial, automation applications",
+        "Protocol": "Telnet, FTP, PPP, serial console",
+        "Source": "http://www.toolswatch.org/2013/02/new-scada-default-passwords-added-to-dpe-xml-database/"
+    },
+    {
+        "Vendor": "Moxa",
+        "Device": "OnCell Central Manager",
+        "Default password": "admin:admin",
+        "Port": "8080/tcp",
+        "Device type": "Software",
+        "Protocol": "HTTP",
+        "Source": "http://www.moxa.ru/files/manuals_modems/oncell_central_manager_users_manual_v1.pdf"
+    },
+    {
+        "Vendor": "Moxa",
+        "Device": "EDS-508A/505A Series",
+        "Default password": "admin:",
+        "Device type": "Switch",
+        "Protocol": "telnet or serial console",
+        "Source": "http://www.moxa.com/doc/man/eds-508a_505a_um_4e.pdf"
+    },
+    {
+        "Vendor": "Moxa",
+        "Device": "OnCell G3100 Series",
+        "Default password": "HTTP admin:admin, HTTP Admin:Keep , PAP admin:",
+        "Port": "80/tcp",
+        "Device type": "cellular IP gateways",
+        "Protocol": "Telnet, PAP",
+        "Source": "http://www.moxa.com/doc/man/OnCell_G3100_Series_Users_Manual_v7.pdf"
+    },
+    {
+        "Vendor": "Netcomm Wireless",
+        "Device": "3G21WB (BigPond Firmware), 3G9WB (BigPond Firmware), N3G001W (Netcomm Firmware), NB14WN (Netcomm Firmware), NB5 (Netcomm Firmware), NB5Plus4 (Netcomm Firmware), NB6Plus4 (Netcomm Firmware), NB6Plus4W (Netcomm Firmware), NNB7 (Netcomm Firmware), NB9WMAXX (",
+        "Default password": "admin:admin",
+        "Device type": "Router",
+        "Source": "http://www.pcwintech.com/default-router-modem-passwords2"
+    },
+    {
+        "Vendor": "Netcomm Wireless",
+        "Device": "NB1300 Plus 4 (Netcomm Firmware), NP803N (Netcomm Firmware)",
+        "Default password": "admin:password",
+        "Device type": "Router",
+        "Source": "http://www.pcwintech.com/default-router-modem-passwords2"
+    },
+    {
+        "Vendor": "NOVUS AUTOMATION",
+        "Device": "SuperView",
+        "Default password": "superview:superview",
+        "Device type": "SCADA",
+        "Source": "http://www.novusautomation.com/downloads/Arquivos/v29x_a_manual_superview_english.pdf"
+    },
+    {
+        "Vendor": "Omron IA",
+        "Device": "CJ1M CPU Units with Ethernet Functions",
+        "Default password": "for http ETHERNET, for ftp CONFIDENTIAL",
+        "Port": "80/tcp (http), 21/tcp (ftp)",
+        "Device type": "PLC",
+        "Protocol": "http, ftp",
+        "Source": "http://omronkft.hu/nostree/pdfs/plc/cs1_cj1/w441-e1-03+cj-series-ethernetfunc+opermanual.pdf"
+    },
+    {
+        "Vendor": "Omron",
+        "Device": "NS-Series Programmable Terminals Web Interface (NS12-TS01-V2, NS10-TV01-V2, NS8-TV01-V2, NS5-SQ11-V2, NS5-TQ11-V2 and NS5-MQ11-V2)",
+        "Default password": "default:default",
+        "Port": "80/tcp",
+        "Device type": "Programmable Terminals",
+        "Protocol": "HTTP",
+        "Source": "http://www.omronkft.hu/nostree/pdfs/ns/v100-e1-01.pdf"
+    },
+    {
+        "Vendor": "Ouman",
+        "Device": "EH-net server",
+        "Default password": "admin:admin",
+        "Device type": "HMI Software",
+        "Source": "http://docplayer.fi/509891-Palvelin-eh-net-kayttoonotto-ja-yllapito-www-ouman-fi.html"
+    },
+    {
+        "Vendor": "Phasefale Controls",
+        "Device": "JouleTemp",
+        "Default password": "admin:pass",
+        "Port": "80/tcp",
+        "Device type": "PLC",
+        "Protocol": "HTTP",
+        "Source": "http://phasefale.com.au/wp-content/themes/twentythirteen/docs/JouleRange/JouleTemp/jt_instruction_iss8.pdf"
+    },
+    {
+        "Vendor": "Phoenix Contact",
+        "Device": "Logic+",
+        "Default password": "admin:admin",
+        "Port": "80/tcp",
+        "Device type": "Software",
+        "Protocol": "http",
+        "Source": "https://www.phoenixcontact.com/assets/downloads_ed/global/web_dwl_technical_info/52005213_EN.pdf"
+    },
+    {
+        "Vendor": "Prosoft Technology",
+        "Device": "ICX30-HWC",
+        "Default password": "admin:password",
+        "Port": "80/tcp",
+        "Device type": "Industrial Cellular Gateway",
+        "Protocol": "HTTP",
+        "Source": "http://www.prosoft-technology.com/content/download/8772/168219/version/9/file/ICX30_HWC_User_Manual.pdf"
+    },
+    {
+        "Vendor": "Rockwell Automation / Allen-Bradley",
+        "Device": "1756-EN2TSC",
+        "Default password": "Administrator:admin",
+        "Port": "80/tcp",
+        "Device type": "EtherNet/IP communication module",
+        "Protocol": "HTTP",
+        "Source": "http://literature.rockwellautomation.com/idc/groups/literature/documents/um/enet-um003_-en-p.pdf"
+    },
+    {
+        "Vendor": "Rockwell Automation / Allen-Bradley",
+        "Device": "1734-AENT",
+        "Default password": "admin:password",
+        "Port": "80/tcp",
+        "Device type": "I/O Adapter",
+        "Protocol": "HTTP",
+        "Source": "http://literature.rockwellautomation.com/idc/groups/literature/documents/um/1734-um011_-en-p.pdf"
+    },
+    {
+        "Vendor": "Rockwell Automation / Allen-Bradley",
+        "Device": "1756-EWEB, 1768-EWEB",
+        "Default password": "Administrator:",
+        "Port": "80/tcp",
+        "Device type": "Web Server Module",
+        "Protocol": "HTTP",
+        "Source": "http://literature.rockwellautomation.com/idc/groups/literature/documents/um/enet-um527_-en-p.pdf"
+    },
+    {
+        "Vendor": "Rockwell Automation / Allen-Bradley",
+        "Device": "9300-RADES",
+        "Default password": "HTTP blank:ZYPCOM, Telnet blank:ZYPCOM, FTP uploader:ZYPCOM, CHAP/PAP ppp_user:ZYPCOM",
+        "Port": "80/tcp, 23/tcp, 21/tcp",
+        "Device type": "Industrial Modem",
+        "Protocol": "HTTP, Telnet, FTP, CHAP/PAP",
+        "Source": "http://literature.rockwellautomation.com/idc/groups/literature/documents/um/gmsc10-um004_-en-e.pdf"
+    },
+    {
+        "Vendor": "Rockwell Automation / Allen-Bradley",
+        "Device": "9300-8EDM",
+        "Default password": "HTTP blank:ZYPCOM, Telnet blank:ZYPCOM, FTP uploader:ZYPCOM",
+        "Port": "80/tcp, 23/tcp, 21/tcp",
+        "Device type": "Industrial Switch",
+        "Protocol": "HTTP, Telnet, FTP",
+        "Source": "http://literature.rockwellautomation.com/idc/groups/literature/documents/um/gmsc10-um003_-en-e.pdf"
+    },
+    {
+        "Vendor": "Rockwell Automation / Allen-Bradley",
+        "Device": "MicroLogix 1400 / MicroLogix 1100 Embedded Web Server",
+        "Default password": "guest:guest, administrator:ml1400 (MicroLogix 1400), administrator:ml1100 (MicroLogix 1100)",
+        "Port": "80/tcp",
+        "Device type": "Web Server",
+        "Protocol": "http",
+        "Source": "http://literature.rockwellautomation.com/idc/groups/literature/documents/um/1766-um002_-en-p.pdf, http,http://literature.rockwellautomation.com/idc/groups/literature/documents/um/1763-um002_-en-p.pdf"
+    },
+    {
+        "Vendor": "Rockwell Automation / Allen-Bradley",
+        "Device": "PanelView Plus 6 Graphic Terminals, Firmware 6.10 or later/, PVPlus 6",
+        "Default password": "password",
+        "Device type": "SCADA",
+        "Protocol": "Desktop access",
+        "Source": "http://www.manualsdir.com/manuals/580848/rockwell-automation-2711p-xxxx-panelview-plus-6-terminals-user-manual.html?page=54"
+    },
+    {
+        "Vendor": "SAMSON GROUP",
+        "Device": "TROVIS 5590 Web Module",
+        "Default password": "To read data 1111:1111, To change data 4444:4444",
+        "Device type": "Web Module",
+        "Source": "http://www.samsongroup.net/trovis-app/en-tv-page-102.htm"
+    },
+    {
+        "Vendor": "Samsung",
+        "Device": "Integrated Management System DMS",
+        "Default password": "root:rkwjsdusrnth",
+        "Device type": "Data Management Server",
+        "Source": "http://www.tenable.com/plugins/index.php?view=single&id=53878"
+    },
+    {
+        "Vendor": "Samsung",
+        "Device": "Integrated Management System S-NET mini",
+        "Default password": "DMS Connection 0000 or 1234",
+        "Device type": "S-NET IMS",
+        "Source": "http://dvmdownload.com/controls/central-control-options/mst-s3w/technical-tip/SNET%20MINI%20MST-S3W%20SETUP_1%2017%202012.pdf"
+    },
+    {
+        "Vendor": "Schneider Electric",
+        "Device": "PowerLogic Series 800 Power Meter",
+        "Default password": "0",
+        "Device type": "PLC",
+        "Source": "http://www.powerlogic.com/literature/63230-500-282A1_PM8_Install_Guide.pdf"
+    },
+    {
+        "Vendor": "Schneider Electric",
+        "Device": "PowerLogic ION7550 / ION7650 / ION8650 Energy and power meter",
+        "Default password": "0",
+        "Device type": "Energy and power meter",
+        "Source": "http://www2.schneider-electric.com/library/SCHNEIDER_ELECTRIC/SE_LOCAL/APS/209510_35F6/8650_Install_Guide.pdf, http://azzo.com.au/wp-content/uploads/2015/08/ION7550-RTU-UserGuide.pdf"
+    },
+    {
+        "Vendor": "Schneider Electric",
+        "Device": "PowerLogic Ethernet Gateway EGX300 / EGX100",
+        "Default password": "Administrator:Gateway",
+        "Port": "80/tcp",
+        "Device type": "Integrated gateway-server",
+        "Protocol": "http",
+        "Source": "http://azzo.com.au/wp-content/uploads/2015/05/PowerLogic-EGX300-Users-Guide.pdf"
+    },
+    {
+        "Vendor": "Schneider Electric",
+        "Device": "POWERLOGIC EGX200 / EGX400 with firmware version 5.5 or higher",
+        "Default password": "Administrator:admin, User 1:master, User 2:engineer, User 3:operator",
+        "Port": "80/tcp",
+        "Device type": "gateway-server",
+        "Protocol": "http",
+        "Source": "http://www.powerlogic.com/literature/63230-314-208A3.pdf"
+    },
+    {
+        "Vendor": "Schneider Electric",
+        "Device": "Modicon Quantum",
+        "Default password": "ftpuser/password, qbf77101/hexakisoctahedron, USER:USER",
+        "Port": "21/tcp, 23/tcp, 80/tcp",
+        "Device type": "PLC",
+        "Protocol": "HTTP, FTP, Telnet",
+        "Source": "http://www.digitalbond.com/tools/basecamp/schneider-modicon-quantum/, http://www.schneider-electric.cn/downloads//85257689000007EE/All/01507367599A9DC985257871005F4B3D/$File/EIO0000000121EN.pdf"
+    },
+    {
+        "Vendor": "Schneider Electric",
+        "Device": "Modicon M340 for Ethernet",
+        "Default password": "ntpupdate:ntpupdate (Using an FTP client, store your rules in the file:, /FLASH0/wwwroot/conf/NTP/customrules), USER:USER (FTP Setup page via HTTP, HTTP credentials), sysdiag:factorycast@schneider (FTP)",
+        "Port": "21/tcp, 80/tcp",
+        "Device type": "PLC",
+        "Protocol": "FTP, HTTP",
+        "Source": "https://dariusfreamon.wordpress.com/2013/12/08/schneider-modicon-m340-for-ethernet-multiple-default-credentials/, https://github.com/ITI/ICS-Security-Tools/blob/master/configurations/passwords/ics-default-passwords.csv"
+    },
+    {
+        "Vendor": "Schneider Electric",
+        "Device": "Modicon Premium",
+        "Default password": "FTP sysdiag:factorycast@schneider, HTTP USER:USER",
+        "Port": "21/tcp, 80/tcp",
+        "Device type": "PLC",
+        "Protocol": "FTP, HTTP",
+        "Source": "https://github.com/ITI/ICS-Security-Tools/blob/master/configurations/passwords/ics-default-passwords.csv"
+    },
+    {
+        "Vendor": "Schneider Electric",
+        "Device": "PM8000, PM8240, PM8243, PM8244",
+        "Default password": "Physical 0, FTP 8000:",
+        "Port": "21/tcp, 80/tcp",
+        "Device type": "PLC",
+        "Protocol": "FTP, HTTP",
+        "Source": "http://www2.schneider-electric.com/sites/corporate/en/support/faq/faq_main.page?page=content&country=APS_GLOBAL&lang=en&locale=en_US&id=FA243275&redirect=true"
+    },
+    {
+        "Vendor": "Schneider Electric",
+        "Device": "TSX ETG 1000",
+        "Port": "21 TCP",
+        "Device type": "PLC",
+        "Protocol": "FTP, PAP, HTTP",
+        "Source": "http://www.is-com.ru/files/net_tsxetg1000.pdf"
+    },
+    {
+        "Vendor": "Schneider Electric",
+        "Device": "ETG100",
+        "Default password": "Administrator:Gateway",
+        "Device type": "PLC",
+        "Source": "http://www.schneider-electric.co.in/sites/india/en/support/faq/main_faq.page?page=content&country=IN&lang=en&id=FA138738&locale=en_US&redirect=true"
+    },
+    {
+        "Vendor": "Schneider Electric",
+        "Device": "M258",
+        "Default password": "adm:adm",
+        "Port": "80/tcp",
+        "Device type": "PLC",
+        "Protocol": "http",
+        "Source": "http://ewon.biz/sites/default/files/aug-054-0-en-remote_access_for_schneider_m258_plcs.pdf"
+    },
+    {
+        "Vendor": "Schneider Electric",
+        "Device": "Quantum NOE 771 xx",
+        "Default password": "FTP and HTTP Service USER:USER",
+        "Port": "21/tcp, 80/tcp",
+        "Device type": "Ethernet Modules",
+        "Protocol": "ftp, http",
+        "Source": "https://igate.alamedaelectric.com/Modicon%20Documents/PLC%20Quantum%20PLC%20NOE771xx%20User%20Manual%20v5.0.pdf"
+    },
+    {
+        "Vendor": "Siemens",
+        "Device": "Simatic S7-300 (pre-2009 versions)",
+        "Default password": "Hardcoded password Basisk:Basisk",
+        "Port": "23/tcp, 80/tcp",
+        "Device type": "PLC",
+        "Protocol": "telnet. Http",
+        "Source": "http://www.wired.com/2011/08/siemens-hardcoded-password/"
+    },
+    {
+        "Vendor": "Siemens",
+        "Device": "Simatic S7-1200 / S7-1500",
+        "Default password": "admin:blank",
+        "Port": "80/tcp",
+        "Device type": "PLC",
+        "Protocol": "HTTP",
+        "Source": "https://www.dmcinfo.com/latest-thinking/blog/id/8567/siemens-s7-1200-web-server-tutorial--from-getting-started-to-html5-user-defined-pages"
+    },
+    {
+        "Vendor": "Siemens",
+        "Device": "Scalance X-200, W788-1PRO, W788-2PRO, etc.",
+        "Default password": "admin:admin (HTTP), user:user (HTTP), siemens:siemens (FTP)",
+        "Port": "tcp/80",
+        "Device type": "Industrial Wireless LAN, Industrial Ethernet Switches",
+        "Protocol": "HTTP, FTP",
+        "Source": "http://dariusfreamon.wordpress.com/2013/10/02/siemens-scalance-x-industrial-ethernet-switches/, https://cache.industry.siemens.com/dl/files/728/25508728/att_4008/v1/BA_SCALANCE-X-200_76.pdf, https://www.acunetix.com/vulnerabilities/network/vulnerability/s"
+    },
+    {
+        "Vendor": "Siemens",
+        "Device": "Synco living Web server OZW772 V2.0",
+        "Default password": "Administrator:Password",
+        "Port": "80/tcp",
+        "Device type": "Web-server",
+        "Protocol": "HTTP",
+        "Source": "http://www.toolswatch.org/2013/02/new-scada-default-passwords-added-to-dpe-xml-database/"
+    },
+    {
+        "Vendor": "Siemens",
+        "Device": "Siemens WinCC 7.x",
+        "Default password": "winccd:winccpass, wincce:winccpass, DMUser:Data&Pass, Administrator:Administrator",
+        "Device type": "HMI Software",
+        "Source": "http://www.toolswatch.org/2013/02/new-scada-default-passwords-added-to-dpe-xml-database/"
+    },
+    {
+        "Vendor": "Siemens",
+        "Device": "Ruggedcom RMC30",
+        "Default password": "admin:admin, operator:operator, guest:guest",
+        "Port": "80/tcp",
+        "Device type": "Industrial router",
+        "Protocol": "HTTP",
+        "Source": "http://www2.schneider-electric.com/resources/sites/SCHNEIDER_ELECTRIC/content/live/FAQS/239000/FA239168/en_US/ROS_RMC30_User-Guide_EN.pdf"
+    },
+    {
+        "Vendor": "Siemens",
+        "Device": "RUGGEDCOM ROX II for RX1500, RX1501, RX1510, RX1511, RX1512",
+        "Default password": "root:admin (service), admin:admin (administrator), oper:oper (operator), guest:guest (guest)",
+        "Device type": "Ethernet Switches Layer 3 / Routers",
+        "Source": "https://cache.industry.siemens.com/dl/files/287/81194287/att_837966/v1/ROXII_v2.6_RX1500_User-Guide_CLI_EN.pdf"
+    },
+    {
+        "Vendor": "Siemens",
+        "Device": "RuggedSwitch RS8000 / RS1600 / RS900",
+        "Default password": "admin",
+        "Device type": "Industrial router",
+        "Protocol": "RS232",
+        "Source": "http://www.techsalesnw.com/oldwebsite/products/ethernet/rc_files/RuggedSwitch%20User%20Guide%20v1.5.1.pdf"
+    },
+    {
+        "Vendor": "Siemens",
+        "Device": "Siemens Climatix",
+        "Default password": "Level 6 End users 1000 (Physical), Level 4 Service operator 2000 (Physical), Level 2 OEM 6000 (Physical), Web ADMIN:SBTAdmin!",
+        "Port": "80/tcp",
+        "Device type": "PLC",
+        "Protocol": "HTTP",
+        "Source": "http://www.ivprodukt.se/documents/ivprodukt/documents/styr%20climatix/basis%20document%20climatix%20control%20system%20bdcx.100820.01.gb.pdf"
+    },
+    {
+        "Vendor": "Sierra Wireless",
+        "Device": "AirLink",
+        "Default password": "sconsole:12345",
+        "Port": "12345/tcp, 2332/tcp",
+        "Device type": "3G/4G gateway",
+        "Protocol": "telnet, ssh",
+        "Source": "official documentation"
+    },
+    {
+        "Vendor": "Sierra Wireless",
+        "Device": "AirLink",
+        "Default password": "user:12345, viewer:12345",
+        "Port": "9191/tcp",
+        "Device type": "3G/4G gateway",
+        "Protocol": "http",
+        "Source": "official documentation"
+    },
+    {
+        "Vendor": "Stulz GmbH",
+        "Device": "Stulz WIB 8000",
+        "Default password": "Administrator, highest authorization:, ganymed, Medium authorization:, kallisto, Lowest authorization:, europa",
+        "Device type": "PLC",
+        "Source": "https://dariusfreamon.wordpress.com/2013/09/07/stulz-wib-8000-air-conditioning-web-interface-board-multiple-vulnerabilities/"
+    },
+    {
+        "Vendor": "TAC AB",
+        "Device": "TAC Xenta 500/700/911/913, TAC Xenta 511, TAC Xenta 527,",
+        "Default password": "root:root",
+        "Device type": "PLC",
+        "Source": "http://www.xref.be/dpdf/tac_xenta911_xenta511_manuel_uk.pdf"
+    },
+    {
+        "Vendor": "Tecomat",
+        "Device": "Tecomat Foxtrot",
+        "Default password": "0:0 (role 0) , 1:1 (role 1), 2:2 (role 2), 3:3 (role 3), 4:4 (role 4), 5:5 (role 5), 6:6 (role 6), 7:7 (role 7), 8:8 (role 8), 9:9 (role 9)",
+        "Device type": "PLC",
+        "Source": "http://dsec.ru/ipm-research-center/notification-of-vulnerabilities/tecomat_plc_paroli_po_umolchaniyu/"
+    },
+    {
+        "Vendor": "Tridium",
+        "Device": "NiagaraAX",
+        "Default password": "tridium:niagara",
+        "Device type": "Software for JACE-2, JACE-403 or JACE-545",
+        "Source": "http://www.hvacc.net/pdf/tridium/docs_3.2.16/docJaceStartup/docJaceStartup.pdf"
+    },
+    {
+        "Vendor": "Turck",
+        "Device": "BL20-E-GW-EN, BL67-E-GW-EN",
+        "Default password": "HTTP password, FTP (unspecified hardcoded)",
+        "Port": "21/tcp, 80/tcp",
+        "Device type": "PLC",
+        "Protocol": "http",
+        "Source": "http://pdb.turck.de/media/_in/Anlagen/D301173.pdf,http://ics-cert.us-cert.gov/advisories/ICSA-13-136-01"
+    },
+    {
+        "Vendor": "Wago",
+        "Device": "WAGO-I/O-SYSTEM 750",
+        "Default password": "admin:wago, user:user, guest:guest",
+        "Port": "80/tcp",
+        "Device type": "Controller",
+        "Protocol": "http",
+        "Source": "http://www.wago.spb.ru/upload/information_system_28/3/2/8/item_328/information_items_property_340.pdf"
+    },
+    {
+        "Vendor": "Wago",
+        "Device": "WAGO-I/O-IPC 758-870/000-xxx",
+        "Default password": "http, ftp:, user:user00 , administrator:, su:ko2003wa",
+        "Port": "80/tcp (http)",
+        "Device type": "Compact Industrial PC",
+        "Protocol": "http, ftp",
+        "Source": "http://www.wago.com/wagoweb/documentation/758/eng_manu/870/q07580870_00000000_2en.pdf"
+    },
+    {
+        "Vendor": "Wago",
+        "Device": "Modular I/O-System Linux Fieldbus Coupler 750-860",
+        "Default password": "root:wago , admin:wago, user:user , guest:guest",
+        "Device type": "PLC",
+        "Source": "http://www.wago.com/wagoweb/documentation/750/eng_manu/coupler_controller/m07500860_00000000_0en.pdf"
+    },
+    {
+        "Vendor": "Wellintech",
+        "Device": "KingSCADA 3.0",
+        "Default password": "administrator:administrator (role KVAdministrator)",
+        "Device type": "Software",
+        "Source": "http://www.slideshare.net/DefconRussia/pavel-volobuev-alexander-minozhenko-alexander-polyakov-practical-demonstration-of-typical-attacks-and-0days-in-scada-and-plccontrollers"
+    },
+    {
+        "Vendor": "Westermo",
+        "Device": "TDW 33",
+        "Default password": "no password, just return, Hardcoded password n3Y9kA6otYZu8, (?? TD-36)",
+        "Device type": "Industrial Modem",
+        "Source": "http://www.etitudela.com/entrenadorcomunicaciones/downloads/modemrtbtdw33manual.pdf"
+    },
+    {
+        "Vendor": "Westermo",
+        "Device": "MRD-305-DIN/MRD-310/MRD-315/MRD-330/MRD-355/MRD-350/MRD-455",
+        "Default password": "admin:westermo",
+        "Port": "80/tcp",
+        "Device type": "Industrial router",
+        "Protocol": "http",
+        "Source": "http://www.eternity-sales.com/westermo/files/westermo_ug_6623-2266_mrd-305-DIN_en.pdf, Westermo MRD 330.pdf"
+    },
+    {
+        "Vendor": "Westermo",
+        "Device": "RedFox Series, Wolverine Series, Lynx Series, Falcon Series, Viper Series",
+        "Default password": "admin:westermo",
+        "Port": "80/tcp",
+        "Device type": "Industrial router",
+        "Protocol": "http",
+        "Source": "http://www.westermosales.com/pdfs/westermo_mg_6101-3201_weos.pdf"
+    },
+    {
+        "Vendor": "Wonderware",
+        "Device": "Intouch",
+        "Default password": "Administrator:Wonderware",
+        "Device type": "SCADA",
+        "Source": "http://www.automation-talk.info/2011/01/default-intouch-login-username-password.html"
+    },
+    {
+        "Vendor": "Wonderware",
+        "Device": "Historian",
+        "Default password": "SQL Server Login aadbo:pwddbo, wwdbo:pwddbo, aaAdmin:pwAdmin, wwAdmin:wwAdmin, aaPower:pwPower, wwPower:wwPower, aaUser:pwUser, wwUser:wwUser",
+        "Device type": "SQL Server",
+        "Protocol": "SSMS",
+        "Source": "https://drive.google.com/folderview?id=0B8or_Z9VHNfCeFIwbEY5RUk5SDA&usp=sharing"
+    },
+    {
+        "Vendor": "Wonderware",
+        "Device": "System Platform/Archestra",
+        "Default password": "administrator:blank",
+        "Device type": "Integrated Development Environment",
+        "Source": "https://insource.mindtouch.us/Support_Tickets/Industrial_Application_Server/Installation%2F%2FConfiguration/028076_-_What_is_the_default_Administrator_username_and_password_for_the_Archestra_IDE"
+    },
+    {
+        "Vendor": "Yokogawa",
+        "Device": "YFGW410 gateway",
+        "Default password": "admin:!admin",
+        "Device type": "Wireless Management Station",
+        "Source": "http://www.yokogawa.com/us/support/knowledgebase/i-cannot-login-to-the-yfgw410-gateway-what-is-the-default-username-and-password-of-a-yfgw410-isa100-gateway.htm"
+    },
+    {
+        "Vendor": "Yokogawa",
+        "Device": "DX1000/DX1000N/DX2000 Advanced",
+        "Default password": "Administrator 1:Admin1, Administrator 2:Admin2, ..., Administrator 5:Admin5, User 1:User01, ..., User 90:User90",
+        "Device type": "Software",
+        "Source": "http://web-material3.yokogawa.com/IM04L41B01-05EN_020.pdf"
+    },
+    {
+        "Vendor": "Yokogawa",
+        "Device": "CENTUM CS 3000 DCS",
+        "Default password": "CENTUM:CENTUM",
+        "Device type": "Distributed Control System",
+        "Source": "http://www.allinterview.com/showanswers/170266/having-yokogawa-centum-cs-3000-dcs-2-fcs-4-operation-download-message-appears-eq.html"
+    },
+    {
+        "Vendor": "Yokogawa",
+        "Device": "EJX910A Multivariable Transmitter HART Communication Type",
+        "Default password": "YOKOGAWA. (to release the Write Protect mode),",
+        "Device type": "Multivariable transmitter",
+        "Source": "http://www.controlswarehouse.com/sheets/meriam/EJX910HARTIM01C25R02-01E_001.pdf"
+    },
+    {
+        "Vendor": "Yokogawa",
+        "Device": "WT 3000 Driver",
+        "Default password": "anonymous:blank (Ethernet access)",
+        "Device type": "Precision Power Analyzer",
+        "Source": "http://www.electro-meters.com/Assets/pdf2_files/Yokogawa/Power_meters/WT3000_pdfs/WT3000%20Communication.pdf"
+    },
+    {
+        "Vendor": "SMA Solar Technology AG",
+        "Device": "Sunny Webbox",
+        "Default password": "sma",
+        "Device type": "Photovoltaic System",
+        "Source": "http://www.phototec.at/fileadmin/user_upload/dateien/wechselrichter/sma/Sunny_WebBox/Kurzanleitung_Vista.pdf"
+    },
+    {
+        "Vendor": "Fronius",
+        "Device": "Datalogger Web",
+        "Device type": "Photovoltaic System",
+        "Source": "http://www.fronius.com/cps/rde/xbcr/SID-D3C56209-49153339/fronius_italia/42_0426_0064_DE_168663_snapshot.pdf"
+    },
+    {
+        "Vendor": "Sunways AG",
+        "Device": "sunway",
+        "Default password": "customer:******** (achtmal Stern, eight stars!)",
+        "Device type": "Photovoltaic System",
+        "Source": "http://www.technosun.com/es/descargas/SUNWAYS-guia-actualizacion-software-DE.pdf"
+    },
+    {
+        "Vendor": "Phoenix Contact Cyber Security, Innominate",
+        "Device": "mGuard",
+        "Default password": "root:root, admin:mGuard",
+        "Port": "80/tcp (http)",
+        "Device type": "Industrial Security Router",
+        "Protocol": "ftp, telnet and https",
+        "Source": "https://www.phoenixcontact-cybersecurity.com/data/downloads/manuals/mguard6_cfgsamples.pdf"
+    },
+    {
+        "Vendor": "eQ-3 AG",
+        "Device": "HomeMatic CCU-2",
+        "Default password": "root:MuZhlo9n%8!G",
+        "Port": "22",
+        "Device type": "Smart Home Gateway/Bridge",
+        "Protocol": "ssh",
+        "Source": "https://www.homematic-inside.de/tecbase/homematic/generell/item/zugriff-auf-das-dateisystem-der-ccu-2"
+    },
+    {
+        "Vendor": "3Com",
+        "Device": "CoreBuilder 7000",
+        "Default password": "debug:synnet, tech:tech, n/a:admin",
+        "Port": "23",
+        "Device type": "Switch",
+        "Protocol": "telnet",
+        "Source": "http://www.securityfocus.com/advisories/1101"
+    },
+    {
+        "Vendor": "3Com",
+        "Device": "CoreBuilder 6000",
+        "Default password": "debug:synnet, tech:tech, n/a:admin",
+        "Port": "23",
+        "Device type": "Switch",
+        "Protocol": "telnet",
+        "Source": "http://www.securityfocus.com/advisories/1101"
+    },
+    {
+        "Vendor": "3Com",
+        "Device": "CoreBuilder 3500",
+        "Default password": "debug:synnet, tech:tech, n/a:admin",
+        "Port": "23",
+        "Device type": "Switch",
+        "Protocol": "telnet",
+        "Source": "http://www.securityfocus.com/advisories/1101"
+    },
+    {
+        "Vendor": "3Com",
+        "Device": "CoreBuilder 2500",
+        "Default password": "debug:synnet, tech:tech, n/a:admin",
+        "Port": "23",
+        "Device type": "Switch",
+        "Protocol": "telnet",
+        "Source": "http://www.securityfocus.com/advisories/1101"
+    },
+    {
+        "Vendor": "155",
+        "Device": "CoreBuilder 2500",
+        "Default password": "debug:synnet, tech:tech, n/a:admin",
+        "Port": "23",
+        "Device type": "Switch",
+        "Protocol": "telnet",
+        "Source": "http://www.securityfocus.com/advisories/1101"
+    },
+    {
+        "Vendor": "3Com",
+        "Device": "OfficeConnect 3CR414492",
+        "Default password": "root:!root",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "http",
+        "Source": "https://github.com/vanhauser-thc/thc-hydra/blob/master/dpl4hydra_local.csv"
+    },
+    {
+        "Vendor": "Siemens",
+        "Device": "S7-",
+        "Default password": "Administrator:administrator",
+        "Device type": "Advanced Wind Turbine Controller",
+        "Source": "https://cache.industry.siemens.com/dl/files/138/84047138/att_55642/v1/readme_step7_basic_enus.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "AW 1971",
+        "Default password": "admin:admin",
+        "Device type": "Multiprotocol Router",
+        "Source": "https://modemly.com/login-to-LANCOM"
+    },
+    {
+        "Vendor": "AVIOSYS",
+        "Device": "IP Camera",
+        "Default password": "admin:12345678",
+        "Device type": "IP Camera 9060",
+        "Device IP Adress": "81.174.152.237",
+        "Source": "http://www.elanportal.com/supportdocs/catalog/Aviosys%209060.pdf"
+    },
+    {
+        "Vendor": "ACTi",
+        "Device": "All Models",
+        "Default password": "admin:123456",
+        "Port": "80",
+        "Device type": "IP Camera",
+        "Protocol": "80",
+        "Device IP Adress": "http://192.168.0.100",
+        "Source": "https://www.acti.com/products/cameras"
+    },
+    {
+        "Vendor": "Netatmo",
+        "Device": "Smart Home Weather Station",
+        "Default password": "none:none",
+        "Device type": "Smart Home",
+        "Device IP Adress": "http://station.netatmo.com",
+        "Source": "https://images-eu.ssl-images-amazon.com/images/I/B1w7MdUHg1S.pdf"
+    },
+    {
+        "Vendor": "Alcatel",
+        "Device": "Omni PCX",
+        "Default password": "0000",
+        "Device type": "Base Station",
+        "Source": "https://www.al-enterprise.com/-/media/assets/internet/documents/ipdesktopsoftphone-android-usermanual-alesvc56138-7-en.pdf"
+    },
+    {
+        "Vendor": "Alcatel-Lucent Nokia",
+        "Device": "OmniPCX Enterprise Communication Server",
+        "Default password": "pbxk1064",
+        "Device type": "PBX",
+        "Device IP Adress": "192.168.92.246"
+    },
+    {
+        "Vendor": "Netgear",
+        "Device": "FR314",
+        "Default password": "admin:password",
+        "Device type": "Firewall/Router",
+        "Device IP Adress": "http://192.168.0.1",
+        "Source": "http://www.downloads.netgear.com/files/FR314_QCard_R3.pdf"
+    },
+    {
+        "Vendor": "Netgear",
+        "Device": "RP614v1",
+        "Default password": "admin:password",
+        "Device type": "Router",
+        "Device IP Adress": "http://192.168.0.1",
+        "Source": "https://www.netgear.de/support/product/RP614v1"
+    },
+    {
+        "Vendor": "Netgear",
+        "Device": "RP614v2",
+        "Default password": "admin:password",
+        "Device type": "Router",
+        "Device IP Adress": "http://192.168.0.1",
+        "Source": "https://www.netgear.de/support/product/RP614v2"
+    },
+    {
+        "Vendor": "Netgear",
+        "Device": "RP614v3",
+        "Default password": "admin:password",
+        "Device type": "Router",
+        "Device IP Adress": "http://www.routerlogin.net",
+        "Source": "https://www.netgear.de/support/product/RP614v3"
+    },
+    {
+        "Vendor": "Netgear",
+        "Device": "RP614v4",
+        "Default password": "admin:password",
+        "Device type": "Router",
+        "Device IP Adress": "http://www.routerlogin.net",
+        "Source": "http://www.manualsbase.com/de/manual/240982/network_router/netgear/netgear_network_router_rp614v4_cable_dsl_router/"
+    },
+    {
+        "Vendor": "Netgear",
+        "Device": "MR814v1",
+        "Default password": "admin:password",
+        "Device type": "Router",
+        "Device IP Adress": "http://192.168.0.1",
+        "Source": "https://www.netgear.de/support/product/MR814v1.aspx#docs"
+    },
+    {
+        "Vendor": "Netgear",
+        "Device": "MR814v2",
+        "Default password": "admin:password",
+        "Device type": "Router",
+        "Device IP Adress": "http://192.168.0.1",
+        "Source": "https://www.netgear.de/support/product/MR814v2#docs"
+    },
+    {
+        "Vendor": "Netgear",
+        "Device": "MR814v3",
+        "Default password": "admin:password",
+        "Device type": "Router",
+        "Device IP Adress": "http://www.routerlogin.net",
+        "Source": "https://www.netgear.de/support/product/MR814v3#docs"
+    },
+    {
+        "Vendor": "Netgear",
+        "Device": "RP114",
+        "Default password": "admin:1234",
+        "Device type": "Router",
+        "Device IP Adress": "http://192.168.0.1",
+        "Source": "https://www.netgear.de/support/product/RP114.aspx#docs"
+    },
+    {
+        "Vendor": "Netgear",
+        "Device": "MR314",
+        "Default password": "admin:1234",
+        "Device type": "Router",
+        "Device IP Adress": "http://192.168.0.1",
+        "Source": "https://www.netgear.de/support/product/MR314.aspx#docs"
+    },
+    {
+        "Vendor": "Netgear",
+        "Device": "RM356",
+        "Default password": "none:1234",
+        "Device type": "Router",
+        "Device IP Adress": "http://192.168.0.1",
+        "Source": "https://www.netgear.de/support/product/rm356.aspx#docs"
+    },
+    {
+        "Vendor": "Netgear",
+        "Device": "DG632",
+        "Default password": "admin:password",
+        "Device type": "Router",
+        "Device IP Adress": "http://192.168.0.1",
+        "Source": "https://www.netgear.de/support/product/DG632.aspx#docs"
+    },
+    {
+        "Vendor": "Netgear",
+        "Device": "DM602",
+        "Default password": "admin:password",
+        "Device type": "Router",
+        "Device IP Adress": "http://192.168.0.1",
+        "Source": "https://www.netgear.de/support/product/DM602.aspx#docs"
+    },
+    {
+        "Vendor": "Netgear",
+        "Device": "WGR614",
+        "Default password": "admin:password",
+        "Device type": "Router",
+        "Device IP Adress": "http://192.168.0.1",
+        "Source": "https://www.netgear.de/support/product/WGR614v1"
+    },
+    {
+        "Vendor": "Netgear",
+        "Device": "WGR614",
+        "Default password": "admin:password",
+        "Device type": "Router",
+        "Device IP Adress": "http://192.168.0.1",
+        "Source": "https://www.netgear.de/support/product/WGR614v1"
+    },
+    {
+        "Vendor": "Netgear",
+        "Device": "WGR614",
+        "Default password": "admin:password",
+        "Device type": "Router",
+        "Device IP Adress": "http://www.routerlogin.net",
+        "Source": "https://www.netgear.de/support/product/WGR614v5"
+    },
+    {
+        "Vendor": "Netgear",
+        "Device": "RT314",
+        "Default password": "admin:1234",
+        "Device type": "Router",
+        "Device IP Adress": "http://192.168.0.1",
+        "Source": "https://www.netgear.de/support/product/RT314.aspx#docs"
+    },
+    {
+        "Vendor": "BinTec Elmeg",
+        "Device": "R230a, R230aw, R232b, R232bw",
+        "Default password": "admin:funkwerk",
+        "Device type": "Router",
+        "Device IP Adress": "http://192.168.0.254",
+        "Source": "ftp://ftp.bintec-elmeg.com/Weitere_Downloads/Documentation/attic/r_series/r232x_w/manual_v20_de/pdfs/r_quickreference_de.pdf"
+    },
+    {
+        "Vendor": "D-Link",
+        "Device": "DI-604",
+        "Default password": "admin:none",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.0.1",
+        "Source": "https://eu.dlink.com/de/de/products/di-604-4-port-broadband-router?revision=de_revd#downloads"
+    },
+    {
+        "Vendor": "D-Link",
+        "Device": "DI-624",
+        "Default password": "admin:none",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.0.1",
+        "Source": "https://eu.dlink.com/de/de/products/di-624-high-speed-2-4ghz-802-11-wireless-108mbps-router?revision=deu_revh#downloads"
+    },
+    {
+        "Vendor": "D-Link",
+        "Device": "DWL-1000AP",
+        "Default password": "admin:none",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.0.50",
+        "Source": "https://eu.dlink.com/de/de/products/dwl-1000ap-802-1x-secure-wireless-access#support"
+    },
+    {
+        "Vendor": "D-Link",
+        "Device": "DFL-210",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Firewall",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.1",
+        "Source": "https://eu.dlink.com/de/de/products/dfl-210-network-security-firewall-soho#support"
+    },
+    {
+        "Vendor": "D-Link",
+        "Device": "DIS\u2011700G\u201128XS",
+        "Default password": "admin:admin",
+        "Device type": "Industrial Layer 2+ Switch",
+        "Device IP Adress": "10.90.90.90",
+        "Source": "https://eu.dlink.com/de/de/products/dis-700g-28xs"
+    },
+    {
+        "Vendor": "D-Link",
+        "Device": "DI-524",
+        "Default password": "admin:none",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.0.1",
+        "Source": "https://eu.dlink.com/de/de/products/di-524-high-speed-2-4ghz-802-11g-wireless-router?revision=deu_revg#downloads"
+    },
+    {
+        "Vendor": "D-Link",
+        "Device": "DWL\u2011900AP+",
+        "Default password": "admin:none",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.0.50",
+        "Source": "https://eu.dlink.com/de/de/products/dwl-900applus-22mbps-802-11b-wireless-access-point?revision=deu_revc#downloads"
+    },
+    {
+        "Vendor": "D-Link",
+        "Device": "DWL\u20112100AP",
+        "Default password": "admin:none",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.0.50",
+        "Source": "https://eu.dlink.com/de/de/products/dwl-2100ap-xtremeg-108m-wireless-access-point#support"
+    },
+    {
+        "Vendor": "D-Link",
+        "Device": "DAP\u20112610",
+        "Default password": "admin:none",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.0.50",
+        "Source": "https://eu.dlink.com/de/de/products/dap-2610-wireless-ac1300-wave-2-dualband-poe-access-point"
+    },
+    {
+        "Vendor": "D-Link",
+        "Device": "DAP\u20112680",
+        "Default password": "admin:none",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.0.50",
+        "Source": "https://eu.dlink.com/de/de/products/dap-2680-wireless-ac1750-wave-2-dualband-poe-access-point"
+    },
+    {
+        "Vendor": "D-Link",
+        "Device": "DAP\u20113662",
+        "Default password": "admin:none",
+        "Port": "80",
+        "Device type": "Outdoor Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.0.50",
+        "Source": "https://eu.dlink.com/de/de/products/dap-3662-wireless-ac1200-concurrent-dual-band-outdoor-poe-access-point"
+    },
+    {
+        "Vendor": "D-Link",
+        "Device": "DWL\u20118620AP",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://10.90.90.91",
+        "Source": "https://eu.dlink.com/de/de/products/dwl-8620ap-wireless-ac2600-wave-2-dualband-unified-access-point"
+    },
+    {
+        "Vendor": "D-Link",
+        "Device": "DCS\u20114705E",
+        "Default password": "admin:none",
+        "Device type": "IP Camera",
+        "Device IP Adress": "192.168.0.20",
+        "Source": "https://eu.dlink.com/de/de/products/dcs-4705e-vigilance-5megapixel-outdoor-mini-bullet-camera"
+    },
+    {
+        "Vendor": "D-Link",
+        "Device": "DCS\u20114703E",
+        "Default password": "admin:none",
+        "Device type": "IP Camera",
+        "Device IP Adress": "192.168.0.20",
+        "Source": "https://eu.dlink.com/de/de/products/dcs-4703e-vigilance-full-hd-outdoor-poe-mini-bullet-camera"
+    },
+    {
+        "Vendor": "D-Link",
+        "Device": "DCS\u20114701E",
+        "Default password": "admin:none",
+        "Device type": "IP Camera",
+        "Device IP Adress": "192.168.0.20",
+        "Source": "https://eu.dlink.com/de/de/products/dcs-4701e-hd-outdoor-mini-bullet-camera"
+    },
+    {
+        "Vendor": "D-Link",
+        "Device": "DCS\u20114602EV",
+        "Default password": "admin:none",
+        "Port": "80",
+        "Device type": "IP Camera",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.0.20",
+        "Source": "https://eu.dlink.com/de/de/products/dcs-4602ev-full-hd-outdoor-vandal-proof-poe-dome-camera?revision=de_revb#downloads"
+    },
+    {
+        "Vendor": "D-Link",
+        "Device": "DCS\u20114603",
+        "Default password": "admin:none",
+        "Device type": "IP Camera",
+        "Device IP Adress": "192.168.0.20",
+        "Source": "https://eu.dlink.com/de/de/products/dcs-4603-full-hd-poe-dome-camera"
+    },
+    {
+        "Vendor": "D-Link",
+        "Device": "DCS\u20114802E",
+        "Default password": "admin:none",
+        "Device type": "IP Camera",
+        "Device IP Adress": "192.168.0.20",
+        "Source": "https://eu.dlink.com/de/de/products/dcs-4802e-full-hd-outdoor-mini-dome-camera"
+    },
+    {
+        "Vendor": "D-Link",
+        "Device": "DIS\u2011200G\u201112S",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Industrial Ethernet Switches",
+        "Protocol": "HTTP",
+        "Device IP Adress": "10.90.90.90",
+        "Source": "https://eu.dlink.com/de/de/products/dis-200g-12s"
+    },
+    {
+        "Vendor": "D-Link",
+        "Device": "DIS\u2011200G\u201112PS",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Industrial Ethernet Switches",
+        "Protocol": "HTTP",
+        "Device IP Adress": "10.90.90.90",
+        "Source": "https://eu.dlink.com/de/de/products/dis-200g-12ps"
+    },
+    {
+        "Vendor": "D-Link",
+        "Device": "DIS\u2011300G\u201112SW",
+        "Default password": "admin:admin",
+        "Port": "23",
+        "Device type": "Industrial Ethernet Switches",
+        "Protocol": "telnet",
+        "Device IP Adress": "10.90.90.90",
+        "Source": "https://eu.dlink.com/de/de/products/dis-300g-12sw"
+    },
+    {
+        "Vendor": "D-Link",
+        "Device": "DIS\u2011300G\u201114PSW, DIS\u2011100G\u20115PSW",
+        "Default password": "admin:admin",
+        "Port": "23",
+        "Device type": "Industrial Ethernet Switches",
+        "Protocol": "telnet",
+        "Device IP Adress": "10.90.90.90",
+        "Source": "https://eu.dlink.com/de/de/for-business/industrial-switches"
+    },
+    {
+        "Vendor": "D-Link",
+        "Device": "DGS-3420-28TC, DGS-3420-28PC, DGS-3420-28SC, DGS-3420-52T, DGS-3420-52P",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "Industrial Layer 2+ Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "10.90.90.90 (Normal Port), 192.168.0.1 (Management Port)",
+        "Source": "https://eu.dlink.com/de/de/products/dgs-3420-series-xstack-l2plus-managed-stackable-gigabit-switches"
+    },
+    {
+        "Vendor": "D-Link",
+        "Device": "DGS-3120-24TC, DGS-3120-24PC, DGS-3120-24SC, DGS-3120-48TC, DGS-3120-48PC",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "Industrial Layer 2 Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://10.90.90.90",
+        "Source": "https://eu.dlink.com/de/de/products/dgs-3120-series-xstack-l2-managed-stackable-gigabit-switches"
+    },
+    {
+        "Vendor": "D-Link",
+        "Device": "DXS-3600-32Series",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "Industrial Ethernet Switches",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://10.90.90.90",
+        "Source": "https://eu.dlink.com/de/de/products/dxs-3600-series-top-of-rack-10-gigabit-managed-switches"
+    },
+    {
+        "Vendor": "D-Link",
+        "Device": "DXS\u20111210-10TS, DXS\u20111210-12TC, DXS\u20111210-16TC",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "Industrial Ethernet Switches",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://10.90.90.90",
+        "Source": "https://eu.dlink.com/de/de/products/dxs-1210-series-10-gigabit-ethernet-smart-managed-switches"
+    },
+    {
+        "Vendor": "D-Link",
+        "Device": "DGS\u20113630-28SC, DGS\u20113630-28TC, DGS\u20113630-28PC, DGS\u20113630.52TC, DGS\u20113630-52PC",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "Industrial Layer 3 Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "10.90.90.90 (Normal Port), 192.168.0.1 (Management Port)",
+        "Source": "https://eu.dlink.com/de/de/products/dgs-3630-series-gigabit-l3-stackable-managed-switches"
+    },
+    {
+        "Vendor": "D-Link",
+        "Device": "DGS\u20113130-30TS, DGS\u20113130-30S, DGS\u20113130-30PS, DGS\u20113130-54S, DGS\u20113130-54TS, DGS\u20113130-54PS",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "Industrial Layer 3 Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "10.90.90.90 (Normal Port), 192.168.0.1 (Management Port)",
+        "Source": "https://eu.dlink.com/de/de/products/dgs-3130-gigabit-layer-3-stackable-managed-switches"
+    },
+    {
+        "Vendor": "D-Link",
+        "Device": "DGS\u20111210-20/ME, DGS\u20111210-28/ME, DGS\u20111210-28MP/ME",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "Industrial Ethernet Switches",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://10.90.90.90",
+        "Source": "https://eu.dlink.com/de/de/products/dgs-1210-me-series-metro-ethernet-switches"
+    },
+    {
+        "Vendor": "DrayTek",
+        "Device": "VigorSwitch P1280",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.224",
+        "Source": "https://www.draytek.com.tw/ftp/VigorSwitch%20P1280/Manual/DrayTek_UG_VigorSwitch%20P1280_V1.1.pdf"
+    },
+    {
+        "Vendor": "DrayTek",
+        "Device": "VigorSwitch P1100",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Industrial Ethernet Switches",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.224",
+        "Source": "https://www.draytek.de/vigorswitch-p1100.html"
+    },
+    {
+        "Vendor": "DrayTek",
+        "Device": "VigorSwitch G1080",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Industrial Ethernet Switches",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.224",
+        "Source": "https://www.draytek.de/vigorswitch-g1080.html"
+    },
+    {
+        "Vendor": "DrayTek",
+        "Device": "VigorSwitch P2280, VigorSwitch G2280",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Industrial Ethernet Switches",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.224",
+        "Source": "https://www.draytek.com.tw/ftp/VigorSwitch%20P2280/Manual/DrayTek_QS_VigorSwitch%20P2280_G2280_V1.2_%2801%29.pdf"
+    },
+    {
+        "Vendor": "DrayTek",
+        "Device": "VigorSwitch P2500, VigorSwitch G2500",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Industrial Ethernet Switches",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.224",
+        "Source": "https://www.draytek.com.tw/ftp/VigorSwitch%20P2500/Manual/DrayTek_QS_VigorSwitch%20P2500_G2500_V1.0_01.pdf"
+    },
+    {
+        "Vendor": "DrayTek",
+        "Device": "VigorSwitch P1092",
+        "Default password": "none:admin",
+        "Port": "80",
+        "Device type": "Industrial Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.224",
+        "Source": "https://www.draytek.com.tw/ftp/VigorSwitch%20P1092/Manual/DrayTek_QS_VigorSwitch%20P1092_V1.0.pdf"
+    },
+    {
+        "Vendor": "DrayTek",
+        "Device": "Vigor 130",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.1",
+        "Source": "http://www.draytek.com/download_de/Vigor130/DrayTek_UG_Vigor130_V1.0.pdf"
+    },
+    {
+        "Vendor": "DrayTek",
+        "Device": "Vigor 2762 Series",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.1",
+        "Source": "http://draytek.com/download_de/Vigor2762-Serie/DrayTek_UG_Vigor2762_V1.0.pdf"
+    },
+    {
+        "Vendor": "DrayTek",
+        "Device": "Vigor 2862 Series",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Firewall/Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.1",
+        "Source": "https://www.draytek.de/vigor2862-serie.html"
+    },
+    {
+        "Vendor": "DrayTek",
+        "Device": "Vigor 2133 Series",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Firewall/Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.1",
+        "Source": "https://www.draytek.de/vigor2133-serie.html"
+    },
+    {
+        "Vendor": "DrayTek",
+        "Device": "Vigor 2952 Series",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Firewall/Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.1",
+        "Source": "https://www.draytek.de/vigor-2952-serie.html"
+    },
+    {
+        "Vendor": "DrayTek",
+        "Device": "Vigor 2960 Series",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Firewall/Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.1",
+        "Source": "https://www.draytek.de/vigor2960-serie.html"
+    },
+    {
+        "Vendor": "DrayTek",
+        "Device": "Vigor 2926 Series",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.1",
+        "Source": "https://www.draytek.de/vigor2926-serie.html"
+    },
+    {
+        "Vendor": "DrayTek",
+        "Device": "Vigor 3220 Serie",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.1",
+        "Source": "https://www.draytek.de/vigor3220-serie.html"
+    },
+    {
+        "Vendor": "DrayTek",
+        "Device": "Vigor 3900",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.1",
+        "Source": "https://www.draytek.de/vigor3900.html"
+    },
+    {
+        "Vendor": "DrayTek",
+        "Device": "VigorAP 903",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.2",
+        "Source": "https://www.draytek.de/vigorap-903.html"
+    },
+    {
+        "Vendor": "DrayTek",
+        "Device": "VigorAP 920R Series",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.2",
+        "Source": "https://www.draytek.de/vigorap-920r-serie.html"
+    },
+    {
+        "Vendor": "DrayTek",
+        "Device": "Vigor 910c",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.2",
+        "Source": "https://www.draytek.de/VigorAP910c.html"
+    },
+    {
+        "Vendor": "DrayTek",
+        "Device": "VigorAP 710",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.2",
+        "Source": "https://www.draytek.de/vigorap-710.html"
+    },
+    {
+        "Vendor": "DrayTek",
+        "Device": "VigorNIC 132 Serie",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "PCI-e Card",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.1",
+        "Source": "https://www.draytek.de/vigornic-132-serie.html"
+    },
+    {
+        "Vendor": "Netgear",
+        "Device": "M4300 Series, M4300-96X",
+        "Default password": "admin:none",
+        "Port": "80",
+        "Device type": "Industrial Ethernet Switches",
+        "Protocol": "HTTP",
+        "Device IP Adress": "169.254.100.100 (Ethernet Port) 192.168.0.239 (OOB Port)",
+        "Source": "http://www.downloads.netgear.com/files/GDC/M4300/M4300_M4300-96X_SSM_EN.pdf"
+    },
+    {
+        "Vendor": "Netgear",
+        "Device": "ProSafe M4200 Series",
+        "Default password": "admin:none",
+        "Port": "80",
+        "Device type": "Industrial Ethernet Switches",
+        "Protocol": "HTTP",
+        "Device IP Adress": "169.254.100.100 (Ethernet Port) 192.168.0.239 (OOB Port)",
+        "Source": "http://www.downloads.netgear.com/files/GDC/M4200/M4200-M4300_SSM_EN.pdf"
+    },
+    {
+        "Vendor": "Netgear",
+        "Device": "M4100 Series",
+        "Default password": "admin:none",
+        "Port": "68",
+        "Device type": "Industrial Ethernet Switches",
+        "Protocol": "DHCP",
+        "Device IP Adress": "VLAN interface 169.254.100.100",
+        "Source": "http://www.downloads.netgear.com/files/GDC/M4100/M4100_SSM_5mar2015.pdf"
+    },
+    {
+        "Vendor": "Netgear",
+        "Device": "M6100, M5300 and M7100 Series",
+        "Default password": "admin:none",
+        "Port": "80",
+        "Device type": "Industrial Ethernet Switches",
+        "Protocol": "HTTP",
+        "Device IP Adress": "169.254.100.100 (VLAN Interface) 169.254.101.100 (Service Port)",
+        "Source": "http://www.downloads.netgear.com/files/GDC/M5300/M6100_M5300_M7100_SSM_6mar2015.pdf"
+    },
+    {
+        "Vendor": "Netgear",
+        "Device": "WAC104",
+        "Default password": "admin:password",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://www.aplogin.net",
+        "Source": "http://www.downloads.netgear.com/files/GDC/WAC104/WAC104_IG_GR.pdf"
+    },
+    {
+        "Vendor": "TP-Link",
+        "Device": "EAP320",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://tplinkeap.net",
+        "Source": "https://static.tp-link.com/2018/201812/20181229/1910012495-Omada%20Access%20Points_UG.pdf"
+    },
+    {
+        "Vendor": "TP-Link",
+        "Device": "EAP245",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://tplinkeap.net",
+        "Source": "https://static.tp-link.com/2018/201809/20180904/7106508174%20EAP225EAP245_IG.pdf"
+    },
+    {
+        "Vendor": "TP-Link",
+        "Device": "EAP225",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://tplinkeap.net",
+        "Source": "https://static.tp-link.com/2018/201812/20181229/1910012495-Omada%20Access%20Points_UG.pdf"
+    },
+    {
+        "Vendor": "TP-Link",
+        "Device": "EAP115",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://tplinkeap.net",
+        "Source": "https://static.tp-link.com/2018/201812/20181229/1910012495-Omada%20Access%20Points_UG.pdf"
+    },
+    {
+        "Vendor": "TP-Link",
+        "Device": "CAP1200",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.0.254",
+        "Source": "https://static.tp-link.com/2018/201807/20180705/1910012438_CAP_Wireless%20Ceiling%20Mount%20Access%20Point_UG.pdf"
+    },
+    {
+        "Vendor": "TP-Link",
+        "Device": "T3700G-52TQ, T3700G-28TQ",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Industrial Layer 3 Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.0.1",
+        "Source": "https://www.tp-link.com/de/support/download/t3700g-52tq/"
+    },
+    {
+        "Vendor": "TP-Link",
+        "Device": "T2700G-28TQ",
+        "Default password": "admin:admin",
+        "Port": "80,23",
+        "Device type": "Industrial Layer 2+ Switch",
+        "Protocol": "HTTP, Telnet",
+        "Device IP Adress": "http://192.168.0.1",
+        "Source": "https://www.tp-link.com/de/support/download/t2700g-28tq/"
+    },
+    {
+        "Vendor": "TP-Link",
+        "Device": "T2600G-28TS, T2600G-52TS, T2600G-28MPS, T2600G-28SQ, T2600G-18TS",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Industrial Layer 2 Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.0.1",
+        "Source": "https://static.tp-link.com/2019/201903/20190320/1910012455_T2600G_UG.pdf"
+    },
+    {
+        "Vendor": "TP-Link",
+        "Device": "T2500-28TC",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Industrial Layer 2 Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.0.1",
+        "Source": "https://static.tp-link.com/T2500-28TC(UN)_V2_UG_1479371109623z.pdf"
+    },
+    {
+        "Vendor": "TP-Link",
+        "Device": "T1700X-16TS",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Industrial Ethernet Switches",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.0.1",
+        "Source": "https://static.tp-link.com/T1700X-16TS(UN)_V2_UG_1479439923193e.pdf"
+    },
+    {
+        "Vendor": "TP-Link",
+        "Device": "TL-SG5428, TL-SG5412F",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Industrial Layer 2 Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.0.1",
+        "Source": "https://static.tp-link.com/resources/document/TL-SG5428_V1_User_Guide_1910010846.pdf"
+    },
+    {
+        "Vendor": "TP-Link",
+        "Device": "TL-SL5428E",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Industrial Layer 2 Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.0.1",
+        "Source": "https://static.tp-link.com/res/down/doc/TL-SL5428E_V3_UG.pdf"
+    },
+    {
+        "Vendor": "TP-Link",
+        "Device": "TL-SG3210, TL-SG3216, TL-SG3424, TL-SG3424P",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Industrial Layer 2 Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.0.1",
+        "Source": "https://static.tp-link.com/res/down/doc/TL-SG3424P(UN)_V2_UG.pdf"
+    },
+    {
+        "Vendor": "TP-Link",
+        "Device": "TL-SL3452, TL-SL3428",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Industrial Layer 2 Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.0.1",
+        "Source": "https://static.tp-link.com/res/down/doc/TL-SL3452(UN)_V2_UG.pdf"
+    },
+    {
+        "Vendor": "TP-Link",
+        "Device": "WBS210",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Outdoor Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.0.254",
+        "Source": "https://static.tp-link.com/2018/201804/20180420/7106507787_WBS_V2_IG.pdf"
+    },
+    {
+        "Vendor": "TP-Link",
+        "Device": "WBS510",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Outdoor Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.0.254",
+        "Source": "https://static.tp-link.com/2018/201804/20180420/7106507787_WBS_V2_IG.pdf"
+    },
+    {
+        "Vendor": "TP-Link",
+        "Device": "AP300, AP200",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://tplinkap.net",
+        "Source": "https://static.tp-link.com/res/down/doc/AP200(EU)_V1_QIG.pdf"
+    },
+    {
+        "Vendor": "TP-Link",
+        "Device": "TL-WA901ND",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.254",
+        "Source": "https://www.tp-link.com/de/support/download/tl-wa901nd/v2/"
+    },
+    {
+        "Vendor": "TP-Link",
+        "Device": "TL-WA901ND",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://tplinkap.net",
+        "Source": "https://www.tp-link.com/de/support/download/tl-wa901nd/v3/"
+    },
+    {
+        "Vendor": "TP-Link",
+        "Device": "TL-WA801ND",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.0.254",
+        "Source": "https://www.tp-link.com/de/support/download/tl-wa801nd/v2/"
+    },
+    {
+        "Vendor": "TP-Link",
+        "Device": "TL-WA801ND",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://tplinkap.net",
+        "Source": "https://www.tp-link.com/de/support/download/tl-wa801nd/v5/"
+    },
+    {
+        "Vendor": "KUKA",
+        "Device": "VKSS 5.4",
+        "Default password": "Administrator:kuka",
+        "Device type": "Robotics",
+        "Source": "https://www.robot-forum.com/robotforum/kuka-robot-forum/krc-network-password/?PHPSESSID=hkbdb5792qbi4htov65h2slkl5"
+    },
+    {
+        "Vendor": "KUKA",
+        "Device": "KSS 5.2, KSS 5.3, KSS 5.4, KSS 5.5, KSS 5.6, KSS 7.0",
+        "Default password": "Administrator:KUKA",
+        "Device type": "Robotics",
+        "Source": "https://www.robot-forum.com/robotforum/kuka-robot-forum/krc-network-password/?PHPSESSID=hkbdb5792qbi4htov65h2slkl5"
+    },
+    {
+        "Vendor": "KUKA",
+        "Device": "KSS 5.2.19 Build85 HF03, KSS 5.5, KSS 5.6",
+        "Default password": "Administrator:kukarobxpe2",
+        "Device type": "Robotics",
+        "Source": "https://www.robot-forum.com/robotforum/kuka-robot-forum/krc-network-password/?PHPSESSID=hkbdb5792qbi4htov65h2slkl5"
+    },
+    {
+        "Vendor": "KUKA",
+        "Device": "KSS 8.0, KSS 8.1, KSS 8.2",
+        "Default password": "Administrator:68kuka1secpw59",
+        "Device type": "Robotics",
+        "Source": "https://www.robot-forum.com/robotforum/kuka-robot-forum/krc-network-password/?PHPSESSID=hkbdb5792qbi4htov65h2slkl5"
+    },
+    {
+        "Vendor": "KUKA",
+        "Device": "KSS 8.3",
+        "Default password": "KukaUser:68kuka1secpw59",
+        "Device type": "Robotics",
+        "Source": "https://www.robot-forum.com/robotforum/kuka-robot-forum/krc-network-password/?PHPSESSID=hkbdb5792qbi4htov65h2slkl5"
+    },
+    {
+        "Vendor": "Linksys",
+        "Device": "BEFSR41",
+        "Default password": "none:admin",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.1",
+        "Source": "http://downloads.linksys.com/downloads/userguide/BEFSR41_V43_UG_A-WEB.pdf"
+    },
+    {
+        "Vendor": "Linksys",
+        "Device": "BEFW11S4",
+        "Default password": "none:admin",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.1",
+        "Source": "https://www.linksys.com/us/support-product?pid=01t80000003KXcNAAW"
+    },
+    {
+        "Vendor": "Linksys",
+        "Device": "WAP54G",
+        "Default password": "none:admin",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.245",
+        "Source": "https://www.linksys.com/us/support-product?pid=01t80000003KWvqAAG"
+    },
+    {
+        "Vendor": "Linksys",
+        "Device": "WRT54G",
+        "Default password": "none:admin",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.1",
+        "Source": "https://www.linksys.com/de/support-product?pid=01t80000003KXPxAAO"
+    },
+    {
+        "Vendor": "Linksys",
+        "Device": "WAG354G",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Gateway",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.1",
+        "Source": "https://www.linksys.com/ch/support-article?articleNum=149116"
+    },
+    {
+        "Vendor": "Linksys",
+        "Device": "WAG54G",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Gateway",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.1",
+        "Source": "https://www.linksys.com/de/support-article?articleNum=149107"
+    },
+    {
+        "Vendor": "Linksys",
+        "Device": "WRT54GC",
+        "Default password": "none:admin",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.1",
+        "Source": "https://www.linksys.com/at/support-article?articleNum=149340"
+    },
+    {
+        "Vendor": "Gigabyte",
+        "Device": "GN-B49G",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.254",
+        "Source": "https://www.gigabyte.com/de/Wireless-Product/GN-B49G-rev-10#support-manual"
+    },
+    {
+        "Vendor": "Gigabyte",
+        "Device": "GN-BR01G",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.254",
+        "Source": "https://www.gigabyte.com/Wireless-Product/GN-BR01G-rev-10#support-manual"
+    },
+    {
+        "Vendor": "Paessler",
+        "Device": "PRTG Network Monitor",
+        "Default password": "prtgadmin:prtgadmin",
+        "Device type": "Monitoring Software",
+        "Device IP Adress": "http://127.0.0.1",
+        "Source": "https://www.paessler.com/manuals/prtg/login?utm_source=google&utm_medium=cpc&utm_campaign=DEU_EN_DSA_Urls_path:1_&utm_adgroup=/prtg&utm_adnum=expdsa_en_03&utm_campaignid=1343530491&utm_adgroupid=59589310251&utm_targetid=aud-320225222828:dsa-314608692227&u"
+    },
+    {
+        "Vendor": "Axis",
+        "Device": "2100 Network Camera",
+        "Default password": "root:pass",
+        "Device type": "IP Camera",
+        "Source": "https://www.axis.com/files/installationguide/2100/2100ig_en.pdf"
+    },
+    {
+        "Vendor": "IBM",
+        "Device": "3534 Model F08",
+        "Default password": "admin:password",
+        "Port": "23",
+        "Device type": "Switch",
+        "Protocol": "telnet",
+        "Source": "ftp://ftp.software.ibm.com/storage/san/3534f08/3534-F08_Installation.pdf"
+    },
+    {
+        "Vendor": "Linksys",
+        "Device": "AG041",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Gateway",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.1",
+        "Source": "https://www.linksys.com/us/support-product?pid=01t80000003KZrTAAW"
+    },
+    {
+        "Vendor": "Linksys",
+        "Device": "AG241",
+        "Default password": "admin",
+        "Port": "80",
+        "Device type": "Gateway",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://www.linksys.com/de/support-product?pid=01t80000003KOTKAA4"
+    },
+    {
+        "Vendor": "Linksys",
+        "Device": "AG300",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Gateway",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "http://downloads.linksys.com/downloads/userguide/ag300-eu-ug-web,0.pdf"
+    },
+    {
+        "Vendor": "Linksys",
+        "Device": "AG310",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Gateway",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "http://downloads.linksys.com/downloads/userguide/1224638352258/AG310_ug.pdf"
+    },
+    {
+        "Vendor": "Linksys",
+        "Device": "AM300",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Gateway",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://www.linksys.com/us/support-product?pid=01t80000003prlDAAQ"
+    },
+    {
+        "Vendor": "Linksys",
+        "Device": "BEFSR81",
+        "Default password": "none:admin",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "http://downloads.linksys.com/downloads/userguide/BEFSR81_V31_UG_NC-WEB.pdf"
+    },
+    {
+        "Vendor": "Linksys",
+        "Device": "BEFSX41",
+        "Default password": "none:admin",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://www.linksys.com/de/support-product?pid=01t80000003KPN3AAO"
+    },
+    {
+        "Vendor": "Linksys",
+        "Device": "E1000",
+        "Default password": "none:admin",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://www.linksys.com/de/support-product?pid=01t80000003K7fzAAC"
+    },
+    {
+        "Vendor": "Linksys",
+        "Device": "E1200",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "http://downloads.linksys.com/downloads/userguide/1224695202767/E_Series_Intl_UG_3425_01547_Web.pdf"
+    },
+    {
+        "Vendor": "Linksys",
+        "Device": "E2000",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "http://downloads.linksys.com/downloads/userguide/E2000_UG_USA_V10_NC-WEB.pdf"
+    },
+    {
+        "Vendor": "Linksys",
+        "Device": "E2100L",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "http://downloads.linksys.com/downloads/userguide/1224655367600/E2100L_V10_UG_USA_NC-WEB.pdf"
+    },
+    {
+        "Vendor": "Linksys",
+        "Device": "E3000",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "http://downloads.linksys.com/downloads/userguide/1224668792764/E3000-EE_UG_V10_NC-WEB_3425-00144_DE,0.pdf"
+    },
+    {
+        "Vendor": "Linksys",
+        "Device": "E4200",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "http://downloads.linksys.com/downloads/userguide/E_Series_UG_E900Rev_3425-01486_Web.pdf"
+    },
+    {
+        "Vendor": "Linksys",
+        "Device": "EA2700",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "http://downloads.linksys.com/downloads/userguide/EA2700-3500-4500_UG.pdf"
+    },
+    {
+        "Vendor": "Linksys",
+        "Device": "EA3500",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "http://downloads.linksys.com/downloads/userguide/EA2700-3500-4500_UG.pdf"
+    },
+    {
+        "Vendor": "Linksys",
+        "Device": "EA4500",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "http://downloads.linksys.com/downloads/userguide/EA2700-3500-4500_UG.pdf"
+    },
+    {
+        "Vendor": "NetComm",
+        "Device": "3G17WN",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.20.1",
+        "Source": "https://manualsdump.com/en/manuals/netcomm-3g18wn-3g17wn/138319/1"
+    },
+    {
+        "Vendor": "NetComm",
+        "Device": "3G18WN",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.20.1",
+        "Source": "https://manualsdump.com/en/manuals/netcomm-3g18wn-3g17wn/138319/1"
+    },
+    {
+        "Vendor": "NetComm",
+        "Device": "3G9WB",
+        "Default password": "admin:admin",
+        "Device type": "Gateway",
+        "Device IP Adress": "10.0.0.138",
+        "Source": "https://support.netcommwireless.com/product/3g9wb#Manuals"
+    },
+    {
+        "Vendor": "NetComm",
+        "Device": "GTV300",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.30.1",
+        "Source": "https://support.netcommwireless.com/product/gtv300"
+    },
+    {
+        "Vendor": "NetComm",
+        "Device": "N3G002W",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.123.254",
+        "Source": "https://support.netcommwireless.com/sites/default/files/N3G002W_UG.pdf"
+    },
+    {
+        "Vendor": "NetComm",
+        "Device": "N3G005W",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.123.254",
+        "Source": "https://support.netcommwireless.com/sites/default/files/N3G005W_UG.pdf"
+    },
+    {
+        "Vendor": "NetComm",
+        "Device": "NB1",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Industrial Modem",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.1",
+        "Source": "http://www.connect.net.au/helpdesk/pppoe/Netcomm_NB1.pdf"
+    },
+    {
+        "Vendor": "NetComm",
+        "Device": "NB11W",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Industrial Modem",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.1",
+        "Source": "https://support.netcommwireless.com/sites/default/files/NB11W_UG.pdf"
+    },
+    {
+        "Vendor": "NetComm",
+        "Device": "NB12WD",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.1",
+        "Source": "https://support.netcommwireless.com/sites/default/files/NB12WD_UG.pdf"
+    },
+    {
+        "Vendor": "NetComm",
+        "Device": "NB2800",
+        "Default password": "none:admin",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.1",
+        "Source": "https://support.netcommwireless.com/sites/default/files/NB2800_QSG.pdf"
+    },
+    {
+        "Vendor": "NetComm",
+        "Device": "NB3000",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.1",
+        "Source": "https://www.cleancss.com/router-default/Netcomm/NB3000"
+    },
+    {
+        "Vendor": "NetComm",
+        "Device": "NB304N",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.1",
+        "Source": "https://support.netcommwireless.com/sites/default/files/NB304N-QSG.pdf"
+    },
+    {
+        "Vendor": "NetComm",
+        "Device": "NB5580",
+        "Default password": "none:admin",
+        "Port": "8080",
+        "Device type": "Gateway",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.1",
+        "Source": "https://support.netcommwireless.com/sites/default/files/NB5580_UG.pdf"
+    },
+    {
+        "Vendor": "NetComm",
+        "Device": "NB600W",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Gateway",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.1",
+        "Source": "https://support.netcommwireless.com/sites/default/files/NB600W_UG.pdf"
+    },
+    {
+        "Vendor": "NetComm",
+        "Device": "NB750",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.1",
+        "Source": "https://support.netcommwireless.com/sites/default/files/NB750_UG.pdf"
+    },
+    {
+        "Vendor": "NetComm",
+        "Device": "NP800n_Series",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.20.1",
+        "Source": "https://support.netcommwireless.com/sites/default/files/NP800n_Series_User_Guide.pdf"
+    },
+    {
+        "Vendor": "NetComm",
+        "Device": "NTC-5000 Series",
+        "Default password": "admin:admin (Admin Mode) , root:admin (Root Mode)",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.1",
+        "Source": "https://support.netcommwireless.com/sites/default/files/NTC-5000-Series-User-Guide.pdf"
+    },
+    {
+        "Vendor": "NetComm",
+        "Device": "V300",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.30.1",
+        "Source": "https://support.netcommwireless.com/sites/default/files/V300_UG.pdf"
+    },
+    {
+        "Vendor": "NetComm",
+        "Device": "V200",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.30.1",
+        "Source": "https://support.netcommwireless.com/sites/default/files/V200-VSG-Generic.pdf"
+    },
+    {
+        "Vendor": "NetComm",
+        "Device": "V210P",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "VoIP Adapter",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.22.1",
+        "Source": "https://support.netcommwireless.com/sites/default/files/V210P-User-Guide.pdf"
+    },
+    {
+        "Vendor": "NetComm",
+        "Device": "NBF3ADV",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://192.168.1.1",
+        "Source": "https://www.cleancss.com/router-default/Netcomm/NBF3ADV"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "GS-2352",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.250 oder 172.23.56.251",
+        "Source": "https://www.lancom-systems.de/fileadmin/download/LC-GS-2328P/IG_Switches_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "GS-2310",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.250 oder 172.23.56.251",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_Switches_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "GS-2328P",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.250 oder 172.23.56.251",
+        "Source": "https://www.lancom-systems.de/fileadmin/download/LC-GS-2328P/IG_Switches_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "GS-2328F",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.250 oder 172.23.56.251",
+        "Source": "https://www.lancom-systems.de/fileadmin/download/LC-GS-2328P/IG_Switches_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "GS-2310P+",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.250 oder 172.23.56.251",
+        "Source": "https://www.lancom-systems.de/fileadmin/download/LC-GS-2328P/IG_Switches_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "GS-2328",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.250 oder 172.23.56.251",
+        "Source": "https://www.lancom-systems.de/fileadmin/download/LC-GS-2328P/IG_Switches_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "GS-2352P",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.250 oder 172.23.56.251",
+        "Source": "https://www.lancom-systems.de/fileadmin/download/LC-GS-2328P/IG_Switches_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "GS-2326+",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.250 oder 172.23.56.251",
+        "Source": "https://www.lancom-systems.de/fileadmin/download/LC-GS-2328P/IG_Switches_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "GS-2326P+",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.250 oder 172.23.56.251",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_Switches_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "GS-1326",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.250 oder 172.23.56.251",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_websmart-Switches_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "LN-830U",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "LN-1700",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "LN-1702",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "LN-860",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "LN-862",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "L-822acn",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "LN-830acn",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "LN-630acn",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "L-322agn",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "L-321agn",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "OAP-830",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "Outdoor Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "OAP-821",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "Outdoor Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "OAP-822",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "Outdoor Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "WLC-1000",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "Controller",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "WLC-4006+",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "Controller",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "IAP-821",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "IAP-822",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "UF-50",
+        "Default password": "admin:admin",
+        "Port": "3438",
+        "Device type": "Firewall",
+        "Protocol": "https",
+        "Device IP Adress": "https://192.168.1.254:3438",
+        "Source": "https://www.lancom-systems.de/fileadmin/download/LC-RS_Unified_Firewalls/MA_R_S_User_Manual_Unified_Firewalls.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "UF-100",
+        "Default password": "admin:admin",
+        "Port": "3438",
+        "Device type": "Firewall",
+        "Protocol": "https",
+        "Device IP Adress": "https://192.168.1.254:3438",
+        "Source": "https://www.lancom-systems.de/fileadmin/download/LC-RS_Unified_Firewalls/MA_R_S_User_Manual_Unified_Firewalls.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "UF-200",
+        "Default password": "admin:admin",
+        "Port": "3438",
+        "Device type": "Firewall",
+        "Protocol": "https",
+        "Device IP Adress": "https://192.168.1.254:3438",
+        "Source": "https://www.lancom-systems.de/fileadmin/download/LC-RS_Unified_Firewalls/MA_R_S_User_Manual_Unified_Firewalls.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "UF-300",
+        "Default password": "admin:admin",
+        "Port": "3438",
+        "Device type": "Firewall",
+        "Protocol": "https",
+        "Device IP Adress": "https://192.168.1.254:3438",
+        "Source": "https://www.lancom-systems.de/fileadmin/download/LC-RS_Unified_Firewalls/MA_R_S_User_Manual_Unified_Firewalls.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "UF-500",
+        "Default password": "admin:admin",
+        "Port": "3438",
+        "Device type": "Firewall",
+        "Protocol": "https",
+        "Device IP Adress": "https://192.168.1.254:3438",
+        "Source": "https://www.lancom-systems.de/fileadmin/download/LC-RS_Unified_Firewalls/MA_R_S_User_Manual_Unified_Firewalls.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "UF-900",
+        "Default password": "admin:admin",
+        "Port": "3438",
+        "Device type": "Firewall",
+        "Protocol": "https",
+        "Device IP Adress": "https://192.168.1.254:3438",
+        "Source": "https://www.lancom-systems.de/fileadmin/download/LC-RS_Unified_Firewalls/MA_R_S_User_Manual_Unified_Firewalls.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "ISG-4000",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "VPN Gateway",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "ISG-1000",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "VPN Gateway",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "730-4G+",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "730VA",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "1790VA",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "VPN Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "1790VAW",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "VPN Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "IAP-4G+",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "VPN Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "1906VA-4G",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "VPN Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "1900EF",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "VPN Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "1790-4G",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "VPN Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "1790VA-4G",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "VPN Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "1640E",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "VPN Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "1781VAW",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "VPN Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "1781EW+",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "VPN Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "1780EW-4G+",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "VPN Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "1793VA-4G",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "VoIP Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "1784VA",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "VoIP Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "1783VAW",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "VPN Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "883 VoIP",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "VoIP Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Lancom",
+        "Device": "884 VoIP",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "VoIP Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "172.23.56.254",
+        "Source": "https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf"
+    },
+    {
+        "Vendor": "Zyxel",
+        "Device": "XGS4600-52F",
+        "Default password": "admin:1234",
+        "Port": "80",
+        "Device type": "Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://www.zyxel.com/de/de/support/download_library/product/xgs4600_series_18.shtml?c=de&l=de&pid=20170103133252&tab=Quick_Start_Guide&pname=XGS4600%20Series&mtname=Schnellstart-Anleitung"
+    },
+    {
+        "Vendor": "Zyxel",
+        "Device": "XGS4600-32F",
+        "Default password": "admin:1234",
+        "Port": "80",
+        "Device type": "Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://www.zyxel.com/de/de/support/download_library/product/xgs4600_series_18.shtml?c=de&l=de&pid=20170103133252&tab=Quick_Start_Guide&pname=XGS4600%20Series&mtname=Schnellstart-Anleitung"
+    },
+    {
+        "Vendor": "Zyxel",
+        "Device": "XGS4600-32",
+        "Default password": "admin:1234",
+        "Port": "80",
+        "Device type": "Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://www.zyxel.com/de/de/support/download_library/product/xgs4600_series_18.shtml?c=de&l=de&pid=20170103133252&tab=Quick_Start_Guide&pname=XGS4600%20Series&mtname=Schnellstart-Anleitung"
+    },
+    {
+        "Vendor": "Zyxel",
+        "Device": "XS3800-28",
+        "Default password": "admin:1234",
+        "Port": "80",
+        "Device type": "Industrial Layer 2 Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://www.zyxel.com/de/de/support/download_library/product/xs3800_28_18.shtml?c=de&l=de&pid=20170929200010&tab=Quick_Start_Guide&pname=XS3800-28&mtname=Schnellstart-Anleitung"
+    },
+    {
+        "Vendor": "Zyxel",
+        "Device": "GS2210-8HP",
+        "Default password": "admin:1234",
+        "Port": "80",
+        "Device type": "Industrial Layer 2 Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://www.zyxel.com/de/de/support/download_library/product/xgs2210_gs2210_series_18.shtml?c=de&l=de&pid=20140226133840&tab=Quick_Start_Guide&pname=XGS2210/GS2210%20Series&mtname=Schnellstart-Anleitung"
+    },
+    {
+        "Vendor": "Zyxel",
+        "Device": "XGS2210-52HP",
+        "Default password": "admin:1234",
+        "Port": "80",
+        "Device type": "Industrial Layer 2 Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://www.zyxel.com/de/de/support/download_library/product/xgs2210_gs2210_series_18.shtml?c=de&l=de&pid=20140226133840&tab=Quick_Start_Guide&pname=XGS2210/GS2210%20Series&mtname=Schnellstart-Anleitung"
+    },
+    {
+        "Vendor": "Zyxel",
+        "Device": "GS2210-8",
+        "Default password": "admin:1234",
+        "Port": "80",
+        "Device type": "Industrial Layer 2 Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://www.zyxel.com/de/de/support/download_library/product/xgs2210_gs2210_series_18.shtml?c=de&l=de&pid=20140226133840&tab=Quick_Start_Guide&pname=XGS2210/GS2210%20Series&mtname=Schnellstart-Anleitung"
+    },
+    {
+        "Vendor": "Zyxel",
+        "Device": "XGS2210-28",
+        "Default password": "admin:1234",
+        "Port": "80",
+        "Device type": "Industrial Layer 2 Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://www.zyxel.com/de/de/support/download_library/product/xgs2210_gs2210_series_18.shtml?c=de&l=de&pid=20140226133840&tab=Quick_Start_Guide&pname=XGS2210/GS2210%20Series&mtname=Schnellstart-Anleitung"
+    },
+    {
+        "Vendor": "Zyxel",
+        "Device": "XGS2210-52",
+        "Default password": "admin:1234",
+        "Port": "80",
+        "Device type": "Industrial Layer 2 Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://www.zyxel.com/de/de/support/download_library/product/xgs2210_gs2210_series_18.shtml?c=de&l=de&pid=20140226133840&tab=Quick_Start_Guide&pname=XGS2210/GS2210%20Series&mtname=Schnellstart-Anleitung"
+    },
+    {
+        "Vendor": "Zyxel",
+        "Device": "XGS2210-28HP",
+        "Default password": "admin:1234",
+        "Port": "80",
+        "Device type": "Industrial Layer 2 Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://www.zyxel.com/de/de/support/download_library/product/xgs2210_gs2210_series_18.shtml?c=de&l=de&pid=20140226133840&tab=Quick_Start_Guide&pname=XGS2210/GS2210%20Series&mtname=Schnellstart-Anleitung"
+    },
+    {
+        "Vendor": "Zyxel",
+        "Device": "GS2210-24LP",
+        "Default password": "admin:1234",
+        "Port": "80",
+        "Device type": "Industrial Layer 2 Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://www.zyxel.com/de/de/support/download_library/product/xgs2210_gs2210_series_18.shtml?c=de&l=de&pid=20140226133840&tab=Quick_Start_Guide&pname=XGS2210/GS2210%20Series&mtname=Schnellstart-Anleitung"
+    },
+    {
+        "Vendor": "Zyxel",
+        "Device": "GS2210-48",
+        "Default password": "admin:1234",
+        "Port": "80",
+        "Device type": "Industrial Layer 2 Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://www.zyxel.com/de/de/DownloadLibraryFilter.shtml?c=de&l=de&tab=Quick_Start_Guide&p=2&mto=&pid=20140226133840&pname=XGS2210/GS2210%20Series&mtname=Schnellstart-Anleitung&md="
+    },
+    {
+        "Vendor": "Zyxel",
+        "Device": "GS2210-48HP",
+        "Default password": "admin:1234",
+        "Port": "80",
+        "Device type": "Industrial Layer 2 Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://www.zyxel.com/de/de/DownloadLibraryFilter.shtml?c=de&l=de&tab=Quick_Start_Guide&p=2&mto=&pid=20140226133840&pname=XGS2210/GS2210%20Series&mtname=Schnellstart-Anleitung&md="
+    },
+    {
+        "Vendor": "Zyxel",
+        "Device": "GS2210-24HP",
+        "Default password": "admin:1234",
+        "Port": "80",
+        "Device type": "Industrial Layer 2 Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://www.zyxel.com/de/de/DownloadLibraryFilter.shtml?c=de&l=de&tab=Quick_Start_Guide&p=2&mto=&pid=20140226133840&pname=XGS2210/GS2210%20Series&mtname=Schnellstart-Anleitung&md="
+    },
+    {
+        "Vendor": "Zyxel",
+        "Device": "GS1920-24HPv2",
+        "Default password": "admin:1234",
+        "Port": "80",
+        "Device type": "Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://www.zyxel.com/de/de/support/download_library/product/gs1920_series_18.shtml?c=de&l=de&pid=20130521174252&mid=20180316152433&tab=Quick_Start_Guide&pname=GS1920%20Series"
+    },
+    {
+        "Vendor": "Zyxel",
+        "Device": "GS1920-48v2",
+        "Default password": "admin:1234",
+        "Port": "80",
+        "Device type": "Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://www.zyxel.com/de/de/support/download_library/product/gs1920_series_18.shtml?c=de&l=de&pid=20130521174252&mid=20180316152433&tab=Quick_Start_Guide&pname=GS1920%20Series"
+    },
+    {
+        "Vendor": "Zyxel",
+        "Device": "GS1920-48HPv2",
+        "Default password": "admin:1234",
+        "Port": "80",
+        "Device type": "Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://www.zyxel.com/de/de/support/download_library/product/gs1920_series_18.shtml?c=de&l=de&pid=20130521174252&mid=20180316152433&tab=Quick_Start_Guide&pname=GS1920%20Series"
+    },
+    {
+        "Vendor": "Zyxel",
+        "Device": "GS1920-8HPv2",
+        "Default password": "admin:1234",
+        "Port": "80",
+        "Device type": "Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://www.zyxel.com/de/de/support/download_library/product/gs1920_series_18.shtml?c=de&l=de&pid=20130521174252&mid=20180316152433&tab=Quick_Start_Guide&pname=GS1920%20Series"
+    },
+    {
+        "Vendor": "Zyxel",
+        "Device": "GS1920-24v2",
+        "Default password": "admin:1234",
+        "Port": "80",
+        "Device type": "Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://www.zyxel.com/de/de/support/download_library/product/gs1920_series_18.shtml?c=de&l=de&pid=20130521174252&mid=20180316152433&tab=Quick_Start_Guide&pname=GS1920%20Series"
+    },
+    {
+        "Vendor": "Zyxel",
+        "Device": "RGS200-12P",
+        "Default password": "admin:1234",
+        "Port": "80",
+        "Device type": "Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "ftp://ftp2.zyxel.com/RGS200-12P/quick_start_guide/RGS200-12P_001.pdf"
+    },
+    {
+        "Vendor": "Zyxel",
+        "Device": "GS1200-8",
+        "Default password": "none:1234",
+        "Port": "80",
+        "Device type": "Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.3",
+        "Source": "https://www.zyxel.com/de/de/support/download_library/product/gs1200_5_gs1200_8_18.shtml?c=de&l=de&pid=20180126103420&tab=Quick_Start_Guide&pname=GS1200-5/GS1200-8&mtname=Schnellstart-Anleitung"
+    },
+    {
+        "Vendor": "Zyxel",
+        "Device": "GS1200-5",
+        "Default password": "none:1234",
+        "Port": "80",
+        "Device type": "Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.3",
+        "Source": "https://www.zyxel.com/de/de/support/download_library/product/gs1200_5_gs1200_8_18.shtml?c=de&l=de&pid=20180126103420&tab=Quick_Start_Guide&pname=GS1200-5/GS1200-8&mtname=Schnellstart-Anleitung"
+    },
+    {
+        "Vendor": "Zyxel",
+        "Device": "GS1200-5HP",
+        "Default password": "admin:1234",
+        "Port": "80",
+        "Device type": "Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.3",
+        "Source": "https://www.zyxel.com/de/de/support/download_library/product/gs1200_5hp_v2_gs1200_8hp_v2_18.shtml?c=de&l=de&pid=20170505152256&tab=Quick_Start_Guide&pname=GS1200-5HP%20v2/GS1200-8HP%20v2&mtname=Schnellstart-Anleitung"
+    },
+    {
+        "Vendor": "Zyxel",
+        "Device": "GS1200-8HP",
+        "Default password": "none:1234",
+        "Port": "80",
+        "Device type": "Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.3",
+        "Source": "https://www.zyxel.com/de/de/support/download_library/product/gs1200_5hp_v2_gs1200_8hp_v2_18.shtml?c=de&l=de&pid=20170505152256&tab=Quick_Start_Guide&pname=GS1200-5HP%20v2/GS1200-8HP%20v2&mtname=Schnellstart-Anleitung"
+    },
+    {
+        "Vendor": "Zyxel",
+        "Device": "WAP3205",
+        "Default password": "admin:1234",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.2",
+        "Source": "https://www.zyxel.com/de/de/support/download_library/product/wap3205_v3_22.shtml?c=de&l=de&pid=20151029160000&tab=User_s_Guide&pname=WAP3205%20v3&mtname=Nutzerhandbuch"
+    },
+    {
+        "Vendor": "Zyxel",
+        "Device": "NBG6615",
+        "Default password": "admin:1234",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "92.168.212.1",
+        "Source": "ftp://ftp2.zyxel.com/NBG6615/user_guide/NBG6615_v1.00_ed1.pdf"
+    },
+    {
+        "Vendor": "Zyxel",
+        "Device": "NBG6604",
+        "Default password": "none:1234",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.2",
+        "Source": "https://www.zyxel.com/de/de/support/download_library/product/nbg6604_22.shtml?c=de&l=de&pid=20170123200003&tab=User_s_Guide&pname=NBG6604&mtname=Nutzerhandbuch"
+    },
+    {
+        "Vendor": "Zyxel",
+        "Device": "NBG6617",
+        "Default password": "none:1234",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1 (Router Mode), 192.168.1.2 (Access Point Mode)",
+        "Source": "ftp://ftp2.zyxel.com/NBG6617/user_guide/NBG6617_1.00_ed2.pdf"
+    },
+    {
+        "Vendor": "Zyxel",
+        "Device": "ARMOR Z2",
+        "Default password": "none:1234",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1 (Router Mode), 192.168.1.2 (Access Point Mode)",
+        "Source": "ftp://ftp2.zyxel.com/ARMOR_Z2_(NBG6817)/user_guide/ARMOR%20Z2%20(NBG6817)_1.00.pdf"
+    },
+    {
+        "Vendor": "Zyxel",
+        "Device": "NBG6815",
+        "Default password": "none:1234",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1 (Router Mode), 192.168.1.2 (Access Point Mode)",
+        "Source": "ftp://ftp2.zyxel.com/NBG6815/user_guide/NBG6815_1.00.pdf"
+    },
+    {
+        "Vendor": "Zyxel",
+        "Device": "ARMOR Z1",
+        "Default password": "none:1234",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1 (Router Mode), 192.168.1.2 (Access Point Mode)",
+        "Source": "ftp://ftp2.zyxel.com/ARMOR_Z1_(NBG6816)/user_guide/ARMOR%20Z1%20(NBG6816)_1.00.pdf"
+    },
+    {
+        "Vendor": "Zyxel",
+        "Device": "NBG6515",
+        "Default password": "none:1234",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1 (Router Mode), 192.168.1.2 (Access Point Mode)",
+        "Source": "ftp://ftp2.zyxel.com/NBG6515/user_guide/NBG6515_v1,ed2.pdf"
+    },
+    {
+        "Vendor": "Zyxel",
+        "Device": "NBG-418N",
+        "Default password": "admin:1234",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1 (Router Mode), 192.168.1.2 (Access Point Mode)",
+        "Source": "ftp://ftp2.zyxel.com/NBG-418N_v2/user_guide/NBG-418N%20v2_v1_ed3.pdf"
+    },
+    {
+        "Vendor": "Zyxel",
+        "Device": "NBG6616",
+        "Default password": "none:1234",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1 (Router Mode), 192.168.1.2 (Access Point Mode)",
+        "Source": "ftp://ftp2.zyxel.com/NBG6616/user_guide/NBG6616_1.00.pdf"
+    },
+    {
+        "Vendor": "Juniper",
+        "Device": "EX2500",
+        "Default password": "adminmd5:adminmd5",
+        "Port": "80",
+        "Device type": "Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://10.10.10.1",
+        "Source": "https://www.juniper.net/documentation/en_US/release-independent/junos/information-products/topic-collections/hardware/ex-series/ex2500/ex2500-config-guide-30.pdf"
+    },
+    {
+        "Vendor": "Asus",
+        "Device": "RT-AX88U",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://router.asus.com",
+        "Source": "https://dlcdnets.asus.com/pub/ASUS/wireless/RT-AX88U/E14778_RT-AX88U_UM_web.pdf"
+    },
+    {
+        "Vendor": "Asus",
+        "Device": "BRT-AC828",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://router.asus.com",
+        "Source": "https://dlcdnets.asus.com/pub/ASUS/wireless/BRT-AC828/WEU15299_BRT-AC828_QSG_V3_PRINT.pdf?_ga=2.42972581.1294900952.1558369212-567973121.1558369212"
+    },
+    {
+        "Vendor": "Asus",
+        "Device": "DSL-AC87VG",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "http",
+        "Device IP Adress": "http://router.asus.com",
+        "Source": "https://dlcdnets.asus.com/pub/ASUS/wireless/DSL-AC87VG/G11833_DSL_AC87VG_Manual.pdf?_ga=2.79142036.1294900952.1558369212-567973121.1558369212"
+    },
+    {
+        "Vendor": "Asus",
+        "Device": "DSL-AC56U",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://dlcdnets.asus.com/pub/ASUS/wireless/DSL-AC56U/G10722_DSL-AC56U_Manual.pdf?_ga=2.104200576.1294900952.1558369212-567973121.1558369212"
+    },
+    {
+        "Vendor": "Asus",
+        "Device": "DSL-AC52U",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://dlcdnets.asus.com/pub/ASUS/wireless/DSL-AC52U/G11064_DSL_AC52U_Manual.pdf?_ga=2.37057312.1294900952.1558369212-567973121.1558369212"
+    },
+    {
+        "Vendor": "Asus",
+        "Device": "DSL-AC88U",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "http://router.asus.com",
+        "Source": "https://dlcdnets.asus.com/pub/ASUS/wireless/DSL-AC88U/G13515_DSL_AC88U_manual.pdf?_ga=2.115634310.1294900952.1558369212-567973121.1558369212"
+    },
+    {
+        "Vendor": "Asus",
+        "Device": "RT-N56U B1",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://dlcdnets.asus.com/pub/ASUS/wireless/RT-N56U_B1/G10347_RT-N56U_B1_Manual.pdf?_ga=2.119404681.1294900952.1558369212-567973121.1558369212"
+    },
+    {
+        "Vendor": "Asus",
+        "Device": "RT-N16",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://dlcdnets.asus.com/pub/ASUS/wireless/RT-N16/G7709_RT-N16_Manual_German.pdf?_ga=2.111926660.1294900952.1558369212-567973121.1558369212"
+    },
+    {
+        "Vendor": "Asus",
+        "Device": "RT-N15",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://www.asus.com/de/Networking/RTN15/HelpDesk_Manual/"
+    },
+    {
+        "Vendor": "Asus",
+        "Device": "RT-AC5300",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://dlcdnets.asus.com/pub/ASUS/wireless/RT-AC5300/G10434_RT_AC5300_Manual.pdf?_ga=2.83325078.1294900952.1558369212-567973121.1558369212"
+    },
+    {
+        "Vendor": "Siemens",
+        "Device": "Speedstream 6520",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Modem",
+        "Protocol": "HTTP",
+        "Device IP Adress": "10.0.0.138",
+        "Source": "https://setuprouter.com/router/siemens/speedstream-6520/manual-1058.pdf"
+    },
+    {
+        "Vendor": "Zcom",
+        "Device": "XG1021 N",
+        "Default password": "admin:password",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Source": "https://www.192-168-1-1-ip.co/router/zcom/XG1021%20N/19187/"
+    },
+    {
+        "Vendor": "Advantech",
+        "Device": "EKI-7659C",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Industrial Switch",
+        "Protocol": "HTTP",
+        "Source": "http://www.rts.ua/catalog/advantech/pdf/EKI-7659C_2_201316.pdf"
+    },
+    {
+        "Vendor": "Advantech",
+        "Device": "ADAM-6200 Series",
+        "Default password": "root:00000000",
+        "Port": "80",
+        "Device type": "Ethernet Modules",
+        "Protocol": "HTTP",
+        "Source": "http://www.bb-elec.com/Products/Manuals/ADAM-6200m-pdf.pdf"
+    },
+    {
+        "Vendor": "Advantech",
+        "Device": "ADAM-6050W",
+        "Default password": "none:none",
+        "Port": "80",
+        "Device type": "Ethernet Modules",
+        "Protocol": "http"
+    },
+    {
+        "Vendor": "Advantech",
+        "Device": "ADAM-3600-A1F",
+        "Default password": "Admin:00000000",
+        "Port": "80",
+        "Device type": "Remote Ethernet I/O",
+        "Protocol": "HTTP",
+        "Source": "https://www.proxis.ua/files/documents/UM-ADAM-3600-A1F-Ed1-EN.pdf"
+    },
+    {
+        "Vendor": "Alcatel-Lucent Nokia",
+        "Device": "OmniSwitch 6250",
+        "Default password": "admin:switch",
+        "Port": "80",
+        "Device type": "Switch",
+        "Protocol": "HTTP",
+        "Source": "https://dariusfreamon.wordpress.com/tag/defaults/"
+    },
+    {
+        "Vendor": "Zoe Medical",
+        "Device": "Nightingale PPM3",
+        "Default password": "Set Dial 1 to 49, Set Dial 2 to 48, Set Dial 3 to 46",
+        "Device type": "Vital Sign Monitor With CO2",
+        "Source": "https://dariusfreamon.wordpress.com/2015/07/11/zoe-medical-nightingale-ppm3-default-passcode/"
+    },
+    {
+        "Vendor": "Xzeres",
+        "Device": "442SR",
+        "Default password": "MyTurbine:m442+SRt",
+        "Device type": "Turbine",
+        "Source": "https://dariusfreamon.wordpress.com/2015/05/03/xzeres-442s-wind-turbine-web-interface-default-credentials/"
+    },
+    {
+        "Vendor": "WashTec",
+        "Device": "SoftCare Evo Type SE10",
+        "Default password": "00001 (limited access), 00000 (unlimited access)",
+        "Device type": "Roll-over car wash system",
+        "Source": "http://www.washtec.com.au/files/tech-data/SoftCare2%20EVO%20Manual.pdf"
+    },
+    {
+        "Vendor": "Ubiquiti",
+        "Device": "AirControl",
+        "Default password": "ubnt:ubnt",
+        "Port": "9005",
+        "Device type": "Web Management Application",
+        "Protocol": "golem",
+        "Source": "https://dariusfreamon.wordpress.com/2015/04/16/ubiquiti-aircontrol-web-management-default-admin-credentials/"
+    },
+    {
+        "Vendor": "Ubiquiti",
+        "Device": "AirOS",
+        "Default password": "ubnt:ubnt",
+        "Port": "443",
+        "Device type": "Operating System",
+        "Protocol": "https",
+        "Source": "http://dl.ubnt.com/guides/airOS/airOS_UG.pdf"
+    },
+    {
+        "Vendor": "Trafficware",
+        "Device": "ATMS.now",
+        "Default password": "naztec:naztec",
+        "Device type": "Advanced Traffic Management System",
+        "Source": "https://dariusfreamon.wordpress.com/2014/02/20/trafficware-atms-now-default-credentials/"
+    },
+    {
+        "Vendor": "Sinapsi",
+        "Device": "eSolar",
+        "Default password": "admin:admin",
+        "Device type": "Web-Server for photovoltaic applications",
+        "Source": "http://www.sinapsitech.it/wp-content/uploads/2014/02/Handbook_standard_2.0_en.pdf"
+    },
+    {
+        "Vendor": "PIPS Technology",
+        "Device": "AUTOPLATE",
+        "Default password": "(Telnet), wl_test:wl_test, vesstore:vesstore, ftp_boot:ftp_boot (FTP)",
+        "Port": "23,21",
+        "Device type": "license plate recognition system",
+        "Protocol": "Telnet, FTP",
+        "Source": "https://dariusfreamon.wordpress.com/2014/02/19/pips-technology-autoplate-automatic-license-plate-recognition-alpr-multiple-vulnerabilities/"
+    },
+    {
+        "Vendor": "Nuance",
+        "Device": "Dragon Medical 360 Network Edition",
+        "Default password": "admin:password",
+        "Port": "80",
+        "Device type": "Medical Speech Recognition Software Solutions",
+        "Protocol": "TCP",
+        "Source": "https://dariusfreamon.wordpress.com/2015/07/11/dragon-medical-360-network-edition-nuance-management-console-default-admin-credentials/"
+    },
+    {
+        "Vendor": "NOVUS Automation",
+        "Device": "AirGate-3G",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Dual SIM Industrial Cellular VPN Router",
+        "Protocol": "http",
+        "Source": "https://dariusfreamon.wordpress.com/2016/02/02/novus-airgate-3g-dual-sim-industrial-cellular-vpn-router-default-admin-credentials/"
+    },
+    {
+        "Vendor": "NOVUS Automation",
+        "Device": "N1040, N480D, N960, N1020, N1040i, N1540, N2000, N3000 and N120",
+        "Default password": "1111 (ACESS PASSWORD), 9 3 2 1 (MASTER PASSWORD)",
+        "Device type": "Temperature Controller",
+        "Source": "https://dariusfreamon.wordpress.com/2015/04/18/novus-n1040-controller/"
+    },
+    {
+        "Vendor": "Mitsubishi",
+        "Device": "MES3-255C-EN",
+        "Default password": "ecoV:ecopass, guest:user",
+        "Device type": "Web server",
+        "Source": "https://dariusfreamon.wordpress.com/2014/02/28/mitsubishi-energy-saving-data-collecting-server-ecowebserver-iii-mes3-255c-en-default-credentials/"
+    },
+    {
+        "Vendor": "Metrobility",
+        "Device": "NetBeacon Element Management Software",
+        "Default password": "guest:guest, admin:admin, root:root",
+        "Port": "23",
+        "Device type": "HMI Software",
+        "Protocol": "telnet",
+        "Source": "https://dariusfreamon.wordpress.com/2014/09/02/netbeacon-element-management-software-multiple-default-credentials/"
+    },
+    {
+        "Vendor": "LOYTEC Electronics",
+        "Device": "L-DALI DALI Light Controller, L-INX Automation Server, L-GATE Universal Gateway, L-IP CEA-709/IP Router, L-VIS, LIOB-10x I/O Module, LIOB-x5x I/O Module, LIP-ME20X L-IP BACnet Router, LWEB-802, LWEB-803, LWEB-900 Building Management System",
+        "Default password": "admin:loytec4u",
+        "Port": "80",
+        "Device type": "Multiple Devices",
+        "Protocol": "HTTP",
+        "Source": "https://dariusfreamon.wordpress.com/2016/02/01/loytec-electronics-multiple-devices-web-interface-default-admin-credentials/"
+    },
+    {
+        "Vendor": "LOYTEC Electronics",
+        "Device": "L-Proxy CEA-709 Gateway",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Gateway",
+        "Protocol": "HTTP",
+        "Source": "https://dariusfreamon.wordpress.com/2016/02/01/loytec-electronics-multiple-devices-web-interface-default-admin-credentials/"
+    },
+    {
+        "Vendor": "Lantronix",
+        "Device": "EDS-MD 4, EDS-MD 8, EDS-MD 16",
+        "Default password": "admin:PASS",
+        "Port": "80",
+        "Device type": "Medical Device Server",
+        "Protocol": "HTTP",
+        "Source": "https://dariusfreamon.wordpress.com/2015/07/11/lantronix-eds-md-medical-device-server-web-interface-default-admin-credentials/"
+    },
+    {
+        "Vendor": "Honeywell",
+        "Device": "Honeywell XL",
+        "Default password": "Guest:guest, SysAdmin:honey",
+        "Port": "80",
+        "Device type": "Controller",
+        "Protocol": "HTTP"
+    },
+    {
+        "Vendor": "Honeywell",
+        "Device": "Alerton BCM-WEB",
+        "Default password": "pass",
+        "Port": "80",
+        "Device type": "BACtalk control module",
+        "Protocol": "http",
+        "Source": "https://dariusfreamon.wordpress.com/2015/05/01/honeywell-alerton-bcm-web-default-admin-credentials/"
+    },
+    {
+        "Vendor": "Honeywell",
+        "Device": "NetAXS",
+        "Default password": "admin:admin",
+        "Port": "443",
+        "Device type": "Access control unit",
+        "Protocol": "https",
+        "Source": "https://www.honeywellaccess.com/documents/UserManual_for_Release_3-800-04410-A.pdf"
+    },
+    {
+        "Vendor": "General Electric Healthcare",
+        "Device": "FASTlab Synthesizer",
+        "Default password": "Admin:admin",
+        "Device type": "Synthesizer",
+        "Source": "https://dariusfreamon.wordpress.com/2015/07/12/ge-healthcare-fastlab-synthesizer-default-credentials/"
+    },
+    {
+        "Vendor": "General Electric Healthcare",
+        "Device": "HiSpeed CT/i, Lightspeed QX/i",
+        "Default password": "root:#bigguy, ctuser:4$apps",
+        "Device type": "Computed Tomography Scanner",
+        "Source": "https://dariusfreamon.wordpress.com/2014/09/04/ge-medical-systems-hispeed-cti-system-multiple-default-accounts/"
+    },
+    {
+        "Vendor": "General Electric Healthcare",
+        "Device": "Discovery CT590 RT, Optima CT580",
+        "Default password": "root:#bigguy",
+        "Device type": "Computed Tomography Scanner",
+        "Source": "https://dariusfreamon.wordpress.com/2014/09/04/ge-medical-systems-hispeed-cti-system-multiple-default-accounts/"
+    },
+    {
+        "Vendor": "General Electric Healthcare",
+        "Device": "Datex-Ohmeda Engstr\u00f6m Ventilator",
+        "Default password": "23-17-21 (Super User), 34-22-14 (service-level)",
+        "Device type": "Carestation Ventilators",
+        "Source": "http://static.medonecapital.com/manuals/techManuals/Datex-Ohmeda-Engstrom-VentilatorTechnical-Manual.pdf"
+    },
+    {
+        "Vendor": "General Electric Healthcare",
+        "Device": "TRACERlab FX2 M",
+        "Default password": "tracerlab:tracerlab (for remote access), admin:tracerlab",
+        "Device type": "chemistry synthesizer",
+        "Source": "https://dariusfreamon.wordpress.com/2015/07/12/ge-healthcare-tracerlab-fx2-m-multiple-default-credentials/"
+    },
+    {
+        "Vendor": "General Electric Healthcare",
+        "Device": "TRACERlab FX2 devices (model C, MeI and N)",
+        "Default password": "admin:tracerlab (physical access required)",
+        "Device type": "Synthesis module",
+        "Source": "https://dariusfreamon.wordpress.com/2015/07/12/ge-healthcare-tracerlab-fx2-default-admin-credentials/"
+    },
+    {
+        "Vendor": "Falcon",
+        "Device": "USHA",
+        "Default password": "USHA:admin",
+        "Port": "80",
+        "Device type": "UPS SNMP HTTP AGENT",
+        "Protocol": "HTTP",
+        "Source": "https://dariusfreamon.wordpress.com/2016/01/28/falcon-usha-ups-snmp-http-agent-default-admin-credentials/"
+    },
+    {
+        "Vendor": "ENTES",
+        "Device": "ENTBUS PLUS",
+        "Default password": "admin:1234",
+        "Device type": "Energy Management Software",
+        "Source": "http://www.entes.com.tr/dosyalar/ENTBUS%20Plus_Client_EN.pdf"
+    },
+    {
+        "Vendor": "ENTES",
+        "Device": "MPR-SW",
+        "Default password": "admin:none",
+        "Device type": "Monitoring & Reporting Software",
+        "Source": "http://tde-instruments.de/images/stories/produkte/MPR-SW2_Software_fuer_Fernueberwachung/entes_mpr-sw2-software-instruction_manual.pdf"
+    },
+    {
+        "Vendor": "Endress+Hauser",
+        "Device": "Fieldgate Viewer",
+        "Default password": "admin:0000",
+        "Device type": "HMI software",
+        "Source": "https://dariusfreamon.wordpress.com/2013/10/15/endresshauser-fieldgate-viewer-default-credentials/"
+    },
+    {
+        "Vendor": "Schneider Electric",
+        "Device": "M340",
+        "Default password": "USER:USER",
+        "Port": "80",
+        "Device type": "Industrial Control Systems",
+        "Protocol": "HTTP",
+        "Source": "https://github.com/arnaudsoullie/ics-default-passwords"
+    },
+    {
+        "Vendor": "Schneider Electric",
+        "Device": "Premium",
+        "Default password": "USER:USER",
+        "Port": "80",
+        "Device type": "Industrial Control Systems",
+        "Protocol": "HTTP",
+        "Source": "https://github.com/arnaudsoullie/ics-default-passwords"
+    },
+    {
+        "Vendor": "GarrettCom",
+        "Device": "Magnum Switch",
+        "Default password": "manager:manager",
+        "Port": "80",
+        "Device type": "Industrial Ethernet Switches",
+        "Protocol": "HTTP",
+        "Source": "https://github.com/arnaudsoullie/ics-default-passwords/blob/master/ics-default-passwords.csv"
+    },
+    {
+        "Vendor": "Benq",
+        "Device": "AWL700",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://www.cleancss.com/router-default/BenQ"
+    },
+    {
+        "Vendor": "BenQ",
+        "Device": "AWL500",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://www.cleancss.com/router-default/BenQ"
+    },
+    {
+        "Vendor": "Barracuda",
+        "Device": "Spam Firewall",
+        "Default password": "admin:adminbn99",
+        "Device type": "Firewall",
+        "Source": "https://www.cleancss.com/router-default/Barracuda/Barracuda_Spam_Firewall_3.3.01.001_to_3.3.03.053"
+    },
+    {
+        "Vendor": "Barracuda",
+        "Device": "Spam Firewall 300",
+        "Default password": "admin:admin",
+        "Device type": "Firewall",
+        "Source": "https://www.cleancss.com/router-default/Barracuda/Barracuda_Spam_Firewall_300"
+    },
+    {
+        "Vendor": "Barracuda",
+        "Device": "Spyware Firewall",
+        "Default password": "admin:admin",
+        "Device type": "Firewall",
+        "Source": "https://www.cleancss.com/router-default/Barracuda/Barracuda_Spyware_Firewall"
+    },
+    {
+        "Vendor": "3Com",
+        "Device": "LinkSwitch 2000",
+        "Default password": "tech:tech",
+        "Port": "23",
+        "Device type": "Switch",
+        "Protocol": "telnet"
+    },
+    {
+        "Vendor": "Huawei",
+        "Device": "E960",
+        "Default password": "admin:admin",
+        "Device type": "Router"
+    },
+    {
+        "Vendor": "3Com",
+        "Device": "CellPlex",
+        "Default password": "admin:admin",
+        "Port": "23",
+        "Device type": "Power Supply",
+        "Protocol": "telnet"
+    },
+    {
+        "Vendor": "Opengear",
+        "Device": "OM2200",
+        "Default password": "root:default",
+        "Port": "80",
+        "Device type": "Switch",
+        "Protocol": "http",
+        "Device IP Adress": "192.168.0.1",
+        "Source": "https://opengear.com/wp-content/uploads/2018/09/QSG-OM2200-Ver1.pdf"
+    },
+    {
+        "Vendor": "Opengear",
+        "Device": "OM2216",
+        "Default password": "root:default",
+        "Port": "80",
+        "Device type": "Industrial Switch",
+        "Protocol": "http",
+        "Device IP Adress": "192.168.0.1",
+        "Source": "https://opengear.com/wp-content/uploads/2018/09/QSG-OM2200-Ver1.pdf"
+    },
+    {
+        "Vendor": "Opengear",
+        "Device": "OM2248",
+        "Default password": "root:default",
+        "Port": "80",
+        "Device type": "Industrial Switch",
+        "Protocol": "http",
+        "Device IP Adress": "192.168.0.1",
+        "Source": "https://opengear.com/wp-content/uploads/2018/09/QSG-OM2200-Ver1.pdf"
+    },
+    {
+        "Vendor": "Opengear",
+        "Device": "OM2248-10G",
+        "Default password": "root:default",
+        "Port": "80",
+        "Device type": "Industrial Switch",
+        "Protocol": "http",
+        "Device IP Adress": "192.168.0.1",
+        "Source": "https://opengear.com/wp-content/uploads/2018/09/QSG-OM2200-Ver1.pdf"
+    },
+    {
+        "Vendor": "Opengear",
+        "Device": "OM2248-L",
+        "Default password": "root:default",
+        "Port": "80",
+        "Device type": "Industrial Switch",
+        "Protocol": "http",
+        "Device IP Adress": "192.168.0.1",
+        "Source": "https://opengear.com/wp-content/uploads/2018/09/QSG-OM2200-Ver1.pdf"
+    },
+    {
+        "Vendor": "Opengear",
+        "Device": "OM2248-10G-L",
+        "Default password": "root:default",
+        "Port": "80",
+        "Device type": "Switch",
+        "Protocol": "http",
+        "Device IP Adress": "192.168.0.1",
+        "Source": "https://opengear.com/wp-content/uploads/2018/09/QSG-OM2200-Ver1.pdf"
+    },
+    {
+        "Vendor": "Opengear",
+        "Device": "OM2224-24E",
+        "Default password": "root:default",
+        "Port": "80",
+        "Device type": "Switch",
+        "Protocol": "http",
+        "Device IP Adress": "192.168.0.1",
+        "Source": "https://opengear.com/wp-content/uploads/2018/09/QSG-OM2200-Ver1.pdf"
+    },
+    {
+        "Vendor": "Opengear",
+        "Device": "OM2224-24E-L",
+        "Default password": "root:default",
+        "Port": "80",
+        "Device type": "Switch",
+        "Protocol": "http",
+        "Device IP Adress": "192.168.0.1",
+        "Source": "https://opengear.com/wp-content/uploads/2018/09/QSG-OM2200-Ver1.pdf"
+    },
+    {
+        "Vendor": "Opengear",
+        "Device": "OM2224-24E-10G-L",
+        "Default password": "root:default",
+        "Port": "80",
+        "Device type": "Switch",
+        "Protocol": "http",
+        "Device IP Adress": "192.168.0.1",
+        "Source": "https://opengear.com/wp-content/uploads/2018/09/QSG-OM2200-Ver1.pdf"
+    },
+    {
+        "Vendor": "Opengear",
+        "Device": "IM7200",
+        "Default password": "root:default",
+        "Port": "80",
+        "Device type": "Infrastructure Manager",
+        "Protocol": "http",
+        "Device IP Adress": "192.168.0.1",
+        "Source": "https://ftp.opengear.com/download/quickstart/im7200/IM7200L-03212019.pdf"
+    },
+    {
+        "Vendor": "Opengear",
+        "Device": "IM7200",
+        "Default password": "root:default",
+        "Port": "80",
+        "Device type": "Infrastructure Manager",
+        "Protocol": "http",
+        "Device IP Adress": "192.168.0.1",
+        "Source": "https://ftp.opengear.com/download/quickstart/im7200/IM7200L-03212019.pdf"
+    },
+    {
+        "Vendor": "Opengear",
+        "Device": "OM7208",
+        "Default password": "root:default",
+        "Port": "80",
+        "Device type": "Infrastructure Manager",
+        "Protocol": "http",
+        "Device IP Adress": "192.168.0.1",
+        "Source": "https://ftp.opengear.com/download/quickstart/im7200/IM7200L-03212019.pdf"
+    },
+    {
+        "Vendor": "Opengear",
+        "Device": "IM7216",
+        "Default password": "root:default",
+        "Port": "80",
+        "Device type": "Infrastructure Manager",
+        "Protocol": "http",
+        "Device IP Adress": "192.168.0.1",
+        "Source": "https://ftp.opengear.com/download/quickstart/im7200/IM7200L-03212019.pdf"
+    },
+    {
+        "Vendor": "Opengear",
+        "Device": "IM7232",
+        "Default password": "root:default",
+        "Port": "80",
+        "Device type": "Infrastructure Manager",
+        "Protocol": "http",
+        "Device IP Adress": "192.168.0.1",
+        "Source": "https://ftp.opengear.com/download/quickstart/im7200/IM7200L-03212019.pdf"
+    },
+    {
+        "Vendor": "Opengear",
+        "Device": "IM7248",
+        "Default password": "root:default",
+        "Port": "80",
+        "Device type": "Infrastructure Manager",
+        "Protocol": "http",
+        "Device IP Adress": "192.168.0.1",
+        "Source": "https://ftp.opengear.com/download/quickstart/im7200/IM7200L-03212019.pdf"
+    },
+    {
+        "Vendor": "Opengear",
+        "Device": "CM7116",
+        "Default password": "root:default",
+        "Port": "443",
+        "Device type": "Console Manager",
+        "Protocol": "https",
+        "Device IP Adress": "192.168.0.1",
+        "Source": "http://ftp.opengear.com/download/quickstart/cm7100/cm7100-quick-start.pdf"
+    },
+    {
+        "Vendor": "Opengear",
+        "Device": "CM7132",
+        "Default password": "root:default",
+        "Port": "443",
+        "Device type": "Console Manager",
+        "Protocol": "https",
+        "Device IP Adress": "192.168.0.1",
+        "Source": "http://ftp.opengear.com/download/quickstart/cm7100/cm7100-quick-start.pdf"
+    },
+    {
+        "Vendor": "Opengear",
+        "Device": "CM7148",
+        "Default password": "root:default",
+        "Port": "443",
+        "Device type": "Console Manager",
+        "Protocol": "https",
+        "Device IP Adress": "192.168.0.1",
+        "Source": "http://ftp.opengear.com/download/quickstart/cm7100/cm7100-quick-start.pdf"
+    },
+    {
+        "Vendor": "Opengear",
+        "Device": "CM7196A",
+        "Default password": "root:default",
+        "Port": "443",
+        "Device type": "Console Manager",
+        "Protocol": "https",
+        "Device IP Adress": "192.168.0.1",
+        "Source": "http://ftp.opengear.com/download/quickstart/cm7100/cm7196a-quick-start.pdf"
+    },
+    {
+        "Vendor": "Opengear",
+        "Device": "ACM700x-2-LMx",
+        "Default password": "root:default",
+        "Port": "443",
+        "Device type": "Gateway",
+        "Protocol": "https",
+        "Device IP Adress": "192.168.0.1",
+        "Source": "http://ftp.opengear.com/download/quickstart/acm700x-lmx/acm700x-2-lmx-quick-start.pdf"
+    },
+    {
+        "Vendor": "Opengear",
+        "Device": "ACM7004-5-LMx",
+        "Default password": "root:default",
+        "Port": "443",
+        "Device type": "Gateway",
+        "Protocol": "https",
+        "Device IP Adress": "192.168.0.1",
+        "Source": "http://ftp.opengear.com/download/quickstart/acm700x-lmx/acm7004-5lmx-quick-start.pdf"
+    },
+    {
+        "Vendor": "Opengear",
+        "Device": "ACM5000",
+        "Default password": "root:default",
+        "Port": "443",
+        "Device type": "Remote Site Manager",
+        "Protocol": "https",
+        "Device IP Adress": "192.168.0.1",
+        "Source": "http://ftp.opengear.com/download/quickstart/acm5000/acm5000-quick-start.pdf"
+    },
+    {
+        "Vendor": "Opengear",
+        "Device": "SD4001",
+        "Default password": "root:default",
+        "Port": "443",
+        "Device type": "Serial Decvice Server",
+        "Protocol": "https",
+        "Device IP Adress": "192.168.0.1",
+        "Source": "http://ftp.opengear.com/download/quickstart/x-quickstart/SD4001%20Quick%20Start.pdf"
+    },
+    {
+        "Vendor": "Opengear",
+        "Device": "SD4002",
+        "Default password": "root:default",
+        "Port": "443",
+        "Device type": "Console Server",
+        "Protocol": "https",
+        "Device IP Adress": "192.168.0.1",
+        "Source": "http://ftp.opengear.com/download/quickstart/x-quickstart/SD4002%20Quick%20Start.pdf"
+    },
+    {
+        "Vendor": "Opengear",
+        "Device": "CM4116",
+        "Default password": "root:default",
+        "Port": "443",
+        "Device type": "Console Server",
+        "Protocol": "https",
+        "Device IP Adress": "192.168.0.1",
+        "Source": "http://ftp.opengear.com/download/quickstart/x-quickstart/CM4116,%204132%20&%204148%20Quick%20Start.pdf"
+    },
+    {
+        "Vendor": "Opengear",
+        "Device": "CM4132",
+        "Default password": "root:default",
+        "Port": "443",
+        "Device type": "Console Server",
+        "Protocol": "https",
+        "Device IP Adress": "192.168.0.1",
+        "Source": "http://ftp.opengear.com/download/quickstart/x-quickstart/CM4116,%204132%20&%204148%20Quick%20Start.pdf"
+    },
+    {
+        "Vendor": "Opengear",
+        "Device": "CM4148",
+        "Default password": "root:default",
+        "Port": "443",
+        "Device type": "Console Server",
+        "Protocol": "https",
+        "Device IP Adress": "192.168.0.1",
+        "Source": "http://ftp.opengear.com/download/quickstart/x-quickstart/CM4116,%204132%20&%204148%20Quick%20Start.pdf"
+    },
+    {
+        "Vendor": "Opengear",
+        "Device": "ACM5504-2-P",
+        "Default password": "root:default",
+        "Port": "443",
+        "Device type": "Monitoring",
+        "Protocol": "https",
+        "Device IP Adress": "192.168.0.1",
+        "Source": "http://ftp.opengear.com/download/quickstart/acm5500/acm5504-2-P-quick-start.pdf"
+    },
+    {
+        "Vendor": "Opengear",
+        "Device": "ACM5504-5-G-I",
+        "Default password": "root:default",
+        "Port": "443",
+        "Device type": "Gateway",
+        "Protocol": "https",
+        "Device IP Adress": "192.168.0.1",
+        "Source": "http://ftp.opengear.com/download/quickstart/acm5500/acm5504-5-G-I-quick-start.pdf"
+    },
+    {
+        "Vendor": "Opengear",
+        "Device": "ACM5504-5-GS-I",
+        "Default password": "root:default",
+        "Port": "443",
+        "Device type": "Gateway",
+        "Protocol": "https",
+        "Device IP Adress": "192.168.0.1",
+        "Source": "http://ftp.opengear.com/download/quickstart/acm5500/acm5504-5-GS-I-quick-start.pdf"
+    },
+    {
+        "Vendor": "Opengear",
+        "Device": "ACM5504-5-G-W-I",
+        "Default password": "root:default",
+        "Port": "443",
+        "Device type": "Gateway",
+        "Protocol": "https",
+        "Device IP Adress": "192.168.0.1",
+        "Source": "http://ftp.opengear.com/download/quickstart/acm5500/acm5504-5-G-W-I-quick-start.pdf"
+    },
+    {
+        "Vendor": "Opengear",
+        "Device": "ACM5504-5-GV-I",
+        "Default password": "root:default",
+        "Port": "443",
+        "Device type": "Gateway",
+        "Protocol": "https",
+        "Device IP Adress": "192.168.0.1",
+        "Source": "http://ftp.opengear.com/download/quickstart/acm5500/acm5504-5-GV-I-quick-start.pdf"
+    },
+    {
+        "Vendor": "Cisco",
+        "Device": "2600",
+        "Default password": "Administrator:admin",
+        "Port": "23",
+        "Device type": "Router",
+        "Protocol": "telnet",
+        "Source": "https://192-168-1-1ip.mobi/default-router-passwords-list/"
+    },
+    {
+        "Vendor": "Cisco",
+        "Device": "3600",
+        "Default password": "Administrator:admin",
+        "Port": "23",
+        "Device type": "Router",
+        "Protocol": "telnet",
+        "Source": "https://192-168-1-1ip.mobi/default-router-passwords-list/"
+    },
+    {
+        "Vendor": "Cisco",
+        "Device": "3700",
+        "Default password": "cisco:cisco",
+        "Port": "23",
+        "Device type": "Router",
+        "Protocol": "telnet"
+    },
+    {
+        "Vendor": "Cisco",
+        "Device": "SPA 122",
+        "Default password": "admin:admin",
+        "Device type": "Router",
+        "Source": "https://www.ukvoipforums.com/viewtopic.php?t=18"
+    },
+    {
+        "Vendor": "Cisco",
+        "Device": "Aironet 1200",
+        "Default password": "root:cisco",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Source": "https://192-168-1-1ip.mobi/default-router-passwords-list/"
+    },
+    {
+        "Vendor": "Inteno",
+        "Device": "DG201-R1B",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "http",
+        "Device IP Adress": "192.168.5.1",
+        "Source": "https://setuprouter.com/router/inteno/dg201-r1b/login.htm"
+    },
+    {
+        "Vendor": "Allnet",
+        "Device": "All0305",
+        "Default password": "root:admin",
+        "Port": "80",
+        "Device type": "Outdoor Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://www.cleancss.com/router-default/Allnet"
+    },
+    {
+        "Vendor": "Allnet",
+        "Device": "ALL129DSL",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "http",
+        "Source": "https://www.cleancss.com/router-default/Allnet"
+    },
+    {
+        "Vendor": "Allnet",
+        "Device": "ALL0275",
+        "Default password": "none:admin",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "http",
+        "Source": "https://www.cleancss.com/router-default/Allnet"
+    },
+    {
+        "Vendor": "Allnet",
+        "Device": "All0276",
+        "Default password": "none:none",
+        "Device type": "Wireless Router",
+        "Source": "https://www.cleancss.com/router-default/Allnet"
+    },
+    {
+        "Vendor": "ASRock",
+        "Device": "G10",
+        "Default password": "admin:admin",
+        "Device type": "Router",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://www.cleancss.com/router-default/ASRock"
+    },
+    {
+        "Vendor": "ASRock",
+        "Device": "H2R",
+        "Default password": "admin:admin",
+        "Device type": "Router",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://www.cleancss.com/router-default/ASRock"
+    },
+    {
+        "Vendor": "ASRock",
+        "Device": "X10",
+        "Default password": "admin:admin",
+        "Device type": "Router",
+        "Source": "https://www.cleancss.com/router-default/ASRock"
+    },
+    {
+        "Vendor": "Alcatel",
+        "Device": "TIMESTEP VPN 1520",
+        "Default password": "root:permit",
+        "Device type": "Gateway",
+        "Source": "https://www.cleancss.com/router-default/Alcatel"
+    },
+    {
+        "Vendor": "Alcatel",
+        "Device": "Speedtouch 510",
+        "Default password": "none:none",
+        "Device type": "Router",
+        "Device IP Adress": "192.168.1.254",
+        "Source": "https://www.cleancss.com/router-default/Alcatel"
+    },
+    {
+        "Vendor": "Alcatel",
+        "Device": "TG585",
+        "Default password": "Administrator:none",
+        "Device type": "Router",
+        "Device IP Adress": "192.168.1.254",
+        "Source": "https://www.cleancss.com/router-default/Alcatel"
+    },
+    {
+        "Vendor": "Alcatel",
+        "Device": "TG782T",
+        "Default password": "admin:none",
+        "Device type": "Router",
+        "Device IP Adress": "10.0.0.138",
+        "Source": "https://www.cleancss.com/router-default/Alcatel"
+    },
+    {
+        "Vendor": "LB-Link",
+        "Device": "BL-WR3000",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.16.1",
+        "Source": "https://www.cleancss.com/router-default/B-LINK"
+    },
+    {
+        "Vendor": "LB-Link",
+        "Device": "BL-WA01",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.16.1",
+        "Source": "https://www.cleancss.com/user-manuals/X2N/BL-WAXX"
+    },
+    {
+        "Vendor": "LB-Link",
+        "Device": "BL-MP02",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "http",
+        "Device IP Adress": "192.168.16.254",
+        "Source": "https://www.cleancss.com/user-manuals/X2N/BL-MP01"
+    },
+    {
+        "Vendor": "LB-Link",
+        "Device": "BL-MP01",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "httpp",
+        "Device IP Adress": "192.168.16.254",
+        "Source": "https://www.cleancss.com/user-manuals/X2N/BL-MP01"
+    },
+    {
+        "Vendor": "LB-Link",
+        "Device": "BL-310r",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "http",
+        "Device IP Adress": "192.168.16.1",
+        "Source": "https://www.cleancss.com/router-default/B-LINK"
+    },
+    {
+        "Vendor": "APC",
+        "Device": "AP9606",
+        "Default password": "apc:apc",
+        "Device type": "Management Card",
+        "Source": "https://www.cleancss.com/router-default/APC"
+    },
+    {
+        "Vendor": "APC",
+        "Device": "AP9210",
+        "Default password": "apc:apc",
+        "Device type": "Switch",
+        "Source": "https://www.cleancss.com/router-default/APC"
+    },
+    {
+        "Vendor": "APC",
+        "Device": "WMR1000G",
+        "Default password": "Admin:APC",
+        "Device type": "Wireless Router",
+        "Source": "https://www.cleancss.com/router-default/APC"
+    },
+    {
+        "Vendor": "PCI",
+        "Device": "BLW-54MF",
+        "Default password": "admin:admin",
+        "Device type": "Router",
+        "Source": "https://www.cleancss.com/router-default/PCI"
+    },
+    {
+        "Vendor": "PCI",
+        "Device": "BLW-HPMM",
+        "Default password": "admin:0000",
+        "Device type": "Router",
+        "Source": "https://www.cleancss.com/router-default/PCI"
+    },
+    {
+        "Vendor": "Alien",
+        "Device": "ALR-9900",
+        "Default password": "root:alien.",
+        "Device type": "RFID Reader",
+        "Source": "https://www.cleancss.com/router-default/Alien"
+    },
+    {
+        "Vendor": "Amigo",
+        "Device": "BRC70n",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://wikidevi.com/wiki/Amigo_BRC70n"
+    },
+    {
+        "Vendor": "Amigo",
+        "Device": "BRB72n",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://wikidevi.com/wiki/Amigo_BRB72n"
+    },
+    {
+        "Vendor": "Amigo",
+        "Device": "BRC76n",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://wikidevi.com/wiki/Amigo_BRC76n"
+    },
+    {
+        "Vendor": "Amigo",
+        "Device": "BRD70n",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://wikidevi.com/wiki/Amigo_BRD70n"
+    },
+    {
+        "Vendor": "Amigo",
+        "Device": "BRE70n",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "http",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://wikidevi.com/wiki/Amigo_BRE70n"
+    },
+    {
+        "Vendor": "Amigo",
+        "Device": "BRF70n",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "http",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://www.cleancss.com/router-default/AMIGO"
+    },
+    {
+        "Vendor": "Canon",
+        "Device": "iR-2525i",
+        "Default password": "7654321:7654321",
+        "Device type": "Printer",
+        "Source": "https://www.cleancss.com/router-default/Canon"
+    },
+    {
+        "Vendor": "Canon",
+        "Device": "iR-2535i",
+        "Default password": "7654321:7654321",
+        "Device type": "Printer",
+        "Source": "https://www.cleancss.com/router-default/Canon"
+    },
+    {
+        "Vendor": "Canon",
+        "Device": "iR-350",
+        "Default password": "7654321:7654321",
+        "Device type": "Printer",
+        "Source": "https://www.cleancss.com/router-default/Canon"
+    },
+    {
+        "Vendor": "Canon",
+        "Device": "iR-ADV C2020L",
+        "Default password": "7654321:7654321",
+        "Device type": "Printer",
+        "Source": "https://www.cleancss.com/router-default/Canon"
+    },
+    {
+        "Vendor": "Canon",
+        "Device": "iR-ADV C5035",
+        "Default password": "7654321:7654321",
+        "Device type": "Printer",
+        "Source": "https://www.cleancss.com/router-default/Canon"
+    },
+    {
+        "Vendor": "Canon",
+        "Device": "iR-ADV C5235",
+        "Default password": "7654321:7654321",
+        "Device type": "Printer",
+        "Source": "https://www.cleancss.com/router-default/Canon"
+    },
+    {
+        "Vendor": "Canon",
+        "Device": "iR-ADV C5240",
+        "Default password": "7654321:7654321",
+        "Device type": "Printer",
+        "Source": "https://www.cleancss.com/router-default/Canon"
+    },
+    {
+        "Vendor": "Handlink",
+        "Device": "AP-100",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "10.59.100.1",
+        "Source": "https://www.cleancss.com/user-manuals/TWS/-AP-100"
+    },
+    {
+        "Vendor": "Handlink",
+        "Device": "WAP-001",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "10.59.1.254",
+        "Source": "https://www.cleancss.com/router-default/Handlink/WAP-001"
+    },
+    {
+        "Vendor": "Encore",
+        "Device": "ENDSL-4R5G",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://wikidevi.com/wiki/Encore_ENDSL-4R5G"
+    },
+    {
+        "Vendor": "RayTalk",
+        "Device": "RB-300",
+        "Default password": "root:root",
+        "Port": "80",
+        "Device type": "Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "http://router-password.com/raytalk/rb-300/"
+    },
+    {
+        "Vendor": "Snom",
+        "Device": "320 VoIP Business Phone",
+        "Default password": "Administrator:0000",
+        "Port": "80",
+        "Device type": "Phone",
+        "Protocol": "HTTP",
+        "Source": "https://www.cirt.net/passwords?vendor=Snom"
+    },
+    {
+        "Vendor": "Snom",
+        "Device": "360 VoIP Business Phone",
+        "Default password": "Administrator:0000",
+        "Port": "80",
+        "Device type": "Phone",
+        "Protocol": "HTTP",
+        "Source": "https://www.cirt.net/passwords?vendor=Snom"
+    },
+    {
+        "Vendor": "SolarWinds",
+        "Device": "Web Help Desk",
+        "Default password": "whd:whd",
+        "Port": "80",
+        "Device type": "Monitoring & Reporting Software",
+        "Protocol": "http",
+        "Source": "https://support.solarwinds.com/SuccessCenter/s/"
+    },
+    {
+        "Vendor": "Askey",
+        "Device": "AWRT-300N",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Smart Hub",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://bestvpn.org/default-router-passwords/"
+    },
+    {
+        "Vendor": "Askey",
+        "Device": "AWRT-550N",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Smart Hub",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.15.1",
+        "Source": "https://www.askey.com.tw/index.html"
+    },
+    {
+        "Vendor": "Askey",
+        "Device": "AWRT-550N",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Smart Hub",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.15.1",
+        "Source": "https://www.askey.com.tw/index.html"
+    },
+    {
+        "Vendor": "Asus",
+        "Device": "DWL-2200AP",
+        "Default password": "admin:password",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "http",
+        "Device IP Adress": "192.168.0.1",
+        "Source": "https://bestvpn.org/default-router-passwords/"
+    },
+    {
+        "Vendor": "Asus",
+        "Device": "DWL-3200AP",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://bestvpn.org/default-router-passwords/"
+    },
+    {
+        "Vendor": "Asus",
+        "Device": "DWL-3260AP",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://bestvpn.org/default-router-passwords/"
+    },
+    {
+        "Vendor": "Asus",
+        "Device": "DWL-5000AP",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://bestvpn.org/default-router-passwords/"
+    },
+    {
+        "Vendor": "Asus",
+        "Device": "DWL-6000AP",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Access Point",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://bestvpn.org/default-router-passwords/"
+    },
+    {
+        "Vendor": "Asus",
+        "Device": "ENHWI-N",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://bestvpn.org/default-router-passwords/"
+    },
+    {
+        "Vendor": "Asus",
+        "Device": "ENHWI-N",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://bestvpn.org/default-router-passwords/"
+    },
+    {
+        "Vendor": "Asus",
+        "Device": "ENHWI-N",
+        "Default password": "admin:admin",
+        "Port": "80",
+        "Device type": "Wireless Router",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://bestvpn.org/default-router-passwords/"
+    },
+    {
+        "Vendor": "Alcatel",
+        "Device": "VPN",
+        "Default password": "root:permit",
+        "Device type": "VPN Gateway",
+        "Source": "https://datarecovery.com/rd/default-passwords/"
+    },
+    {
+        "Vendor": "Alcatel",
+        "Device": "VPN",
+        "Default password": "root:permit",
+        "Device type": "VPN Gateway",
+        "Source": "https://datarecovery.com/rd/default-passwords/"
+    },
+    {
+        "Vendor": "APC",
+        "Device": "NetBotz 355",
+        "Default password": "root:apc",
+        "Device type": "IP Camera",
+        "Source": "https://download.schneider-electric.com/files?p_File_Name=JGAY-7D6KJP_R2_DE.pdf&p_Doc_Ref=SPD_JGAY-7D6KJP_DE"
+    },
+    {
+        "Vendor": "APC",
+        "Device": "NBRK0450",
+        "Default password": "root:apc",
+        "Device type": "Rack Monitor",
+        "Source": "https://download.schneider-electric.com/files?p_File_Name=LSCZ-7BUKZ9_R6_DE.pdf&p_Doc_Ref=SPD_LSCZ-7BUKZ9_DE"
+    },
+    {
+        "Vendor": "APC",
+        "Device": "NBRK0550",
+        "Default password": "root:apc",
+        "Device type": "Rack Monitor",
+        "Source": "https://download.schneider-electric.com/files?p_File_Name=LSCZ-7BUKZ9_R6_DE.pdf&p_Doc_Ref=SPD_LSCZ-7BUKZ9_DE"
+    },
+    {
+        "Vendor": "APC",
+        "Device": "NBRK0570",
+        "Default password": "root:apc",
+        "Device type": "Rack Monitor",
+        "Source": "https://download.schneider-electric.com/files?p_File_Name=LSCZ-7BUKZ9_R6_DE.pdf&p_Doc_Ref=SPD_LSCZ-7BUKZ9_DE"
+    },
+    {
+        "Vendor": "APC",
+        "Device": "NetBotz 455",
+        "Default password": "root:apc",
+        "Device type": "IP Camera",
+        "Source": "https://download.schneider-electric.com/files?p_File_Name=LSCZ-7DGMPF_R3_DE.pdf&p_Doc_Ref=SPD_LSCZ-7DGMPF_DE"
+    },
+    {
+        "Vendor": "3M",
+        "Device": "VOL-0215 ETC",
+        "Default password": "volition:volition",
+        "Device type": "Router",
+        "Source": "https://www.cleancss.com/router-default/3M"
+    },
+    {
+        "Vendor": "3WARE",
+        "Device": "3DM2",
+        "Default password": "Administrator:3ware",
+        "Device type": "Raid Controller",
+        "Source": "https://www.thomas-krenn.com/de/wiki/3ware_Controller_3DM2_Passwort"
+    },
+    {
+        "Vendor": "8level",
+        "Device": "WRT-150",
+        "Default password": "admin:admin",
+        "Device type": "Router",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://setuprouter.com/router/8level/wrt-150/login.htm"
+    },
+    {
+        "Vendor": "Dell",
+        "Device": "PowerConnect 2708",
+        "Default password": "admin:none",
+        "Port": "80",
+        "Device type": "Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.2.1",
+        "Source": "https://www.miarec.com/knowledge/how-configure-port-mirroring-dell-powerconnect-2700-series"
+    },
+    {
+        "Vendor": "Dell",
+        "Device": "PowerConnect 2716",
+        "Default password": "admin:none",
+        "Port": "80",
+        "Device type": "Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.2.1",
+        "Source": "https://www.miarec.com/knowledge/how-configure-port-mirroring-dell-powerconnect-2700-series"
+    },
+    {
+        "Vendor": "Dell",
+        "Device": "PowerConnect 2724",
+        "Default password": "admin:none",
+        "Port": "80",
+        "Device type": "Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.2.1",
+        "Source": "https://www.miarec.com/knowledge/how-configure-port-mirroring-dell-powerconnect-2700-series"
+    },
+    {
+        "Vendor": "Dell",
+        "Device": "PowerConnect 2748",
+        "Default password": "admin:none",
+        "Port": "80",
+        "Device type": "Switch",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.2.1",
+        "Source": "https://www.miarec.com/knowledge/how-configure-port-mirroring-dell-powerconnect-2700-series"
+    },
+    {
+        "Vendor": "Juniper",
+        "Device": "SRX100",
+        "Default password": "root:none",
+        "Port": "80",
+        "Device type": "Gateway",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://www.cleancss.com/router-default/Juniper/SRX100"
+    },
+    {
+        "Vendor": "Juniper",
+        "Device": "SRX210",
+        "Default password": "root:none",
+        "Port": "80",
+        "Device type": "Gateway",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://www.cleancss.com/router-default/Juniper/SRX210"
+    },
+    {
+        "Vendor": "Juniper",
+        "Device": "SSG 140",
+        "Default password": "netscreen:netscreen",
+        "Port": "80",
+        "Device type": "Firewall",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://www.cleancss.com/router-default/Juniper/SSG_140"
+    },
+    {
+        "Vendor": "Juniper",
+        "Device": "SSG 20",
+        "Default password": "netscreen:netscreen",
+        "Port": "80",
+        "Device type": "Gateway",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://www.cleancss.com/router-default/Juniper/SSG_20"
+    },
+    {
+        "Vendor": "Juniper",
+        "Device": "ISG2000",
+        "Default password": "netscreen:netscreen",
+        "Port": "80",
+        "Device type": "Gateway",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://www.juniper.net/documentation/hardware/netscreen-systems/netscreen-systems61/HW_ISG2000_610.pdf"
+    },
+    {
+        "Vendor": "Juniper",
+        "Device": "ISG2000",
+        "Default password": "netscreen:netscreen",
+        "Port": "80",
+        "Device type": "Gateway",
+        "Protocol": "HTTP",
+        "Device IP Adress": "192.168.1.1",
+        "Source": "https://www.juniper.net/documentation/hardware/netscreen-systems/netscreen-systems61/HW_ISG2000_610.pdf"
+    },
+    {
+        "Vendor": "Wago",
+        "Device": "PM8240",
+        "Default password": "admin:wago",
+        "Device type": "Controller",
+        "Source": "https://www.mmf.de/manual/wago_pfc200mane.pdf"
+    },
+    {
+        "Vendor": "Huawei",
+        "Device": "ctrl-1",
+        "Default password": "admin:Change_me",
+        "Port": "80",
+        "Device type": "iot",
+        "Protocol": "http",
+        "Device IP Adress": "94.224.147.56",
+        "Source": "https://support.huawei.com/enterprise/en/doc/EDOC1100057456/ddea0b29/default-accounts"
+    },
+    {
+        "Vendor": "Mobotix",
+        "Device": "*",
+        "Default password": "admin:meinsm",
+        "Device type": "IP Camera",
+        "Source": "https://community.mobotix.com/t/ich-habe-mein-passwort-vergessen-was-kann-ich-tun/509"
+    },
+    {
+        "Vendor": "Yokogawa",
+        "Device": "nano",
+        "Default password": "User001:User001",
+        "Port": "443",
+        "Device type": "Industrial 802.11n wireless AP/bridge/client",
+        "Protocol": "https",
+        "Device IP Adress": "200.34.12.4.5",
+        "Source": "https://web-material3.yokogawa.com/1/25593/details/IM04L51B01-05EN.pdf"
+    },
+    {
+        "Vendor": "TP-Link",
+        "Device": "access",
+        "Default password": "admin:admin",
+        "Device type": "Access Point",
+        "Source": "https://www.tp-link.com/us/support/faq/426/#:~:text=The%20default%20IP%20address%20is,admin%20(all%20lower%20case)."
+    }
+]

@@ -1,0 +1,562 @@
+,Vendor,Device,Default password,Device type,Source,Port,Protocol,Device IP Adress
+0,ABB,AC 800M,service:ABB800xA,Controller,https://library.e.abb.com/public/f355a67551218ae7c1257dc0003298c5/3BDS021515-600_-_en_AC_800M_6.0_PROFINET_IO_Configuration.pdf,,,
+1,ABB,SREA-01,admin:admin,Ethernet Adapter Module,https://www.inverterdrive.com/file/ABB-SREA-01-Manual,80/tcp,http,
+2,Adcon Telemetry,Telemetry Gateway A840 and Wireless Modem A440,root:840sw,Base Station,http://www.adcon.com/index.php?option=com_docman&task=doc_download&gid=41&Itemid=239&lang=de,terminal program,,
+3,Adcon Telemetry,addVANTAGE Pro 6.1,root:root,HMI,http://adcon.com/index.php?option=com_docman&task=doc_download&gid=31&Itemid=239&lang=en,8080/tcp,HTTP,
+4,Advantech,Advantech WebAccess browser-based HMI and SCADA software,admin:blank,browser-based HMI and SCADA software,http://advantech.vo.llnwd.net/o35/www/webaccess/driver_manual/Advantech-WebAccess-Quick-Start-Guide.pdf,80/tcp,HTTP,
+5,Allied Telesis,"IE200 Series AT-IE200-6GT, AT-IE200-6GP, AT-IE200-6FT, AT-IE200-6FP",manager:friend,Industrial Ethernet Switches,http://www.alliedtelesis.com/userfiles/file/IE200_InstallGuide_RevC.pdf,terminal or terminal emulator program,,
+6,B&B ELECTRONICS,CR10 v2,root:root,Industrial router,http://tekniska.pl/downloadfile/1400014902-1208342584-pdf,80/tcp,http,
+7,B&B ELECTRONICS,Conel 4.0.1,root:root,Industrial router,http://conel.ru/shared/files/201502/9_411.pdf,80/tcp,http,
+8,B&B ELECTRONICS,SPECTRE Router,root:root,Router,b&b electronics SPECTRE Router.pdf,80/tcp,http,
+9,B&B ELECTRONICS,ER75i/ER 75i DUO/ER 75i SL/ER75i v2,root:root,Industrial router,http://ec-mobile.ru/user_files/File/Conel/ER75i_Manual_RUS.pdf,80/tcp,http,
+10,B&B ELECTRONICS,LR77 v2 Libratum/LR77 v2,root:root,Industrial router,"http://www.induowireless.com/wp-content/uploads/2014/12/lr77-v2-libratum-manual.pdf, http://data.kommago.nl/files/pdf/conel-lr77_v2-handleiding.pdf",80/tcp,http,
+11,B&B ELECTRONICS,UR5i v2,root:root,Industrial router,http://www.cd.lucom.de/vpn-industrie-router/dokumentation/handbuch/ur5iv2-guide.pdf,80/tcp,http,
+12,B&B ELECTRONICS,UCR11-v2/UCR11 v2 SL,root:root,Industrial router,http://www.induowireless.com/wp-content/uploads/2014/03/ucr11-3g-router-hspa-cdma.pdf,80/tcp,http,
+13,B&B ELECTRONICS,XR5i v2E/XR5i v2/XR5i/XR5i SL,root:root,Industrial router,http://www.cd.lucom.de/vpn-industrie-router/dokumentation/handbuch/xr5iv2e-guide.pdf,80/tcp,http,
+14,Beckhoff Automation GmbH,CX5020,webguest:1,PLC,https://www.researchgate.net/publication/272420507_ICSSCADA_Security_Analysis_of_a_Beckhoff_CX5020_PLC,23/tcp,Telnet,
+15,Beck IPC,IPC@CHIP,"PPPSERVER:, ppps:ppps",PLC,https://www.beck-ipc.com/files/api/scxxx/config.htm,,pap/chap,
+16,BinTec Elmeg,BinTec X1200 II,"admin:bintec,",Router,http://www.router-defaults.com/Router/BinTec--x1200-ip-password-username,,,
+17,BinTec Elmeg,any routers,"(##unknown - means not known or any char):, ##unknown:snmp-Trap , suggested:, admin:1234, admin:password, admin:admin",Router,http://www.router-defaults.com/Router/BinTec--x1200-ip-password-username,,,
+18,BinTec Elmeg,BinTec R230aw,admin:funkwerk,Router,http://www.tomshw.it/forum/banda-larga/154194-router-bintec.html,,,
+19,BinTec Elmeg,Bintec W2002T-n,"admin:funkwerk, admin:admin",WLAN Access Point for applications in rolling stocks,http://www.bintec-elmeg.com/download.php?src=portal/downloadcenter/dateien/w2002tn/documentation/Notes-default-password-standard-passwort.pdf&system_id=138324,,,
+20,Carlo Gavazzi,PowerSoft,"admin:admin, user:user",modular software,https://www.gavazzionline.com/pdf/PowerSoftIMENG.pdf,,,
+21,Contemporary Control Systems,BASRT-B,admin:admin,Router,http://www.ccontrols.com/pdf/TD0712000I2.pdf,80/tcp,http,
+22,Datasensor,UR5i/UR5i SL,root:root,Router,http://datasensor.de/sites/datasensor.de/files/datasheets/UR5i_m_e.pdf,80/tcp,http,
+23,Deif,AWC 500,"root:deif7800 (administrator), default:1234 (user)",Advanced Wind turbine Controller,http://www.deifwindpower.com/Files/Files/Documentation/Products/AWC-500/4189340733_AWC_500_Getting_started.pdf,,,
+24,Digi,DC-ME-01T-S,root:dbps,Networking Modules,http://www.digi.com/support/forum/13553/digi-connect-me-default-password,,http,
+25,Digi,"Digi Connect SP,Digi Connect Wi-SP,Digi Connect ME,Digi Connect ME 4 MB,Digi Connect Wi-ME,Digi Connect EM,Digi Connect Wi-EM",root:dbps,Network Device Server Module,http://ftp1.digi.com/support/documentation/90000565_P1.pdf,80/tcp,http,
+26,Digi,"Digi Connect ES 4/8 SB with Switch, Digi Connect ES 4/8 SB",root:dbps,Concentrator,http://ftp1.digi.com/support/documentation/90000565_P1.pdf,80/tcp,http,
+27,Digi,"ConnectPort TS 4x4, ConnectPort TS 4x2, ConnectPort TS W, ConnectPort TS 8, ConnectPort TS 8 MEI, ConnectPort TS 16",root:dbps,Terminal Server,http://ftp1.digi.com/support/documentation/90000565_P1.pdf,80/tcp,http,
+28,Digi,"Digi Connect WAN, Digi Connect WAN GPRS, Digi Connect WAN GSM-R, Digi Connect WAN VPN, Digi Connect WAN IA, Digi Connect WAN 3G, Digi Connect WAN 3G IA, Digi Connect WAN 4G",root:dbps,Industrial router,http://www.acspl.com.au/Manuals/digi_Wan.pdf,80/tcp,http,
+29,Digi,Digi TransPort WR21/WR44,username:password,Industrial router,http://ftp1.digi.com/support/documentation/transport/assets/guides/IG_Digi_WR21.pdf,80/tcp,http,
+30,Digi,Digi CM,root:dbps,Industrial router,http://ftp1.digi.com/support/documentation/90000300_E.pdf,"console port (9600, 8, N, 1)",,
+31,Digi,DigiOne IAP Serial,root:dbps,Gateway,http://web-material3.yokogawa.com/IMMW100EIP.pdf,80/tcp,http,
+32,Echelon,i.LON SmartServer,"for ftp and lns servers:, ilon:ilon",router,http://www.unicom-bg.com/pdf/systemintegration/iLONproducts/i.LON_SmartServer_Freely_Programmable_Modules_User_Guide.pdf,,"ftp, L2TP",
+33,Electro Industries/GaugeTech,"Nexus 1500+, Nexus 1500",anonymous:anonymous,Power Quality Meter,"http://www.electroind.com/products/Nexus_1500+/pdf/manuals/Nexus%201500+%20Power%20Quality%20Meter%20User%20Manual%20V.1.01_E154713.pdf, http://www.electroind.com/products/Nexus_1500/pdf/manuals/Nexus%201500%20Transient%20Recording%20Power%20Quality%20Rev",80/tcp,HTTP,
+34,Electro Industries/GaugeTech,Communicator EXT 3.0,eignet:inp100,Power Monitoring Software,http://www.electroind.com/pdf/11_13_12_pdf/E107707_ComEXT_Manual.pdf,80/tcp,HTTP,
+35,Emerson,DeltaV Digital Automation System,Administrator:deltav,Automation System,http://www.chem.mtu.edu/chem_eng/current/new_courses/CM4120/2009/Getting%20Started.pdf,,,
+36,Emerson,Liebert IntelliSlot Web Card,"Liebert:Liebert, User:User",Web Card,http://www.emersonnetworkpower.com/documentation/en-us/products/monitoring/documents/sl-52615.pdf,23/tcp,telnet,
+37,Emerson,Smart Wireless Gateway 1420,"admin:default, maint:default, oper:default, exec:default",Wireless Gateway,http://www2.emersonprocess.com/siteadmincenter/PM%20Rosemount%20Documents/00809-0200-4420.pdf,80/tcp,http,
+38,Emerson,Network Power MPH2 Rack PDU,admin:admin,Rack PDUs,https://community.emerson.com/networkpower/support/avocent/power/mph2/m/mediagallery/3093,80/tcp,http,
+39,Emerson,UL33 UPS,123456,UPS,http://www.emersonnetworkpower-partner.com/ArticleDocuments/4091/UL33%20User%20Manual%20Communication.doc.aspx,,Serial,
+40,Emerson,Control Link Refrigeration System Controller,0,Controller,http://foodservice.structuralconcepts.com/media/com_sccmanager/temp-controller-info/emerson-control-link-cpc-controller.pdf,,,
+41,Emerson,UltraSite,"User 01:100, User 05:200, User 09:300, Engineer:400",Software,http://www.emersonclimate.com/Documents/Retail%20Solutions/Manuals/0261004Rev1.pdf,,,
+42,Emerson,Avocent ACS 6000 Advanced Console Server,"admin:avocent, root:linux",Console Server,http://pcs.mktg.avocent.com/@@content/manual/590767501h.pdf,,"console port, with Telnet, SSH",
+43,Emerson,ROCLINK 800,LOI:1000,Software,http://www.documentation.emersonprocess.com/groups/public/documents/instruction_manuals/d301159x012.pdf,,Console,
+44,Emerson,ControlWave Micro Quick,"for download project:, SYSTEM:666666",PLC,http://www.documentation.emersonprocess.com/groups/public/documents/users_guide/d301425x012.pdf,,,
+45,Emerson,IP-KVM Avocent MergePoint Unity,Admin:blank,Switch,http://community.emerson.com/networkpower/support/avocent/kvmip/mpunity/w/wiki-mergepoint-unity/363.default-user-name-and-password-for-the-mergepoint-unity-kvm-over-ip-appliance,,"local, HTTP",
+46,Emerson,Ovation DCS,wdpf,Switch for Distributed Control System,https://supportforums.cisco.com/sites/default/files/legacy/0/3/9/11930-cs2.txt,,Telnet,
+47,Emerson,Ovation DCS,SNMP community string wdpfRO,Switch for Distributed Control System,https://supportforums.cisco.com/sites/default/files/legacy/0/3/9/11930-cs2.txt,,SNMP,
+48,Endress+Hauser,Fieldgate FXA520,super:super,Gateway for remote monitoring and diagnosis,https://portal.endress.com/wa001/dla/5000241/6638/000/03/BA00051SEN_1514.pdf,80/tcp,HTTP,
+49,ENTES,"EMG-10, EMG-02 , EMG-12","emg12 (for EMG12), emg10 (for EMG10), emg02 (for EMG02)",MODBUS Gateway,http://www.entes.com.tr/dosyalar/EMG_Series_EN-ver_2_2.pdf,80/tcp,http,
+50,eWON,all,adm:adm,Router,http://ewon.biz/sites/default/files/aug-004-0-en-ewon_getting_started.pdf,80/tcp,http,
+51,General Electric Intelligent Platforms,IC695PNC001,admin:system,PROFINET Controller,http://platforma.astor.com.pl/files/getfile/id/6314,23/tcp (telnet) or USB,telnet,
+52,General Electric Intelligent Platforms,IC695ECM850,admin:system,IEC 61850 Client,"http://platforma.astor.com.pl/files/getfile/id/6314, as referenced by http://www.pdfsupply.com/pdfs/gfk-2849.pdf",23/tcp (telnet) or USB,telnet,
+53,General Electric Intelligent Platforms,"IC695ETM001, IC695CPE305, IC695CPE310, IC695CPE330, IC698ETM001, IC698CPE010, IC698CPE020, IC698CRE020, IC698CPE030, IC698CPE040, IC698CRE030, IC698CRE040",system,Ethernet module/programmable controller,http://platforma.astor.com.pl/files/getfile/id/7823,18245/udp,,
+54,General Electric Intelligent Platforms,"IC698CPE030, IC698CPE040, IC698CRE030, IC698CRE040",user:system,Programmable controller with built-in web server,http://platforma.astor.com.pl/files/getfile/id/9043,21/tcp,ftp,
+55,Helmholz Systeme,NETLink PRO HW 1-1a-1 and FW 1. 54 and higher,NETLink PRO PoE:admin,Ethernet Gateway for MPI/PROFIBUS,https://www.helmholz.com/dnl/NETLink_PRO_PoE_QSG_v2_en.pdf,,HTTP,
+56,Hirschmann,"RS20/RS30, MICE","user:public, admin:private",Switch,"http://www.wwsinternational.com.au/Hirschmann/pdf/quickstart.pdf;, Hirschmann MICE.pdf",80/tcp,http,
+57,Hirschmann,RSP 20/25/30/35,"user:public, admin:private",Industrial router,http://www.prosoft.ru/cms/f/456864.pdf,23/tcp (telnet),telnet,
+58,Hirschmann,MACH 4000 Family/MACH 1000 Family/MACH 100 Family/MACH 4002 Family/MACH104 Family Full Gigabit/MACH 1040 Family Full Gigabit,"user:public, admin:private",Industrial router,"Hirschmann MACH1040 Full Gigabit.pdf, Hirschmann MACH4002 Family.pdf, Hirschmann MACH1000 Family.pdf, Hirschmann MACH4000 Family.pdf, http://www.industrialcomms.co.uk/images/pdf/IG_MACH104_02_1210_en.pdf, http://www.industrialcomms.co.uk/images/pdf/IG_MAC",,,
+59,Hirschmann,"OCTOPUS 8M..., OCTOPUS 16M..., OCTOPUS 24M‚Ä¶","user:public, admin:private",Industrial router,https://www.neteon.net/media/downloads/IG_Octopus8M16M24M_PoETrain_02_0708_en_1.pdf,23/tcp,telnet,
+60,HollySys Automation Technologies,LK SERIES PLC,"FTP blank, Telnet blank",PLC,http://plcscan.org/blog/2014/12/hollysys-lk-series-plc-system-default-password-vulnerability/,"21/tcp, 23/tcp","FTP, Telnet",
+61,IBM,2210,def:trade,Multiprotocol Router,http://www.governmentsecurity.org/_/articles/default-logins-and-passwords-for-networked-devices.html,,,
+62,Kostal Solar,"PIKO-Inverter 3.0, 3.6, 4.2, 5.5, 7.0, 8.3, 10.1",pvserver:pvwr,solar inverter,http://www.kostal-solar-electric.com/Standalone/MediaDispositionViewer.aspx?medid=7a7356e144fd48b0b8557c4249cb35fd,80/tcp,HTTP,
+63,Mitsubishi,PLC QnUCPU QnUDVCPU,MELSEC:MELSEC,PLC,http://dl.mitsubishielectric.com/dl/fa/document/manual/plc/sh080811eng/sh080811engp.pdf,21/tcp,"FTP, HTTP",
+64,Mitsubishi,PLC QnUCPU QnUDE(H)CPU,QNUDECPU:QNUDECPU,PLC,http://dl.mitsubishielectric.com/dl/fa/document/manual/plc/sh080811eng/sh080811engp.pdf,21/tcp,"FTP, HTTP",
+65,Moxa,AirWorks AWK-3131-RCC,admin:root,Industrial 802.11n wireless AP/bridge/client,http://www.moxa.com/doc/man/AWK-3131-RCC_UM_1e.pdf,80/tcp,HTTP,
+66,Moxa,"Railway Remote I/O (ioLogik E12xx, ioLogik E15xx)","HTTP on Port 9020 1)none:root, 2)none:none",Remote Ethernet I/O,http://www.toolswatch.org/2013/02/new-scada-default-passwords-added-to-dpe-xml-database/,9020/tcp,HTTP,
+67,Moxa,"Cellular Micro RTU Controller (ioLogik W53xx, ioLogik)","administrator:blank, Telnet on port 9900 / 9000 root:root",micro RTU controller,http://www.toolswatch.org/2013/02/new-scada-default-passwords-added-to-dpe-xml-database/,9900/9000/tcp,telnet or serial console,
+68,Moxa,VPort 461 Industrial Video Encoder,admin:admin,Industrial Video Encoder,http://www.moxa.com/doc/man/VPort_461_UM_2e.pdf,,telnet,
+69,Moxa,IA240/241 Embedded computer,"telnet root:root, FTP root:blank, PPP root:root, serial console root:root","Embedded computers are designed for industrial, automation applications",http://www.toolswatch.org/2013/02/new-scada-default-passwords-added-to-dpe-xml-database/,,"Telnet, FTP, PPP, serial console",
+70,Moxa,OnCell Central Manager,admin:admin,Software,http://www.moxa.ru/files/manuals_modems/oncell_central_manager_users_manual_v1.pdf,8080/tcp,HTTP,
+71,Moxa,EDS-508A/505A Series,admin:,Switch,http://www.moxa.com/doc/man/eds-508a_505a_um_4e.pdf,,telnet or serial console,
+72,Moxa,OnCell G3100 Series,"HTTP admin:admin, HTTP Admin:Keep , PAP admin:",cellular IP gateways,http://www.moxa.com/doc/man/OnCell_G3100_Series_Users_Manual_v7.pdf,80/tcp,"Telnet, PAP",
+73,Netcomm Wireless,"3G21WB (BigPond Firmware), 3G9WB (BigPond Firmware), N3G001W (Netcomm Firmware), NB14WN (Netcomm Firmware), NB5 (Netcomm Firmware), NB5Plus4 (Netcomm Firmware), NB6Plus4 (Netcomm Firmware), NB6Plus4W (Netcomm Firmware), NNB7 (Netcomm Firmware), NB9WMAXX (",admin:admin,Router,http://www.pcwintech.com/default-router-modem-passwords2,,,
+74,Netcomm Wireless,"NB1300 Plus 4 (Netcomm Firmware), NP803N (Netcomm Firmware)",admin:password,Router,http://www.pcwintech.com/default-router-modem-passwords2,,,
+75,NOVUS AUTOMATION,SuperView,superview:superview,SCADA,http://www.novusautomation.com/downloads/Arquivos/v29x_a_manual_superview_english.pdf,,,
+76,Omron IA,CJ1M CPU Units with Ethernet Functions,"for http ETHERNET, for ftp CONFIDENTIAL",PLC,http://omronkft.hu/nostree/pdfs/plc/cs1_cj1/w441-e1-03+cj-series-ethernetfunc+opermanual.pdf,"80/tcp (http), 21/tcp (ftp)","http, ftp",
+77,Omron,"NS-Series Programmable Terminals Web Interface (NS12-TS01-V2, NS10-TV01-V2, NS8-TV01-V2, NS5-SQ11-V2, NS5-TQ11-V2 and NS5-MQ11-V2)",default:default,Programmable Terminals,http://www.omronkft.hu/nostree/pdfs/ns/v100-e1-01.pdf,80/tcp,HTTP,
+78,Ouman,EH-net server,admin:admin,HMI Software,http://docplayer.fi/509891-Palvelin-eh-net-kayttoonotto-ja-yllapito-www-ouman-fi.html,,,
+79,Phasefale Controls,JouleTemp,admin:pass,PLC,http://phasefale.com.au/wp-content/themes/twentythirteen/docs/JouleRange/JouleTemp/jt_instruction_iss8.pdf,80/tcp,HTTP,
+80,Phoenix Contact,Logic+,admin:admin,Software,https://www.phoenixcontact.com/assets/downloads_ed/global/web_dwl_technical_info/52005213_EN.pdf,80/tcp,http,
+81,Prosoft Technology,ICX30-HWC,admin:password,Industrial Cellular Gateway,http://www.prosoft-technology.com/content/download/8772/168219/version/9/file/ICX30_HWC_User_Manual.pdf,80/tcp,HTTP,
+82,Rockwell Automation / Allen-Bradley,1756-EN2TSC,Administrator:admin,EtherNet/IP communication module,http://literature.rockwellautomation.com/idc/groups/literature/documents/um/enet-um003_-en-p.pdf,80/tcp,HTTP,
+83,Rockwell Automation / Allen-Bradley,1734-AENT,admin:password,I/O Adapter,http://literature.rockwellautomation.com/idc/groups/literature/documents/um/1734-um011_-en-p.pdf,80/tcp,HTTP,
+84,Rockwell Automation / Allen-Bradley,"1756-EWEB, 1768-EWEB",Administrator:,Web Server Module,http://literature.rockwellautomation.com/idc/groups/literature/documents/um/enet-um527_-en-p.pdf,80/tcp,HTTP,
+85,Rockwell Automation / Allen-Bradley,9300-RADES,"HTTP blank:ZYPCOM, Telnet blank:ZYPCOM, FTP uploader:ZYPCOM, CHAP/PAP ppp_user:ZYPCOM",Industrial Modem,http://literature.rockwellautomation.com/idc/groups/literature/documents/um/gmsc10-um004_-en-e.pdf,"80/tcp, 23/tcp, 21/tcp","HTTP, Telnet, FTP, CHAP/PAP",
+86,Rockwell Automation / Allen-Bradley,9300-8EDM,"HTTP blank:ZYPCOM, Telnet blank:ZYPCOM, FTP uploader:ZYPCOM",Industrial Switch,http://literature.rockwellautomation.com/idc/groups/literature/documents/um/gmsc10-um003_-en-e.pdf,"80/tcp, 23/tcp, 21/tcp","HTTP, Telnet, FTP",
+87,Rockwell Automation / Allen-Bradley,MicroLogix 1400 / MicroLogix 1100 Embedded Web Server,"guest:guest, administrator:ml1400 (MicroLogix 1400), administrator:ml1100 (MicroLogix 1100)",Web Server,"http://literature.rockwellautomation.com/idc/groups/literature/documents/um/1766-um002_-en-p.pdf, http,http://literature.rockwellautomation.com/idc/groups/literature/documents/um/1763-um002_-en-p.pdf",80/tcp,http,
+88,Rockwell Automation / Allen-Bradley,"PanelView Plus 6 Graphic Terminals, Firmware 6.10 or later/, PVPlus 6",password,SCADA,http://www.manualsdir.com/manuals/580848/rockwell-automation-2711p-xxxx-panelview-plus-6-terminals-user-manual.html?page=54,,Desktop access,
+89,SAMSON GROUP,TROVIS 5590 Web Module,"To read data 1111:1111, To change data 4444:4444",Web Module,http://www.samsongroup.net/trovis-app/en-tv-page-102.htm,,,
+90,Samsung,Integrated Management System DMS,root:rkwjsdusrnth,Data Management Server,http://www.tenable.com/plugins/index.php?view=single&id=53878,,,
+91,Samsung,Integrated Management System S-NET mini,DMS Connection 0000 or 1234,S-NET IMS,http://dvmdownload.com/controls/central-control-options/mst-s3w/technical-tip/SNET%20MINI%20MST-S3W%20SETUP_1%2017%202012.pdf,,,
+92,Schneider Electric,PowerLogic Series 800 Power Meter,0,PLC,http://www.powerlogic.com/literature/63230-500-282A1_PM8_Install_Guide.pdf,,,
+93,Schneider Electric,PowerLogic ION7550 / ION7650 / ION8650 Energy and power meter,0,Energy and power meter,"http://www2.schneider-electric.com/library/SCHNEIDER_ELECTRIC/SE_LOCAL/APS/209510_35F6/8650_Install_Guide.pdf, http://azzo.com.au/wp-content/uploads/2015/08/ION7550-RTU-UserGuide.pdf",,,
+94,Schneider Electric,PowerLogic Ethernet Gateway EGX300 / EGX100,Administrator:Gateway,Integrated gateway-server,http://azzo.com.au/wp-content/uploads/2015/05/PowerLogic-EGX300-Users-Guide.pdf,80/tcp,http,
+95,Schneider Electric,POWERLOGIC EGX200 / EGX400 with firmware version 5.5 or higher,"Administrator:admin, User 1:master, User 2:engineer, User 3:operator",gateway-server,http://www.powerlogic.com/literature/63230-314-208A3.pdf,80/tcp,http,
+96,Schneider Electric,Modicon Quantum,"ftpuser/password, qbf77101/hexakisoctahedron, USER:USER",PLC,"http://www.digitalbond.com/tools/basecamp/schneider-modicon-quantum/, http://www.schneider-electric.cn/downloads//85257689000007EE/All/01507367599A9DC985257871005F4B3D/$File/EIO0000000121EN.pdf","21/tcp, 23/tcp, 80/tcp","HTTP, FTP, Telnet",
+97,Schneider Electric,Modicon M340 for Ethernet,"ntpupdate:ntpupdate (Using an FTP client, store your rules in the file:, /FLASH0/wwwroot/conf/NTP/customrules), USER:USER (FTP Setup page via HTTP, HTTP credentials), sysdiag:factorycast@schneider (FTP)",PLC,"https://dariusfreamon.wordpress.com/2013/12/08/schneider-modicon-m340-for-ethernet-multiple-default-credentials/, https://github.com/ITI/ICS-Security-Tools/blob/master/configurations/passwords/ics-default-passwords.csv","21/tcp, 80/tcp","FTP, HTTP",
+98,Schneider Electric,Modicon Premium,"FTP sysdiag:factorycast@schneider, HTTP USER:USER",PLC,https://github.com/ITI/ICS-Security-Tools/blob/master/configurations/passwords/ics-default-passwords.csv,"21/tcp, 80/tcp","FTP, HTTP",
+99,Schneider Electric,"PM8000, PM8240, PM8243, PM8244","Physical 0, FTP 8000:",PLC,http://www2.schneider-electric.com/sites/corporate/en/support/faq/faq_main.page?page=content&country=APS_GLOBAL&lang=en&locale=en_US&id=FA243275&redirect=true,"21/tcp, 80/tcp","FTP, HTTP",
+100,Schneider Electric,TSX ETG 1000,,PLC,http://www.is-com.ru/files/net_tsxetg1000.pdf,21 TCP,"FTP, PAP, HTTP",
+101,Schneider Electric,ETG100,Administrator:Gateway,PLC,http://www.schneider-electric.co.in/sites/india/en/support/faq/main_faq.page?page=content&country=IN&lang=en&id=FA138738&locale=en_US&redirect=true,,,
+102,Schneider Electric,M258,adm:adm,PLC,http://ewon.biz/sites/default/files/aug-054-0-en-remote_access_for_schneider_m258_plcs.pdf,80/tcp,http,
+103,Schneider Electric,Quantum NOE 771 xx,FTP and HTTP Service USER:USER,Ethernet Modules,https://igate.alamedaelectric.com/Modicon%20Documents/PLC%20Quantum%20PLC%20NOE771xx%20User%20Manual%20v5.0.pdf,"21/tcp, 80/tcp","ftp, http",
+104,Siemens,Simatic S7-300 (pre-2009 versions),Hardcoded password Basisk:Basisk,PLC,http://www.wired.com/2011/08/siemens-hardcoded-password/,"23/tcp, 80/tcp",telnet. Http,
+105,Siemens,Simatic S7-1200 / S7-1500,admin:blank,PLC,https://www.dmcinfo.com/latest-thinking/blog/id/8567/siemens-s7-1200-web-server-tutorial--from-getting-started-to-html5-user-defined-pages,80/tcp,HTTP,
+106,Siemens,"Scalance X-200, W788-1PRO, W788-2PRO, etc.","admin:admin (HTTP), user:user (HTTP), siemens:siemens (FTP)","Industrial Wireless LAN, Industrial Ethernet Switches","http://dariusfreamon.wordpress.com/2013/10/02/siemens-scalance-x-industrial-ethernet-switches/, https://cache.industry.siemens.com/dl/files/728/25508728/att_4008/v1/BA_SCALANCE-X-200_76.pdf, https://www.acunetix.com/vulnerabilities/network/vulnerability/s",tcp/80,"HTTP, FTP",
+107,Siemens,Synco living Web server OZW772 V2.0,Administrator:Password,Web-server,http://www.toolswatch.org/2013/02/new-scada-default-passwords-added-to-dpe-xml-database/,80/tcp,HTTP,
+108,Siemens,Siemens WinCC 7.x,"winccd:winccpass, wincce:winccpass, DMUser:Data&Pass, Administrator:Administrator",HMI Software,http://www.toolswatch.org/2013/02/new-scada-default-passwords-added-to-dpe-xml-database/,,,
+109,Siemens,Ruggedcom RMC30,"admin:admin, operator:operator, guest:guest",Industrial router,http://www2.schneider-electric.com/resources/sites/SCHNEIDER_ELECTRIC/content/live/FAQS/239000/FA239168/en_US/ROS_RMC30_User-Guide_EN.pdf,80/tcp,HTTP,
+110,Siemens,"RUGGEDCOM ROX II for RX1500, RX1501, RX1510, RX1511, RX1512","root:admin (service), admin:admin (administrator), oper:oper (operator), guest:guest (guest)",Ethernet Switches Layer 3 / Routers,https://cache.industry.siemens.com/dl/files/287/81194287/att_837966/v1/ROXII_v2.6_RX1500_User-Guide_CLI_EN.pdf,,,
+111,Siemens,RuggedSwitch RS8000 / RS1600 / RS900,admin,Industrial router,http://www.techsalesnw.com/oldwebsite/products/ethernet/rc_files/RuggedSwitch%20User%20Guide%20v1.5.1.pdf,,RS232,
+112,Siemens,Siemens Climatix,"Level 6 End users 1000 (Physical), Level 4 Service operator 2000 (Physical), Level 2 OEM 6000 (Physical), Web ADMIN:SBTAdmin!",PLC,http://www.ivprodukt.se/documents/ivprodukt/documents/styr%20climatix/basis%20document%20climatix%20control%20system%20bdcx.100820.01.gb.pdf,80/tcp,HTTP,
+113,Sierra Wireless,AirLink,sconsole:12345,3G/4G gateway,official documentation,"12345/tcp, 2332/tcp","telnet, ssh",
+114,Sierra Wireless,AirLink,"user:12345, viewer:12345",3G/4G gateway,official documentation,9191/tcp,http,
+115,Stulz GmbH,Stulz WIB 8000,"Administrator, highest authorization:, ganymed, Medium authorization:, kallisto, Lowest authorization:, europa",PLC,https://dariusfreamon.wordpress.com/2013/09/07/stulz-wib-8000-air-conditioning-web-interface-board-multiple-vulnerabilities/,,,
+116,TAC AB,"TAC Xenta 500/700/911/913, TAC Xenta 511, TAC Xenta 527,",root:root,PLC,http://www.xref.be/dpdf/tac_xenta911_xenta511_manuel_uk.pdf,,,
+117,Tecomat,Tecomat Foxtrot,"0:0 (role 0) , 1:1 (role 1), 2:2 (role 2), 3:3 (role 3), 4:4 (role 4), 5:5 (role 5), 6:6 (role 6), 7:7 (role 7), 8:8 (role 8), 9:9 (role 9)",PLC,http://dsec.ru/ipm-research-center/notification-of-vulnerabilities/tecomat_plc_paroli_po_umolchaniyu/,,,
+118,Tridium,NiagaraAX,tridium:niagara,"Software for JACE-2, JACE-403 or JACE-545",http://www.hvacc.net/pdf/tridium/docs_3.2.16/docJaceStartup/docJaceStartup.pdf,,,
+119,Turck,"BL20-E-GW-EN, BL67-E-GW-EN","HTTP password, FTP (unspecified hardcoded)",PLC,"http://pdb.turck.de/media/_in/Anlagen/D301173.pdf,http://ics-cert.us-cert.gov/advisories/ICSA-13-136-01","21/tcp, 80/tcp",http,
+120,Wago,WAGO-I/O-SYSTEM 750,"admin:wago, user:user, guest:guest",Controller,http://www.wago.spb.ru/upload/information_system_28/3/2/8/item_328/information_items_property_340.pdf,80/tcp,http,
+121,Wago,WAGO-I/O-IPC 758-870/000-xxx,"http, ftp:, user:user00 , administrator:, su:ko2003wa",Compact Industrial PC,http://www.wago.com/wagoweb/documentation/758/eng_manu/870/q07580870_00000000_2en.pdf,80/tcp (http),"http, ftp",
+122,Wago,Modular I/O-System Linux Fieldbus Coupler 750-860,"root:wago , admin:wago, user:user , guest:guest",PLC,http://www.wago.com/wagoweb/documentation/750/eng_manu/coupler_controller/m07500860_00000000_0en.pdf,,,
+123,Wellintech,KingSCADA 3.0,administrator:administrator (role KVAdministrator),Software,http://www.slideshare.net/DefconRussia/pavel-volobuev-alexander-minozhenko-alexander-polyakov-practical-demonstration-of-typical-attacks-and-0days-in-scada-and-plccontrollers,,,
+124,Westermo,TDW 33,"no password, just return, Hardcoded password n3Y9kA6otYZu8, (?? TD-36)",Industrial Modem,http://www.etitudela.com/entrenadorcomunicaciones/downloads/modemrtbtdw33manual.pdf,,,
+125,Westermo,MRD-305-DIN/MRD-310/MRD-315/MRD-330/MRD-355/MRD-350/MRD-455,admin:westermo,Industrial router,"http://www.eternity-sales.com/westermo/files/westermo_ug_6623-2266_mrd-305-DIN_en.pdf, Westermo MRD 330.pdf",80/tcp,http,
+126,Westermo,"RedFox Series, Wolverine Series, Lynx Series, Falcon Series, Viper Series",admin:westermo,Industrial router,http://www.westermosales.com/pdfs/westermo_mg_6101-3201_weos.pdf,80/tcp,http,
+127,Wonderware,Intouch,Administrator:Wonderware,SCADA,http://www.automation-talk.info/2011/01/default-intouch-login-username-password.html,,,
+128,Wonderware,Historian,"SQL Server Login aadbo:pwddbo, wwdbo:pwddbo, aaAdmin:pwAdmin, wwAdmin:wwAdmin, aaPower:pwPower, wwPower:wwPower, aaUser:pwUser, wwUser:wwUser",SQL Server,https://drive.google.com/folderview?id=0B8or_Z9VHNfCeFIwbEY5RUk5SDA&usp=sharing,,SSMS,
+129,Wonderware,System Platform/Archestra,administrator:blank,Integrated Development Environment,https://insource.mindtouch.us/Support_Tickets/Industrial_Application_Server/Installation%2F%2FConfiguration/028076_-_What_is_the_default_Administrator_username_and_password_for_the_Archestra_IDE,,,
+130,Yokogawa,YFGW410 gateway,admin:!admin,Wireless Management Station,http://www.yokogawa.com/us/support/knowledgebase/i-cannot-login-to-the-yfgw410-gateway-what-is-the-default-username-and-password-of-a-yfgw410-isa100-gateway.htm,,,
+131,Yokogawa,DX1000/DX1000N/DX2000 Advanced,"Administrator 1:Admin1, Administrator 2:Admin2, ..., Administrator 5:Admin5, User 1:User01, ..., User 90:User90",Software,http://web-material3.yokogawa.com/IM04L41B01-05EN_020.pdf,,,
+132,Yokogawa,CENTUM CS 3000 DCS,CENTUM:CENTUM,Distributed Control System,http://www.allinterview.com/showanswers/170266/having-yokogawa-centum-cs-3000-dcs-2-fcs-4-operation-download-message-appears-eq.html,,,
+133,Yokogawa,EJX910A Multivariable Transmitter HART Communication Type,"YOKOGAWA. (to release the Write Protect mode),",Multivariable transmitter,http://www.controlswarehouse.com/sheets/meriam/EJX910HARTIM01C25R02-01E_001.pdf,,,
+134,Yokogawa,WT 3000 Driver,anonymous:blank (Ethernet access),Precision Power Analyzer,http://www.electro-meters.com/Assets/pdf2_files/Yokogawa/Power_meters/WT3000_pdfs/WT3000%20Communication.pdf,,,
+135,SMA Solar Technology AG,Sunny Webbox,sma,Photovoltaic System,http://www.phototec.at/fileadmin/user_upload/dateien/wechselrichter/sma/Sunny_WebBox/Kurzanleitung_Vista.pdf,,,
+136,Fronius,Datalogger Web,,Photovoltaic System,http://www.fronius.com/cps/rde/xbcr/SID-D3C56209-49153339/fronius_italia/42_0426_0064_DE_168663_snapshot.pdf,,,
+137,Sunways AG,sunway,"customer:******** (achtmal Stern, eight stars!)",Photovoltaic System,http://www.technosun.com/es/descargas/SUNWAYS-guia-actualizacion-software-DE.pdf,,,
+138,"Phoenix Contact Cyber Security, Innominate",mGuard,"root:root, admin:mGuard",Industrial Security Router,https://www.phoenixcontact-cybersecurity.com/data/downloads/manuals/mguard6_cfgsamples.pdf,80/tcp (http),"ftp, telnet and https",
+139,eQ-3 AG,HomeMatic CCU-2,root:MuZhlo9n%8!G,Smart Home Gateway/Bridge,https://www.homematic-inside.de/tecbase/homematic/generell/item/zugriff-auf-das-dateisystem-der-ccu-2,22,ssh,
+140,3Com,CoreBuilder 7000,"debug:synnet, tech:tech, n/a:admin",Switch,http://www.securityfocus.com/advisories/1101,23,telnet,
+141,3Com,CoreBuilder 6000,"debug:synnet, tech:tech, n/a:admin",Switch,http://www.securityfocus.com/advisories/1101,23,telnet,
+142,3Com,CoreBuilder 3500,"debug:synnet, tech:tech, n/a:admin",Switch,http://www.securityfocus.com/advisories/1101,23,telnet,
+143,3Com,CoreBuilder 2500,"debug:synnet, tech:tech, n/a:admin",Switch,http://www.securityfocus.com/advisories/1101,23,telnet,
+144,155,CoreBuilder 2500,"debug:synnet, tech:tech, n/a:admin",Switch,http://www.securityfocus.com/advisories/1101,23,telnet,
+145,3Com,OfficeConnect 3CR414492,root:!root,Router,https://github.com/vanhauser-thc/thc-hydra/blob/master/dpl4hydra_local.csv,80,http,
+146,Siemens,S7-,Administrator:administrator,Advanced Wind Turbine Controller,https://cache.industry.siemens.com/dl/files/138/84047138/att_55642/v1/readme_step7_basic_enus.pdf,,,
+147,Lancom,AW 1971,admin:admin,Multiprotocol Router,https://modemly.com/login-to-LANCOM,,,
+148,AVIOSYS,IP Camera,admin:12345678,IP Camera 9060,http://www.elanportal.com/supportdocs/catalog/Aviosys%209060.pdf,,,81.174.152.237
+149,ACTi,All Models,admin:123456,IP Camera,https://www.acti.com/products/cameras,80,80,http://192.168.0.100
+150,Netatmo,Smart Home Weather Station,none:none,Smart Home,https://images-eu.ssl-images-amazon.com/images/I/B1w7MdUHg1S.pdf,,,http://station.netatmo.com
+151,Alcatel,Omni PCX,0000,Base Station,https://www.al-enterprise.com/-/media/assets/internet/documents/ipdesktopsoftphone-android-usermanual-alesvc56138-7-en.pdf,,,
+152,Alcatel-Lucent Nokia,OmniPCX Enterprise Communication Server,pbxk1064,PBX,,,,192.168.92.246
+153,Netgear,FR314,admin:password,Firewall/Router,http://www.downloads.netgear.com/files/FR314_QCard_R3.pdf,,,http://192.168.0.1
+154,Netgear,RP614v1,admin:password,Router,https://www.netgear.de/support/product/RP614v1,,,http://192.168.0.1
+155,Netgear,RP614v2,admin:password,Router,https://www.netgear.de/support/product/RP614v2,,,http://192.168.0.1
+156,Netgear,RP614v3,admin:password,Router,https://www.netgear.de/support/product/RP614v3,,,http://www.routerlogin.net
+157,Netgear,RP614v4,admin:password,Router,http://www.manualsbase.com/de/manual/240982/network_router/netgear/netgear_network_router_rp614v4_cable_dsl_router/,,,http://www.routerlogin.net
+158,Netgear,MR814v1,admin:password,Router,https://www.netgear.de/support/product/MR814v1.aspx#docs,,,http://192.168.0.1
+159,Netgear,MR814v2,admin:password,Router,https://www.netgear.de/support/product/MR814v2#docs,,,http://192.168.0.1
+160,Netgear,MR814v3,admin:password,Router,https://www.netgear.de/support/product/MR814v3#docs,,,http://www.routerlogin.net
+161,Netgear,RP114,admin:1234,Router,https://www.netgear.de/support/product/RP114.aspx#docs,,,http://192.168.0.1
+162,Netgear,MR314,admin:1234,Router,https://www.netgear.de/support/product/MR314.aspx#docs,,,http://192.168.0.1
+163,Netgear,RM356,none:1234,Router,https://www.netgear.de/support/product/rm356.aspx#docs,,,http://192.168.0.1
+164,Netgear,DG632,admin:password,Router,https://www.netgear.de/support/product/DG632.aspx#docs,,,http://192.168.0.1
+165,Netgear,DM602,admin:password,Router,https://www.netgear.de/support/product/DM602.aspx#docs,,,http://192.168.0.1
+166,Netgear,WGR614,admin:password,Router,https://www.netgear.de/support/product/WGR614v1,,,http://192.168.0.1
+167,Netgear,WGR614,admin:password,Router,https://www.netgear.de/support/product/WGR614v1,,,http://192.168.0.1
+168,Netgear,WGR614,admin:password,Router,https://www.netgear.de/support/product/WGR614v5,,,http://www.routerlogin.net
+169,Netgear,RT314,admin:1234,Router,https://www.netgear.de/support/product/RT314.aspx#docs,,,http://192.168.0.1
+170,BinTec Elmeg,"R230a, R230aw, R232b, R232bw",admin:funkwerk,Router,ftp://ftp.bintec-elmeg.com/Weitere_Downloads/Documentation/attic/r_series/r232x_w/manual_v20_de/pdfs/r_quickreference_de.pdf,,,http://192.168.0.254
+171,D-Link,DI-604,admin:none,Router,https://eu.dlink.com/de/de/products/di-604-4-port-broadband-router?revision=de_revd#downloads,80,HTTP,http://192.168.0.1
+172,D-Link,DI-624,admin:none,Router,https://eu.dlink.com/de/de/products/di-624-high-speed-2-4ghz-802-11-wireless-108mbps-router?revision=deu_revh#downloads,80,HTTP,http://192.168.0.1
+173,D-Link,DWL-1000AP,admin:none,Access Point,https://eu.dlink.com/de/de/products/dwl-1000ap-802-1x-secure-wireless-access#support,80,HTTP,http://192.168.0.50
+174,D-Link,DFL-210,admin:admin,Firewall,https://eu.dlink.com/de/de/products/dfl-210-network-security-firewall-soho#support,80,HTTP,http://192.168.1.1
+175,D-Link,DIS‑700G‑28XS,admin:admin,Industrial Layer 2+ Switch,https://eu.dlink.com/de/de/products/dis-700g-28xs,,,10.90.90.90
+176,D-Link,DI-524,admin:none,Router,https://eu.dlink.com/de/de/products/di-524-high-speed-2-4ghz-802-11g-wireless-router?revision=deu_revg#downloads,80,HTTP,http://192.168.0.1
+177,D-Link,DWL‑900AP+,admin:none,Access Point,https://eu.dlink.com/de/de/products/dwl-900applus-22mbps-802-11b-wireless-access-point?revision=deu_revc#downloads,80,HTTP,http://192.168.0.50
+178,D-Link,DWL‑2100AP,admin:none,Access Point,https://eu.dlink.com/de/de/products/dwl-2100ap-xtremeg-108m-wireless-access-point#support,80,HTTP,http://192.168.0.50
+179,D-Link,DAP‑2610,admin:none,Access Point,https://eu.dlink.com/de/de/products/dap-2610-wireless-ac1300-wave-2-dualband-poe-access-point,80,HTTP,http://192.168.0.50
+180,D-Link,DAP‑2680,admin:none,Access Point,https://eu.dlink.com/de/de/products/dap-2680-wireless-ac1750-wave-2-dualband-poe-access-point,80,HTTP,http://192.168.0.50
+181,D-Link,DAP‑3662,admin:none,Outdoor Access Point,https://eu.dlink.com/de/de/products/dap-3662-wireless-ac1200-concurrent-dual-band-outdoor-poe-access-point,80,HTTP,http://192.168.0.50
+182,D-Link,DWL‑8620AP,admin:admin,Access Point,https://eu.dlink.com/de/de/products/dwl-8620ap-wireless-ac2600-wave-2-dualband-unified-access-point,80,HTTP,http://10.90.90.91
+183,D-Link,DCS‑4705E,admin:none,IP Camera,https://eu.dlink.com/de/de/products/dcs-4705e-vigilance-5megapixel-outdoor-mini-bullet-camera,,,192.168.0.20
+184,D-Link,DCS‑4703E,admin:none,IP Camera,https://eu.dlink.com/de/de/products/dcs-4703e-vigilance-full-hd-outdoor-poe-mini-bullet-camera,,,192.168.0.20
+185,D-Link,DCS‑4701E,admin:none,IP Camera,https://eu.dlink.com/de/de/products/dcs-4701e-hd-outdoor-mini-bullet-camera,,,192.168.0.20
+186,D-Link,DCS‑4602EV,admin:none,IP Camera,https://eu.dlink.com/de/de/products/dcs-4602ev-full-hd-outdoor-vandal-proof-poe-dome-camera?revision=de_revb#downloads,80,HTTP,192.168.0.20
+187,D-Link,DCS‑4603,admin:none,IP Camera,https://eu.dlink.com/de/de/products/dcs-4603-full-hd-poe-dome-camera,,,192.168.0.20
+188,D-Link,DCS‑4802E,admin:none,IP Camera,https://eu.dlink.com/de/de/products/dcs-4802e-full-hd-outdoor-mini-dome-camera,,,192.168.0.20
+189,D-Link,DIS‑200G‑12S,admin:admin,Industrial Ethernet Switches,https://eu.dlink.com/de/de/products/dis-200g-12s,80,HTTP,10.90.90.90
+190,D-Link,DIS‑200G‑12PS,admin:admin,Industrial Ethernet Switches,https://eu.dlink.com/de/de/products/dis-200g-12ps,80,HTTP,10.90.90.90
+191,D-Link,DIS‑300G‑12SW,admin:admin,Industrial Ethernet Switches,https://eu.dlink.com/de/de/products/dis-300g-12sw,23,telnet,10.90.90.90
+192,D-Link,"DIS‑300G‑14PSW, DIS‑100G‑5PSW",admin:admin,Industrial Ethernet Switches,https://eu.dlink.com/de/de/for-business/industrial-switches,23,telnet,10.90.90.90
+193,D-Link,"DGS-3420-28TC, DGS-3420-28PC, DGS-3420-28SC, DGS-3420-52T, DGS-3420-52P",none:none,Industrial Layer 2+ Switch,https://eu.dlink.com/de/de/products/dgs-3420-series-xstack-l2plus-managed-stackable-gigabit-switches,80,HTTP,"10.90.90.90 (Normal Port), 192.168.0.1 (Management Port)"
+194,D-Link,"DGS-3120-24TC, DGS-3120-24PC, DGS-3120-24SC, DGS-3120-48TC, DGS-3120-48PC",none:none,Industrial Layer 2 Switch,https://eu.dlink.com/de/de/products/dgs-3120-series-xstack-l2-managed-stackable-gigabit-switches,80,HTTP,http://10.90.90.90
+195,D-Link,DXS-3600-32Series,none:none,Industrial Ethernet Switches,https://eu.dlink.com/de/de/products/dxs-3600-series-top-of-rack-10-gigabit-managed-switches,80,HTTP,http://10.90.90.90
+196,D-Link,"DXS‑1210-10TS, DXS‑1210-12TC, DXS‑1210-16TC",none:none,Industrial Ethernet Switches,https://eu.dlink.com/de/de/products/dxs-1210-series-10-gigabit-ethernet-smart-managed-switches,80,HTTP,http://10.90.90.90
+197,D-Link,"DGS‑3630-28SC, DGS‑3630-28TC, DGS‑3630-28PC, DGS‑3630.52TC, DGS‑3630-52PC",none:none,Industrial Layer 3 Switch,https://eu.dlink.com/de/de/products/dgs-3630-series-gigabit-l3-stackable-managed-switches,80,HTTP,"10.90.90.90 (Normal Port), 192.168.0.1 (Management Port)"
+198,D-Link,"DGS‑3130-30TS, DGS‑3130-30S, DGS‑3130-30PS, DGS‑3130-54S, DGS‑3130-54TS, DGS‑3130-54PS",none:none,Industrial Layer 3 Switch,https://eu.dlink.com/de/de/products/dgs-3130-gigabit-layer-3-stackable-managed-switches,80,HTTP,"10.90.90.90 (Normal Port), 192.168.0.1 (Management Port)"
+199,D-Link,"DGS‑1210-20/ME, DGS‑1210-28/ME, DGS‑1210-28MP/ME",none:none,Industrial Ethernet Switches,https://eu.dlink.com/de/de/products/dgs-1210-me-series-metro-ethernet-switches,80,HTTP,http://10.90.90.90
+200,DrayTek,VigorSwitch P1280,admin:admin,Switch,https://www.draytek.com.tw/ftp/VigorSwitch%20P1280/Manual/DrayTek_UG_VigorSwitch%20P1280_V1.1.pdf,80,HTTP,http://192.168.1.224
+201,DrayTek,VigorSwitch P1100,admin:admin,Industrial Ethernet Switches,https://www.draytek.de/vigorswitch-p1100.html,80,HTTP,http://192.168.1.224
+202,DrayTek,VigorSwitch G1080,admin:admin,Industrial Ethernet Switches,https://www.draytek.de/vigorswitch-g1080.html,80,HTTP,http://192.168.1.224
+203,DrayTek,"VigorSwitch P2280, VigorSwitch G2280",admin:admin,Industrial Ethernet Switches,https://www.draytek.com.tw/ftp/VigorSwitch%20P2280/Manual/DrayTek_QS_VigorSwitch%20P2280_G2280_V1.2_%2801%29.pdf,80,HTTP,http://192.168.1.224
+204,DrayTek,"VigorSwitch P2500, VigorSwitch G2500",admin:admin,Industrial Ethernet Switches,https://www.draytek.com.tw/ftp/VigorSwitch%20P2500/Manual/DrayTek_QS_VigorSwitch%20P2500_G2500_V1.0_01.pdf,80,HTTP,http://192.168.1.224
+205,DrayTek,VigorSwitch P1092,none:admin,Industrial Switch,https://www.draytek.com.tw/ftp/VigorSwitch%20P1092/Manual/DrayTek_QS_VigorSwitch%20P1092_V1.0.pdf,80,HTTP,http://192.168.1.224
+206,DrayTek,Vigor 130,admin:admin,Router,http://www.draytek.com/download_de/Vigor130/DrayTek_UG_Vigor130_V1.0.pdf,80,HTTP,http://192.168.1.1
+207,DrayTek,Vigor 2762 Series,admin:admin,Router,http://draytek.com/download_de/Vigor2762-Serie/DrayTek_UG_Vigor2762_V1.0.pdf,80,HTTP,http://192.168.1.1
+208,DrayTek,Vigor 2862 Series,admin:admin,Firewall/Router,https://www.draytek.de/vigor2862-serie.html,80,HTTP,http://192.168.1.1
+209,DrayTek,Vigor 2133 Series,admin:admin,Firewall/Router,https://www.draytek.de/vigor2133-serie.html,80,HTTP,http://192.168.1.1
+210,DrayTek,Vigor 2952 Series,admin:admin,Firewall/Router,https://www.draytek.de/vigor-2952-serie.html,80,HTTP,http://192.168.1.1
+211,DrayTek,Vigor 2960 Series,admin:admin,Firewall/Router,https://www.draytek.de/vigor2960-serie.html,80,HTTP,http://192.168.1.1
+212,DrayTek,Vigor 2926 Series,admin:admin,Router,https://www.draytek.de/vigor2926-serie.html,80,HTTP,http://192.168.1.1
+213,DrayTek,Vigor 3220 Serie,admin:admin,Router,https://www.draytek.de/vigor3220-serie.html,80,HTTP,http://192.168.1.1
+214,DrayTek,Vigor 3900,admin:admin,Router,https://www.draytek.de/vigor3900.html,80,HTTP,http://192.168.1.1
+215,DrayTek,VigorAP 903,admin:admin,Access Point,https://www.draytek.de/vigorap-903.html,80,HTTP,http://192.168.1.2
+216,DrayTek,VigorAP 920R Series,admin:admin,Access Point,https://www.draytek.de/vigorap-920r-serie.html,80,HTTP,http://192.168.1.2
+217,DrayTek,Vigor 910c,admin:admin,Access Point,https://www.draytek.de/VigorAP910c.html,80,HTTP,http://192.168.1.2
+218,DrayTek,VigorAP 710,admin:admin,Access Point,https://www.draytek.de/vigorap-710.html,80,HTTP,http://192.168.1.2
+219,DrayTek,VigorNIC 132 Serie,admin:admin,PCI-e Card,https://www.draytek.de/vigornic-132-serie.html,80,HTTP,http://192.168.1.1
+220,Netgear,"M4300 Series, M4300-96X",admin:none,Industrial Ethernet Switches,http://www.downloads.netgear.com/files/GDC/M4300/M4300_M4300-96X_SSM_EN.pdf,80,HTTP,169.254.100.100 (Ethernet Port) 192.168.0.239 (OOB Port)
+221,Netgear,ProSafe M4200 Series,admin:none,Industrial Ethernet Switches,http://www.downloads.netgear.com/files/GDC/M4200/M4200-M4300_SSM_EN.pdf,80,HTTP,169.254.100.100 (Ethernet Port) 192.168.0.239 (OOB Port)
+222,Netgear,M4100 Series,admin:none,Industrial Ethernet Switches,http://www.downloads.netgear.com/files/GDC/M4100/M4100_SSM_5mar2015.pdf,68,DHCP,VLAN interface 169.254.100.100
+223,Netgear,"M6100, M5300 and M7100 Series",admin:none,Industrial Ethernet Switches,http://www.downloads.netgear.com/files/GDC/M5300/M6100_M5300_M7100_SSM_6mar2015.pdf,80,HTTP,169.254.100.100 (VLAN Interface) 169.254.101.100 (Service Port)
+224,Netgear,WAC104,admin:password,Access Point,http://www.downloads.netgear.com/files/GDC/WAC104/WAC104_IG_GR.pdf,80,HTTP,http://www.aplogin.net
+225,TP-Link,EAP320,admin:admin,Access Point,https://static.tp-link.com/2018/201812/20181229/1910012495-Omada%20Access%20Points_UG.pdf,80,HTTP,http://tplinkeap.net
+226,TP-Link,EAP245,admin:admin,Access Point,https://static.tp-link.com/2018/201809/20180904/7106508174%20EAP225EAP245_IG.pdf,80,HTTP,http://tplinkeap.net
+227,TP-Link,EAP225,admin:admin,Access Point,https://static.tp-link.com/2018/201812/20181229/1910012495-Omada%20Access%20Points_UG.pdf,80,HTTP,http://tplinkeap.net
+228,TP-Link,EAP115,admin:admin,Access Point,https://static.tp-link.com/2018/201812/20181229/1910012495-Omada%20Access%20Points_UG.pdf,80,HTTP,http://tplinkeap.net
+229,TP-Link,CAP1200,none:none,Access Point,https://static.tp-link.com/2018/201807/20180705/1910012438_CAP_Wireless%20Ceiling%20Mount%20Access%20Point_UG.pdf,80,HTTP,192.168.0.254
+230,TP-Link,"T3700G-52TQ, T3700G-28TQ",admin:admin,Industrial Layer 3 Switch,https://www.tp-link.com/de/support/download/t3700g-52tq/,80,HTTP,http://192.168.0.1
+231,TP-Link,T2700G-28TQ,admin:admin,Industrial Layer 2+ Switch,https://www.tp-link.com/de/support/download/t2700g-28tq/,"80,23","HTTP, Telnet",http://192.168.0.1
+232,TP-Link,"T2600G-28TS, T2600G-52TS, T2600G-28MPS, T2600G-28SQ, T2600G-18TS",admin:admin,Industrial Layer 2 Switch,https://static.tp-link.com/2019/201903/20190320/1910012455_T2600G_UG.pdf,80,HTTP,http://192.168.0.1
+233,TP-Link,T2500-28TC,admin:admin,Industrial Layer 2 Switch,https://static.tp-link.com/T2500-28TC(UN)_V2_UG_1479371109623z.pdf,80,HTTP,http://192.168.0.1
+234,TP-Link,T1700X-16TS,admin:admin,Industrial Ethernet Switches,https://static.tp-link.com/T1700X-16TS(UN)_V2_UG_1479439923193e.pdf,80,HTTP,http://192.168.0.1
+235,TP-Link,"TL-SG5428, TL-SG5412F",admin:admin,Industrial Layer 2 Switch,https://static.tp-link.com/resources/document/TL-SG5428_V1_User_Guide_1910010846.pdf,80,HTTP,http://192.168.0.1
+236,TP-Link,TL-SL5428E,admin:admin,Industrial Layer 2 Switch,https://static.tp-link.com/res/down/doc/TL-SL5428E_V3_UG.pdf,80,HTTP,http://192.168.0.1
+237,TP-Link,"TL-SG3210, TL-SG3216, TL-SG3424, TL-SG3424P",admin:admin,Industrial Layer 2 Switch,https://static.tp-link.com/res/down/doc/TL-SG3424P(UN)_V2_UG.pdf,80,HTTP,http://192.168.0.1
+238,TP-Link,"TL-SL3452, TL-SL3428",admin:admin,Industrial Layer 2 Switch,https://static.tp-link.com/res/down/doc/TL-SL3452(UN)_V2_UG.pdf,80,HTTP,http://192.168.0.1
+239,TP-Link,WBS210,admin:admin,Outdoor Access Point,https://static.tp-link.com/2018/201804/20180420/7106507787_WBS_V2_IG.pdf,80,HTTP,http://192.168.0.254
+240,TP-Link,WBS510,admin:admin,Outdoor Access Point,https://static.tp-link.com/2018/201804/20180420/7106507787_WBS_V2_IG.pdf,80,HTTP,http://192.168.0.254
+241,TP-Link,"AP300, AP200",admin:admin,Access Point,https://static.tp-link.com/res/down/doc/AP200(EU)_V1_QIG.pdf,80,HTTP,http://tplinkap.net
+242,TP-Link,TL-WA901ND,admin:admin,Access Point,https://www.tp-link.com/de/support/download/tl-wa901nd/v2/,80,HTTP,http://192.168.1.254
+243,TP-Link,TL-WA901ND,admin:admin,Access Point,https://www.tp-link.com/de/support/download/tl-wa901nd/v3/,80,HTTP,http://tplinkap.net
+244,TP-Link,TL-WA801ND,admin:admin,Access Point,https://www.tp-link.com/de/support/download/tl-wa801nd/v2/,80,HTTP,http://192.168.0.254
+245,TP-Link,TL-WA801ND,admin:admin,Access Point,https://www.tp-link.com/de/support/download/tl-wa801nd/v5/,80,HTTP,http://tplinkap.net
+246,KUKA,VKSS 5.4,Administrator:kuka,Robotics,https://www.robot-forum.com/robotforum/kuka-robot-forum/krc-network-password/?PHPSESSID=hkbdb5792qbi4htov65h2slkl5,,,
+247,KUKA,"KSS 5.2, KSS 5.3, KSS 5.4, KSS 5.5, KSS 5.6, KSS 7.0",Administrator:KUKA,Robotics,https://www.robot-forum.com/robotforum/kuka-robot-forum/krc-network-password/?PHPSESSID=hkbdb5792qbi4htov65h2slkl5,,,
+248,KUKA,"KSS 5.2.19 Build85 HF03, KSS 5.5, KSS 5.6",Administrator:kukarobxpe2,Robotics,https://www.robot-forum.com/robotforum/kuka-robot-forum/krc-network-password/?PHPSESSID=hkbdb5792qbi4htov65h2slkl5,,,
+249,KUKA,"KSS 8.0, KSS 8.1, KSS 8.2",Administrator:68kuka1secpw59,Robotics,https://www.robot-forum.com/robotforum/kuka-robot-forum/krc-network-password/?PHPSESSID=hkbdb5792qbi4htov65h2slkl5,,,
+250,KUKA,KSS 8.3,KukaUser:68kuka1secpw59,Robotics,https://www.robot-forum.com/robotforum/kuka-robot-forum/krc-network-password/?PHPSESSID=hkbdb5792qbi4htov65h2slkl5,,,
+251,Linksys,BEFSR41,none:admin,Router,http://downloads.linksys.com/downloads/userguide/BEFSR41_V43_UG_A-WEB.pdf,80,HTTP,http://192.168.1.1
+252,Linksys,BEFW11S4,none:admin,Router,https://www.linksys.com/us/support-product?pid=01t80000003KXcNAAW,80,HTTP,http://192.168.1.1
+253,Linksys,WAP54G,none:admin,Access Point,https://www.linksys.com/us/support-product?pid=01t80000003KWvqAAG,80,HTTP,http://192.168.1.245
+254,Linksys,WRT54G,none:admin,Router,https://www.linksys.com/de/support-product?pid=01t80000003KXPxAAO,80,HTTP,http://192.168.1.1
+255,Linksys,WAG354G,admin:admin,Gateway,https://www.linksys.com/ch/support-article?articleNum=149116,80,HTTP,http://192.168.1.1
+256,Linksys,WAG54G,admin:admin,Gateway,https://www.linksys.com/de/support-article?articleNum=149107,80,HTTP,http://192.168.1.1
+257,Linksys,WRT54GC,none:admin,Router,https://www.linksys.com/at/support-article?articleNum=149340,80,HTTP,http://192.168.1.1
+258,Gigabyte,GN-B49G,admin:admin,Wireless Router,https://www.gigabyte.com/de/Wireless-Product/GN-B49G-rev-10#support-manual,80,HTTP,http://192.168.1.254
+259,Gigabyte,GN-BR01G,admin:admin,Wireless Router,https://www.gigabyte.com/Wireless-Product/GN-BR01G-rev-10#support-manual,80,HTTP,http://192.168.1.254
+260,Paessler,PRTG Network Monitor,prtgadmin:prtgadmin,Monitoring Software,https://www.paessler.com/manuals/prtg/login?utm_source=google&utm_medium=cpc&utm_campaign=DEU_EN_DSA_Urls_path:1_&utm_adgroup=/prtg&utm_adnum=expdsa_en_03&utm_campaignid=1343530491&utm_adgroupid=59589310251&utm_targetid=aud-320225222828:dsa-314608692227&u,,,http://127.0.0.1
+261,Axis,2100 Network Camera,root:pass,IP Camera,https://www.axis.com/files/installationguide/2100/2100ig_en.pdf,,,
+262,IBM,3534 Model F08,admin:password,Switch,ftp://ftp.software.ibm.com/storage/san/3534f08/3534-F08_Installation.pdf,23,telnet,
+263,Linksys,AG041,admin:admin,Gateway,https://www.linksys.com/us/support-product?pid=01t80000003KZrTAAW,80,HTTP,http://192.168.1.1
+264,Linksys,AG241,admin,Gateway,https://www.linksys.com/de/support-product?pid=01t80000003KOTKAA4,80,HTTP,192.168.1.1
+265,Linksys,AG300,admin:admin,Gateway,"http://downloads.linksys.com/downloads/userguide/ag300-eu-ug-web,0.pdf",80,HTTP,192.168.1.1
+266,Linksys,AG310,admin:admin,Gateway,http://downloads.linksys.com/downloads/userguide/1224638352258/AG310_ug.pdf,80,HTTP,192.168.1.1
+267,Linksys,AM300,admin:admin,Gateway,https://www.linksys.com/us/support-product?pid=01t80000003prlDAAQ,80,HTTP,192.168.1.1
+268,Linksys,BEFSR81,none:admin,Router,http://downloads.linksys.com/downloads/userguide/BEFSR81_V31_UG_NC-WEB.pdf,80,HTTP,192.168.1.1
+269,Linksys,BEFSX41,none:admin,Router,https://www.linksys.com/de/support-product?pid=01t80000003KPN3AAO,80,HTTP,192.168.1.1
+270,Linksys,E1000,none:admin,Wireless Router,https://www.linksys.com/de/support-product?pid=01t80000003K7fzAAC,80,HTTP,192.168.1.1
+271,Linksys,E1200,admin:admin,Wireless Router,http://downloads.linksys.com/downloads/userguide/1224695202767/E_Series_Intl_UG_3425_01547_Web.pdf,80,HTTP,192.168.1.1
+272,Linksys,E2000,admin:admin,Wireless Router,http://downloads.linksys.com/downloads/userguide/E2000_UG_USA_V10_NC-WEB.pdf,80,HTTP,192.168.1.1
+273,Linksys,E2100L,admin:admin,Wireless Router,http://downloads.linksys.com/downloads/userguide/1224655367600/E2100L_V10_UG_USA_NC-WEB.pdf,80,HTTP,192.168.1.1
+274,Linksys,E3000,admin:admin,Wireless Router,"http://downloads.linksys.com/downloads/userguide/1224668792764/E3000-EE_UG_V10_NC-WEB_3425-00144_DE,0.pdf",80,HTTP,192.168.1.1
+275,Linksys,E4200,admin:admin,Wireless Router,http://downloads.linksys.com/downloads/userguide/E_Series_UG_E900Rev_3425-01486_Web.pdf,80,HTTP,192.168.1.1
+276,Linksys,EA2700,admin:admin,Wireless Router,http://downloads.linksys.com/downloads/userguide/EA2700-3500-4500_UG.pdf,80,HTTP,192.168.1.1
+277,Linksys,EA3500,admin:admin,Wireless Router,http://downloads.linksys.com/downloads/userguide/EA2700-3500-4500_UG.pdf,80,HTTP,192.168.1.1
+278,Linksys,EA4500,admin:admin,Wireless Router,http://downloads.linksys.com/downloads/userguide/EA2700-3500-4500_UG.pdf,80,HTTP,192.168.1.1
+279,NetComm,3G17WN,admin:admin,Router,https://manualsdump.com/en/manuals/netcomm-3g18wn-3g17wn/138319/1,80,HTTP,192.168.20.1
+280,NetComm,3G18WN,admin:admin,Router,https://manualsdump.com/en/manuals/netcomm-3g18wn-3g17wn/138319/1,80,HTTP,192.168.20.1
+281,NetComm,3G9WB,admin:admin,Gateway,https://support.netcommwireless.com/product/3g9wb#Manuals,,,10.0.0.138
+282,NetComm,GTV300,admin:admin,Router,https://support.netcommwireless.com/product/gtv300,80,HTTP,192.168.30.1
+283,NetComm,N3G002W,admin:admin,Router,https://support.netcommwireless.com/sites/default/files/N3G002W_UG.pdf,80,HTTP,192.168.123.254
+284,NetComm,N3G005W,admin:admin,Wireless Router,https://support.netcommwireless.com/sites/default/files/N3G005W_UG.pdf,80,HTTP,192.168.123.254
+285,NetComm,NB1,admin:admin,Industrial Modem,http://www.connect.net.au/helpdesk/pppoe/Netcomm_NB1.pdf,80,HTTP,http://192.168.1.1
+286,NetComm,NB11W,admin:admin,Industrial Modem,https://support.netcommwireless.com/sites/default/files/NB11W_UG.pdf,80,HTTP,http://192.168.1.1
+287,NetComm,NB12WD,admin:admin,Router,https://support.netcommwireless.com/sites/default/files/NB12WD_UG.pdf,80,HTTP,http://192.168.1.1
+288,NetComm,NB2800,none:admin,Router,https://support.netcommwireless.com/sites/default/files/NB2800_QSG.pdf,80,HTTP,http://192.168.1.1
+289,NetComm,NB3000,admin:admin,Router,https://www.cleancss.com/router-default/Netcomm/NB3000,80,HTTP,http://192.168.1.1
+290,NetComm,NB304N,admin:admin,Router,https://support.netcommwireless.com/sites/default/files/NB304N-QSG.pdf,80,HTTP,http://192.168.1.1
+291,NetComm,NB5580,none:admin,Gateway,https://support.netcommwireless.com/sites/default/files/NB5580_UG.pdf,8080,HTTP,http://192.168.1.1
+292,NetComm,NB600W,admin:admin,Gateway,https://support.netcommwireless.com/sites/default/files/NB600W_UG.pdf,80,HTTP,http://192.168.1.1
+293,NetComm,NB750,admin:admin,Router,https://support.netcommwireless.com/sites/default/files/NB750_UG.pdf,80,HTTP,http://192.168.1.1
+294,NetComm,NP800n_Series,admin:admin,Router,https://support.netcommwireless.com/sites/default/files/NP800n_Series_User_Guide.pdf,80,HTTP,http://192.168.20.1
+295,NetComm,NTC-5000 Series,"admin:admin (Admin Mode) , root:admin (Root Mode)",Router,https://support.netcommwireless.com/sites/default/files/NTC-5000-Series-User-Guide.pdf,80,HTTP,http://192.168.1.1
+296,NetComm,V300,admin:admin,Router,https://support.netcommwireless.com/sites/default/files/V300_UG.pdf,80,HTTP,http://192.168.30.1
+297,NetComm,V200,admin:admin,Router,https://support.netcommwireless.com/sites/default/files/V200-VSG-Generic.pdf,80,HTTP,http://192.168.30.1
+298,NetComm,V210P,admin:admin,VoIP Adapter,https://support.netcommwireless.com/sites/default/files/V210P-User-Guide.pdf,80,HTTP,http://192.168.22.1
+299,NetComm,NBF3ADV,admin:admin,Router,https://www.cleancss.com/router-default/Netcomm/NBF3ADV,80,HTTP,http://192.168.1.1
+300,Lancom,GS-2352,admin:admin,Switch,https://www.lancom-systems.de/fileadmin/download/LC-GS-2328P/IG_Switches_DE.pdf,80,HTTP,172.23.56.250 oder 172.23.56.251
+301,Lancom,GS-2310,admin:admin,Switch,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_Switches_DE.pdf,80,HTTP,172.23.56.250 oder 172.23.56.251
+302,Lancom,GS-2328P,admin:admin,Switch,https://www.lancom-systems.de/fileadmin/download/LC-GS-2328P/IG_Switches_DE.pdf,80,HTTP,172.23.56.250 oder 172.23.56.251
+303,Lancom,GS-2328F,admin:admin,Switch,https://www.lancom-systems.de/fileadmin/download/LC-GS-2328P/IG_Switches_DE.pdf,80,HTTP,172.23.56.250 oder 172.23.56.251
+304,Lancom,GS-2310P+,admin:admin,Switch,https://www.lancom-systems.de/fileadmin/download/LC-GS-2328P/IG_Switches_DE.pdf,80,HTTP,172.23.56.250 oder 172.23.56.251
+305,Lancom,GS-2328,admin:admin,Switch,https://www.lancom-systems.de/fileadmin/download/LC-GS-2328P/IG_Switches_DE.pdf,80,HTTP,172.23.56.250 oder 172.23.56.251
+306,Lancom,GS-2352P,admin:admin,Switch,https://www.lancom-systems.de/fileadmin/download/LC-GS-2328P/IG_Switches_DE.pdf,80,HTTP,172.23.56.250 oder 172.23.56.251
+307,Lancom,GS-2326+,admin:admin,Switch,https://www.lancom-systems.de/fileadmin/download/LC-GS-2328P/IG_Switches_DE.pdf,80,HTTP,172.23.56.250 oder 172.23.56.251
+308,Lancom,GS-2326P+,admin:admin,Switch,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_Switches_DE.pdf,80,HTTP,172.23.56.250 oder 172.23.56.251
+309,Lancom,GS-1326,admin:admin,Switch,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_websmart-Switches_DE.pdf,80,HTTP,172.23.56.250 oder 172.23.56.251
+310,Lancom,LN-830U,none:none,Access Point,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+311,Lancom,LN-1700,none:none,Access Point,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+312,Lancom,LN-1702,none:none,Access Point,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+313,Lancom,LN-860,none:none,Access Point,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+314,Lancom,LN-862,none:none,Access Point,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+315,Lancom,L-822acn,none:none,Access Point,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+316,Lancom,LN-830acn,none:none,Access Point,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+317,Lancom,LN-630acn,none:none,Access Point,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+318,Lancom,L-322agn,none:none,Access Point,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+319,Lancom,L-321agn,none:none,Access Point,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+320,Lancom,OAP-830,none:none,Outdoor Access Point,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+321,Lancom,OAP-821,none:none,Outdoor Access Point,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+322,Lancom,OAP-822,none:none,Outdoor Access Point,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+323,Lancom,WLC-1000,none:none,Controller,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+324,Lancom,WLC-4006+,none:none,Controller,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+325,Lancom,IAP-821,none:none,Access Point,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+326,Lancom,IAP-822,none:none,Access Point,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+327,Lancom,UF-50,admin:admin,Firewall,https://www.lancom-systems.de/fileadmin/download/LC-RS_Unified_Firewalls/MA_R_S_User_Manual_Unified_Firewalls.pdf,3438,https,https://192.168.1.254:3438
+328,Lancom,UF-100,admin:admin,Firewall,https://www.lancom-systems.de/fileadmin/download/LC-RS_Unified_Firewalls/MA_R_S_User_Manual_Unified_Firewalls.pdf,3438,https,https://192.168.1.254:3438
+329,Lancom,UF-200,admin:admin,Firewall,https://www.lancom-systems.de/fileadmin/download/LC-RS_Unified_Firewalls/MA_R_S_User_Manual_Unified_Firewalls.pdf,3438,https,https://192.168.1.254:3438
+330,Lancom,UF-300,admin:admin,Firewall,https://www.lancom-systems.de/fileadmin/download/LC-RS_Unified_Firewalls/MA_R_S_User_Manual_Unified_Firewalls.pdf,3438,https,https://192.168.1.254:3438
+331,Lancom,UF-500,admin:admin,Firewall,https://www.lancom-systems.de/fileadmin/download/LC-RS_Unified_Firewalls/MA_R_S_User_Manual_Unified_Firewalls.pdf,3438,https,https://192.168.1.254:3438
+332,Lancom,UF-900,admin:admin,Firewall,https://www.lancom-systems.de/fileadmin/download/LC-RS_Unified_Firewalls/MA_R_S_User_Manual_Unified_Firewalls.pdf,3438,https,https://192.168.1.254:3438
+333,Lancom,ISG-4000,none:none,VPN Gateway,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+334,Lancom,ISG-1000,none:none,VPN Gateway,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+335,Lancom,730-4G+,none:none,Router,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+336,Lancom,730VA,none:none,Router,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+337,Lancom,1790VA,none:none,VPN Router,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+338,Lancom,1790VAW,none:none,VPN Router,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+339,Lancom,IAP-4G+,none:none,VPN Router,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+340,Lancom,1906VA-4G,none:none,VPN Router,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+341,Lancom,1900EF,none:none,VPN Router,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+342,Lancom,1790-4G,none:none,VPN Router,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+343,Lancom,1790VA-4G,none:none,VPN Router,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+344,Lancom,1640E,none:none,VPN Router,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+345,Lancom,1781VAW,none:none,VPN Router,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+346,Lancom,1781EW+,none:none,VPN Router,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+347,Lancom,1780EW-4G+,none:none,VPN Router,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+348,Lancom,1793VA-4G,none:none,VoIP Router,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+349,Lancom,1784VA,none:none,VoIP Router,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+350,Lancom,1783VAW,none:none,VPN Router,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+351,Lancom,883 VoIP,none:none,VoIP Router,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+352,Lancom,884 VoIP,none:none,VoIP Router,https://www.lancom-systems.de/download/documentation/Installation_Guide/IG_LCOS-devices_DE.pdf,80,HTTP,172.23.56.254
+353,Zyxel,XGS4600-52F,admin:1234,Switch,https://www.zyxel.com/de/de/support/download_library/product/xgs4600_series_18.shtml?c=de&l=de&pid=20170103133252&tab=Quick_Start_Guide&pname=XGS4600%20Series&mtname=Schnellstart-Anleitung,80,HTTP,192.168.1.1
+354,Zyxel,XGS4600-32F,admin:1234,Switch,https://www.zyxel.com/de/de/support/download_library/product/xgs4600_series_18.shtml?c=de&l=de&pid=20170103133252&tab=Quick_Start_Guide&pname=XGS4600%20Series&mtname=Schnellstart-Anleitung,80,HTTP,192.168.1.1
+355,Zyxel,XGS4600-32,admin:1234,Switch,https://www.zyxel.com/de/de/support/download_library/product/xgs4600_series_18.shtml?c=de&l=de&pid=20170103133252&tab=Quick_Start_Guide&pname=XGS4600%20Series&mtname=Schnellstart-Anleitung,80,HTTP,192.168.1.1
+356,Zyxel,XS3800-28,admin:1234,Industrial Layer 2 Switch,https://www.zyxel.com/de/de/support/download_library/product/xs3800_28_18.shtml?c=de&l=de&pid=20170929200010&tab=Quick_Start_Guide&pname=XS3800-28&mtname=Schnellstart-Anleitung,80,HTTP,192.168.1.1
+357,Zyxel,GS2210-8HP,admin:1234,Industrial Layer 2 Switch,https://www.zyxel.com/de/de/support/download_library/product/xgs2210_gs2210_series_18.shtml?c=de&l=de&pid=20140226133840&tab=Quick_Start_Guide&pname=XGS2210/GS2210%20Series&mtname=Schnellstart-Anleitung,80,HTTP,192.168.1.1
+358,Zyxel,XGS2210-52HP,admin:1234,Industrial Layer 2 Switch,https://www.zyxel.com/de/de/support/download_library/product/xgs2210_gs2210_series_18.shtml?c=de&l=de&pid=20140226133840&tab=Quick_Start_Guide&pname=XGS2210/GS2210%20Series&mtname=Schnellstart-Anleitung,80,HTTP,192.168.1.1
+359,Zyxel,GS2210-8,admin:1234,Industrial Layer 2 Switch,https://www.zyxel.com/de/de/support/download_library/product/xgs2210_gs2210_series_18.shtml?c=de&l=de&pid=20140226133840&tab=Quick_Start_Guide&pname=XGS2210/GS2210%20Series&mtname=Schnellstart-Anleitung,80,HTTP,192.168.1.1
+360,Zyxel,XGS2210-28,admin:1234,Industrial Layer 2 Switch,https://www.zyxel.com/de/de/support/download_library/product/xgs2210_gs2210_series_18.shtml?c=de&l=de&pid=20140226133840&tab=Quick_Start_Guide&pname=XGS2210/GS2210%20Series&mtname=Schnellstart-Anleitung,80,HTTP,192.168.1.1
+361,Zyxel,XGS2210-52,admin:1234,Industrial Layer 2 Switch,https://www.zyxel.com/de/de/support/download_library/product/xgs2210_gs2210_series_18.shtml?c=de&l=de&pid=20140226133840&tab=Quick_Start_Guide&pname=XGS2210/GS2210%20Series&mtname=Schnellstart-Anleitung,80,HTTP,192.168.1.1
+362,Zyxel,XGS2210-28HP,admin:1234,Industrial Layer 2 Switch,https://www.zyxel.com/de/de/support/download_library/product/xgs2210_gs2210_series_18.shtml?c=de&l=de&pid=20140226133840&tab=Quick_Start_Guide&pname=XGS2210/GS2210%20Series&mtname=Schnellstart-Anleitung,80,HTTP,192.168.1.1
+363,Zyxel,GS2210-24LP,admin:1234,Industrial Layer 2 Switch,https://www.zyxel.com/de/de/support/download_library/product/xgs2210_gs2210_series_18.shtml?c=de&l=de&pid=20140226133840&tab=Quick_Start_Guide&pname=XGS2210/GS2210%20Series&mtname=Schnellstart-Anleitung,80,HTTP,192.168.1.1
+364,Zyxel,GS2210-48,admin:1234,Industrial Layer 2 Switch,https://www.zyxel.com/de/de/DownloadLibraryFilter.shtml?c=de&l=de&tab=Quick_Start_Guide&p=2&mto=&pid=20140226133840&pname=XGS2210/GS2210%20Series&mtname=Schnellstart-Anleitung&md=,80,HTTP,192.168.1.1
+365,Zyxel,GS2210-48HP,admin:1234,Industrial Layer 2 Switch,https://www.zyxel.com/de/de/DownloadLibraryFilter.shtml?c=de&l=de&tab=Quick_Start_Guide&p=2&mto=&pid=20140226133840&pname=XGS2210/GS2210%20Series&mtname=Schnellstart-Anleitung&md=,80,HTTP,192.168.1.1
+366,Zyxel,GS2210-24HP,admin:1234,Industrial Layer 2 Switch,https://www.zyxel.com/de/de/DownloadLibraryFilter.shtml?c=de&l=de&tab=Quick_Start_Guide&p=2&mto=&pid=20140226133840&pname=XGS2210/GS2210%20Series&mtname=Schnellstart-Anleitung&md=,80,HTTP,192.168.1.1
+367,Zyxel,GS1920-24HPv2,admin:1234,Switch,https://www.zyxel.com/de/de/support/download_library/product/gs1920_series_18.shtml?c=de&l=de&pid=20130521174252&mid=20180316152433&tab=Quick_Start_Guide&pname=GS1920%20Series,80,HTTP,192.168.1.1
+368,Zyxel,GS1920-48v2,admin:1234,Switch,https://www.zyxel.com/de/de/support/download_library/product/gs1920_series_18.shtml?c=de&l=de&pid=20130521174252&mid=20180316152433&tab=Quick_Start_Guide&pname=GS1920%20Series,80,HTTP,192.168.1.1
+369,Zyxel,GS1920-48HPv2,admin:1234,Switch,https://www.zyxel.com/de/de/support/download_library/product/gs1920_series_18.shtml?c=de&l=de&pid=20130521174252&mid=20180316152433&tab=Quick_Start_Guide&pname=GS1920%20Series,80,HTTP,192.168.1.1
+370,Zyxel,GS1920-8HPv2,admin:1234,Switch,https://www.zyxel.com/de/de/support/download_library/product/gs1920_series_18.shtml?c=de&l=de&pid=20130521174252&mid=20180316152433&tab=Quick_Start_Guide&pname=GS1920%20Series,80,HTTP,192.168.1.1
+371,Zyxel,GS1920-24v2,admin:1234,Switch,https://www.zyxel.com/de/de/support/download_library/product/gs1920_series_18.shtml?c=de&l=de&pid=20130521174252&mid=20180316152433&tab=Quick_Start_Guide&pname=GS1920%20Series,80,HTTP,192.168.1.1
+372,Zyxel,RGS200-12P,admin:1234,Switch,ftp://ftp2.zyxel.com/RGS200-12P/quick_start_guide/RGS200-12P_001.pdf,80,HTTP,192.168.1.1
+373,Zyxel,GS1200-8,none:1234,Switch,https://www.zyxel.com/de/de/support/download_library/product/gs1200_5_gs1200_8_18.shtml?c=de&l=de&pid=20180126103420&tab=Quick_Start_Guide&pname=GS1200-5/GS1200-8&mtname=Schnellstart-Anleitung,80,HTTP,192.168.1.3
+374,Zyxel,GS1200-5,none:1234,Switch,https://www.zyxel.com/de/de/support/download_library/product/gs1200_5_gs1200_8_18.shtml?c=de&l=de&pid=20180126103420&tab=Quick_Start_Guide&pname=GS1200-5/GS1200-8&mtname=Schnellstart-Anleitung,80,HTTP,192.168.1.3
+375,Zyxel,GS1200-5HP,admin:1234,Switch,https://www.zyxel.com/de/de/support/download_library/product/gs1200_5hp_v2_gs1200_8hp_v2_18.shtml?c=de&l=de&pid=20170505152256&tab=Quick_Start_Guide&pname=GS1200-5HP%20v2/GS1200-8HP%20v2&mtname=Schnellstart-Anleitung,80,HTTP,192.168.1.3
+376,Zyxel,GS1200-8HP,none:1234,Switch,https://www.zyxel.com/de/de/support/download_library/product/gs1200_5hp_v2_gs1200_8hp_v2_18.shtml?c=de&l=de&pid=20170505152256&tab=Quick_Start_Guide&pname=GS1200-5HP%20v2/GS1200-8HP%20v2&mtname=Schnellstart-Anleitung,80,HTTP,192.168.1.3
+377,Zyxel,WAP3205,admin:1234,Access Point,https://www.zyxel.com/de/de/support/download_library/product/wap3205_v3_22.shtml?c=de&l=de&pid=20151029160000&tab=User_s_Guide&pname=WAP3205%20v3&mtname=Nutzerhandbuch,80,HTTP,192.168.1.2
+378,Zyxel,NBG6615,admin:1234,Access Point,ftp://ftp2.zyxel.com/NBG6615/user_guide/NBG6615_v1.00_ed1.pdf,80,HTTP,92.168.212.1
+379,Zyxel,NBG6604,none:1234,Access Point,https://www.zyxel.com/de/de/support/download_library/product/nbg6604_22.shtml?c=de&l=de&pid=20170123200003&tab=User_s_Guide&pname=NBG6604&mtname=Nutzerhandbuch,80,HTTP,192.168.1.2
+380,Zyxel,NBG6617,none:1234,Access Point,ftp://ftp2.zyxel.com/NBG6617/user_guide/NBG6617_1.00_ed2.pdf,80,HTTP,"192.168.1.1 (Router Mode), 192.168.1.2 (Access Point Mode)"
+381,Zyxel,ARMOR Z2,none:1234,Access Point,ftp://ftp2.zyxel.com/ARMOR_Z2_(NBG6817)/user_guide/ARMOR%20Z2%20(NBG6817)_1.00.pdf,80,HTTP,"192.168.1.1 (Router Mode), 192.168.1.2 (Access Point Mode)"
+382,Zyxel,NBG6815,none:1234,Wireless Router,ftp://ftp2.zyxel.com/NBG6815/user_guide/NBG6815_1.00.pdf,80,HTTP,"192.168.1.1 (Router Mode), 192.168.1.2 (Access Point Mode)"
+383,Zyxel,ARMOR Z1,none:1234,Wireless Router,ftp://ftp2.zyxel.com/ARMOR_Z1_(NBG6816)/user_guide/ARMOR%20Z1%20(NBG6816)_1.00.pdf,80,HTTP,"192.168.1.1 (Router Mode), 192.168.1.2 (Access Point Mode)"
+384,Zyxel,NBG6515,none:1234,Wireless Router,"ftp://ftp2.zyxel.com/NBG6515/user_guide/NBG6515_v1,ed2.pdf",80,HTTP,"192.168.1.1 (Router Mode), 192.168.1.2 (Access Point Mode)"
+385,Zyxel,NBG-418N,admin:1234,Wireless Router,ftp://ftp2.zyxel.com/NBG-418N_v2/user_guide/NBG-418N%20v2_v1_ed3.pdf,80,HTTP,"192.168.1.1 (Router Mode), 192.168.1.2 (Access Point Mode)"
+386,Zyxel,NBG6616,none:1234,Wireless Router,ftp://ftp2.zyxel.com/NBG6616/user_guide/NBG6616_1.00.pdf,80,HTTP,"192.168.1.1 (Router Mode), 192.168.1.2 (Access Point Mode)"
+387,Juniper,EX2500,adminmd5:adminmd5,Switch,https://www.juniper.net/documentation/en_US/release-independent/junos/information-products/topic-collections/hardware/ex-series/ex2500/ex2500-config-guide-30.pdf,80,HTTP,http://10.10.10.1
+388,Asus,RT-AX88U,admin:admin,Wireless Router,https://dlcdnets.asus.com/pub/ASUS/wireless/RT-AX88U/E14778_RT-AX88U_UM_web.pdf,80,HTTP,http://router.asus.com
+389,Asus,BRT-AC828,admin:admin,Wireless Router,https://dlcdnets.asus.com/pub/ASUS/wireless/BRT-AC828/WEU15299_BRT-AC828_QSG_V3_PRINT.pdf?_ga=2.42972581.1294900952.1558369212-567973121.1558369212,80,HTTP,http://router.asus.com
+390,Asus,DSL-AC87VG,admin:admin,Wireless Router,https://dlcdnets.asus.com/pub/ASUS/wireless/DSL-AC87VG/G11833_DSL_AC87VG_Manual.pdf?_ga=2.79142036.1294900952.1558369212-567973121.1558369212,80,http,http://router.asus.com
+391,Asus,DSL-AC56U,admin:admin,Router,https://dlcdnets.asus.com/pub/ASUS/wireless/DSL-AC56U/G10722_DSL-AC56U_Manual.pdf?_ga=2.104200576.1294900952.1558369212-567973121.1558369212,80,HTTP,192.168.1.1
+392,Asus,DSL-AC52U,admin:admin,Wireless Router,https://dlcdnets.asus.com/pub/ASUS/wireless/DSL-AC52U/G11064_DSL_AC52U_Manual.pdf?_ga=2.37057312.1294900952.1558369212-567973121.1558369212,80,HTTP,192.168.1.1
+393,Asus,DSL-AC88U,admin:admin,Wireless Router,https://dlcdnets.asus.com/pub/ASUS/wireless/DSL-AC88U/G13515_DSL_AC88U_manual.pdf?_ga=2.115634310.1294900952.1558369212-567973121.1558369212,80,HTTP,http://router.asus.com
+394,Asus,RT-N56U B1,admin:admin,Router,https://dlcdnets.asus.com/pub/ASUS/wireless/RT-N56U_B1/G10347_RT-N56U_B1_Manual.pdf?_ga=2.119404681.1294900952.1558369212-567973121.1558369212,80,HTTP,192.168.1.1
+395,Asus,RT-N16,admin:admin,Wireless Router,https://dlcdnets.asus.com/pub/ASUS/wireless/RT-N16/G7709_RT-N16_Manual_German.pdf?_ga=2.111926660.1294900952.1558369212-567973121.1558369212,80,HTTP,192.168.1.1
+396,Asus,RT-N15,admin:admin,Router,https://www.asus.com/de/Networking/RTN15/HelpDesk_Manual/,80,HTTP,192.168.1.1
+397,Asus,RT-AC5300,admin:admin,Wireless Router,https://dlcdnets.asus.com/pub/ASUS/wireless/RT-AC5300/G10434_RT_AC5300_Manual.pdf?_ga=2.83325078.1294900952.1558369212-567973121.1558369212,80,HTTP,192.168.1.1
+398,Siemens,Speedstream 6520,admin:admin,Modem,https://setuprouter.com/router/siemens/speedstream-6520/manual-1058.pdf,80,HTTP,10.0.0.138
+399,Zcom,XG1021 N,admin:password,Router,https://www.192-168-1-1-ip.co/router/zcom/XG1021%20N/19187/,80,HTTP,
+400,Advantech,EKI-7659C,admin:admin,Industrial Switch,http://www.rts.ua/catalog/advantech/pdf/EKI-7659C_2_201316.pdf,80,HTTP,
+401,Advantech,ADAM-6200 Series,root:00000000,Ethernet Modules,http://www.bb-elec.com/Products/Manuals/ADAM-6200m-pdf.pdf,80,HTTP,
+402,Advantech,ADAM-6050W,none:none,Ethernet Modules,,80,http,
+403,Advantech,ADAM-3600-A1F,Admin:00000000,Remote Ethernet I/O,https://www.proxis.ua/files/documents/UM-ADAM-3600-A1F-Ed1-EN.pdf,80,HTTP,
+404,Alcatel-Lucent Nokia,OmniSwitch 6250,admin:switch,Switch,https://dariusfreamon.wordpress.com/tag/defaults/,80,HTTP,
+405,Zoe Medical,Nightingale PPM3,"Set Dial 1 to 49, Set Dial 2 to 48, Set Dial 3 to 46",Vital Sign Monitor With CO2,https://dariusfreamon.wordpress.com/2015/07/11/zoe-medical-nightingale-ppm3-default-passcode/,,,
+406,Xzeres,442SR,MyTurbine:m442+SRt,Turbine,https://dariusfreamon.wordpress.com/2015/05/03/xzeres-442s-wind-turbine-web-interface-default-credentials/,,,
+407,WashTec,SoftCare Evo Type SE10,"00001 (limited access), 00000 (unlimited access)",Roll-over car wash system,http://www.washtec.com.au/files/tech-data/SoftCare2%20EVO%20Manual.pdf,,,
+408,Ubiquiti,AirControl,ubnt:ubnt,Web Management Application,https://dariusfreamon.wordpress.com/2015/04/16/ubiquiti-aircontrol-web-management-default-admin-credentials/,9005,golem,
+409,Ubiquiti,AirOS,ubnt:ubnt,Operating System,http://dl.ubnt.com/guides/airOS/airOS_UG.pdf,443,https,
+410,Trafficware,ATMS.now,naztec:naztec,Advanced Traffic Management System,https://dariusfreamon.wordpress.com/2014/02/20/trafficware-atms-now-default-credentials/,,,
+411,Sinapsi,eSolar,admin:admin,Web-Server for photovoltaic applications,http://www.sinapsitech.it/wp-content/uploads/2014/02/Handbook_standard_2.0_en.pdf,,,
+412,PIPS Technology,AUTOPLATE,"(Telnet), wl_test:wl_test, vesstore:vesstore, ftp_boot:ftp_boot (FTP)",license plate recognition system,https://dariusfreamon.wordpress.com/2014/02/19/pips-technology-autoplate-automatic-license-plate-recognition-alpr-multiple-vulnerabilities/,"23,21","Telnet, FTP",
+413,Nuance,Dragon Medical 360 Network Edition,admin:password,Medical Speech Recognition Software Solutions,https://dariusfreamon.wordpress.com/2015/07/11/dragon-medical-360-network-edition-nuance-management-console-default-admin-credentials/,80,TCP,
+414,NOVUS Automation,AirGate-3G,admin:admin,Dual SIM Industrial Cellular VPN Router,https://dariusfreamon.wordpress.com/2016/02/02/novus-airgate-3g-dual-sim-industrial-cellular-vpn-router-default-admin-credentials/,80,http,
+415,NOVUS Automation,"N1040, N480D, N960, N1020, N1040i, N1540, N2000, N3000 and N120","1111 (ACESS PASSWORD), 9 3 2 1 (MASTER PASSWORD)",Temperature Controller,https://dariusfreamon.wordpress.com/2015/04/18/novus-n1040-controller/,,,
+416,Mitsubishi,MES3-255C-EN,"ecoV:ecopass, guest:user",Web server,https://dariusfreamon.wordpress.com/2014/02/28/mitsubishi-energy-saving-data-collecting-server-ecowebserver-iii-mes3-255c-en-default-credentials/,,,
+417,Metrobility,NetBeacon Element Management Software,"guest:guest, admin:admin, root:root",HMI Software,https://dariusfreamon.wordpress.com/2014/09/02/netbeacon-element-management-software-multiple-default-credentials/,23,telnet,
+418,LOYTEC Electronics,"L-DALI DALI Light Controller, L-INX Automation Server, L-GATE Universal Gateway, L-IP CEA-709/IP Router, L-VIS, LIOB-10x I/O Module, LIOB-x5x I/O Module, LIP-ME20X L-IP BACnet Router, LWEB-802, LWEB-803, LWEB-900 Building Management System",admin:loytec4u,Multiple Devices,https://dariusfreamon.wordpress.com/2016/02/01/loytec-electronics-multiple-devices-web-interface-default-admin-credentials/,80,HTTP,
+419,LOYTEC Electronics,L-Proxy CEA-709 Gateway,admin:admin,Gateway,https://dariusfreamon.wordpress.com/2016/02/01/loytec-electronics-multiple-devices-web-interface-default-admin-credentials/,80,HTTP,
+420,Lantronix,"EDS-MD 4, EDS-MD 8, EDS-MD 16",admin:PASS,Medical Device Server,https://dariusfreamon.wordpress.com/2015/07/11/lantronix-eds-md-medical-device-server-web-interface-default-admin-credentials/,80,HTTP,
+421,Honeywell,Honeywell XL,"Guest:guest, SysAdmin:honey",Controller,,80,HTTP,
+422,Honeywell,Alerton BCM-WEB,pass,BACtalk control module,https://dariusfreamon.wordpress.com/2015/05/01/honeywell-alerton-bcm-web-default-admin-credentials/,80,http,
+423,Honeywell,NetAXS,admin:admin,Access control unit,https://www.honeywellaccess.com/documents/UserManual_for_Release_3-800-04410-A.pdf,443,https,
+424,General Electric Healthcare,FASTlab Synthesizer,Admin:admin,Synthesizer,https://dariusfreamon.wordpress.com/2015/07/12/ge-healthcare-fastlab-synthesizer-default-credentials/,,,
+425,General Electric Healthcare,"HiSpeed CT/i, Lightspeed QX/i","root:#bigguy, ctuser:4$apps",Computed Tomography Scanner,https://dariusfreamon.wordpress.com/2014/09/04/ge-medical-systems-hispeed-cti-system-multiple-default-accounts/,,,
+426,General Electric Healthcare,"Discovery CT590 RT, Optima CT580",root:#bigguy,Computed Tomography Scanner,https://dariusfreamon.wordpress.com/2014/09/04/ge-medical-systems-hispeed-cti-system-multiple-default-accounts/,,,
+427,General Electric Healthcare,Datex-Ohmeda Engström Ventilator,"23-17-21 (Super User), 34-22-14 (service-level)",Carestation Ventilators,http://static.medonecapital.com/manuals/techManuals/Datex-Ohmeda-Engstrom-VentilatorTechnical-Manual.pdf,,,
+428,General Electric Healthcare,TRACERlab FX2 M,"tracerlab:tracerlab (for remote access), admin:tracerlab",chemistry synthesizer,https://dariusfreamon.wordpress.com/2015/07/12/ge-healthcare-tracerlab-fx2-m-multiple-default-credentials/,,,
+429,General Electric Healthcare,"TRACERlab FX2 devices (model C, MeI and N)",admin:tracerlab (physical access required),Synthesis module,https://dariusfreamon.wordpress.com/2015/07/12/ge-healthcare-tracerlab-fx2-default-admin-credentials/,,,
+430,Falcon,USHA,USHA:admin,UPS SNMP HTTP AGENT,https://dariusfreamon.wordpress.com/2016/01/28/falcon-usha-ups-snmp-http-agent-default-admin-credentials/,80,HTTP,
+431,ENTES,ENTBUS PLUS,admin:1234,Energy Management Software,http://www.entes.com.tr/dosyalar/ENTBUS%20Plus_Client_EN.pdf,,,
+432,ENTES,MPR-SW,admin:none,Monitoring & Reporting Software,http://tde-instruments.de/images/stories/produkte/MPR-SW2_Software_fuer_Fernueberwachung/entes_mpr-sw2-software-instruction_manual.pdf,,,
+433,Endress+Hauser,Fieldgate Viewer,admin:0000,HMI software,https://dariusfreamon.wordpress.com/2013/10/15/endresshauser-fieldgate-viewer-default-credentials/,,,
+434,Schneider Electric,M340,USER:USER,Industrial Control Systems,https://github.com/arnaudsoullie/ics-default-passwords,80,HTTP,
+435,Schneider Electric,Premium,USER:USER,Industrial Control Systems,https://github.com/arnaudsoullie/ics-default-passwords,80,HTTP,
+436,GarrettCom,Magnum Switch,manager:manager,Industrial Ethernet Switches,https://github.com/arnaudsoullie/ics-default-passwords/blob/master/ics-default-passwords.csv,80,HTTP,
+437,Benq,AWL700,admin:admin,Router,https://www.cleancss.com/router-default/BenQ,80,HTTP,192.168.1.1
+438,BenQ,AWL500,admin:admin,Router,https://www.cleancss.com/router-default/BenQ,80,HTTP,192.168.1.1
+439,Barracuda,Spam Firewall,admin:adminbn99,Firewall,https://www.cleancss.com/router-default/Barracuda/Barracuda_Spam_Firewall_3.3.01.001_to_3.3.03.053,,,
+440,Barracuda,Spam Firewall 300,admin:admin,Firewall,https://www.cleancss.com/router-default/Barracuda/Barracuda_Spam_Firewall_300,,,
+441,Barracuda,Spyware Firewall,admin:admin,Firewall,https://www.cleancss.com/router-default/Barracuda/Barracuda_Spyware_Firewall,,,
+442,3Com,LinkSwitch 2000,tech:tech,Switch,,23,telnet,
+443,Huawei,E960,admin:admin,Router,,,,
+444,3Com,CellPlex,admin:admin,Power Supply,,23,telnet,
+445,Opengear,OM2200,root:default,Switch,https://opengear.com/wp-content/uploads/2018/09/QSG-OM2200-Ver1.pdf,80,http,192.168.0.1
+446,Opengear,OM2216,root:default,Industrial Switch,https://opengear.com/wp-content/uploads/2018/09/QSG-OM2200-Ver1.pdf,80,http,192.168.0.1
+447,Opengear,OM2248,root:default,Industrial Switch,https://opengear.com/wp-content/uploads/2018/09/QSG-OM2200-Ver1.pdf,80,http,192.168.0.1
+448,Opengear,OM2248-10G,root:default,Industrial Switch,https://opengear.com/wp-content/uploads/2018/09/QSG-OM2200-Ver1.pdf,80,http,192.168.0.1
+449,Opengear,OM2248-L,root:default,Industrial Switch,https://opengear.com/wp-content/uploads/2018/09/QSG-OM2200-Ver1.pdf,80,http,192.168.0.1
+450,Opengear,OM2248-10G-L,root:default,Switch,https://opengear.com/wp-content/uploads/2018/09/QSG-OM2200-Ver1.pdf,80,http,192.168.0.1
+451,Opengear,OM2224-24E,root:default,Switch,https://opengear.com/wp-content/uploads/2018/09/QSG-OM2200-Ver1.pdf,80,http,192.168.0.1
+452,Opengear,OM2224-24E-L,root:default,Switch,https://opengear.com/wp-content/uploads/2018/09/QSG-OM2200-Ver1.pdf,80,http,192.168.0.1
+453,Opengear,OM2224-24E-10G-L,root:default,Switch,https://opengear.com/wp-content/uploads/2018/09/QSG-OM2200-Ver1.pdf,80,http,192.168.0.1
+454,Opengear,IM7200,root:default,Infrastructure Manager,https://ftp.opengear.com/download/quickstart/im7200/IM7200L-03212019.pdf,80,http,192.168.0.1
+455,Opengear,IM7200,root:default,Infrastructure Manager,https://ftp.opengear.com/download/quickstart/im7200/IM7200L-03212019.pdf,80,http,192.168.0.1
+456,Opengear,OM7208,root:default,Infrastructure Manager,https://ftp.opengear.com/download/quickstart/im7200/IM7200L-03212019.pdf,80,http,192.168.0.1
+457,Opengear,IM7216,root:default,Infrastructure Manager,https://ftp.opengear.com/download/quickstart/im7200/IM7200L-03212019.pdf,80,http,192.168.0.1
+458,Opengear,IM7232,root:default,Infrastructure Manager,https://ftp.opengear.com/download/quickstart/im7200/IM7200L-03212019.pdf,80,http,192.168.0.1
+459,Opengear,IM7248,root:default,Infrastructure Manager,https://ftp.opengear.com/download/quickstart/im7200/IM7200L-03212019.pdf,80,http,192.168.0.1
+460,Opengear,CM7116,root:default,Console Manager,http://ftp.opengear.com/download/quickstart/cm7100/cm7100-quick-start.pdf,443,https,192.168.0.1
+461,Opengear,CM7132,root:default,Console Manager,http://ftp.opengear.com/download/quickstart/cm7100/cm7100-quick-start.pdf,443,https,192.168.0.1
+462,Opengear,CM7148,root:default,Console Manager,http://ftp.opengear.com/download/quickstart/cm7100/cm7100-quick-start.pdf,443,https,192.168.0.1
+463,Opengear,CM7196A,root:default,Console Manager,http://ftp.opengear.com/download/quickstart/cm7100/cm7196a-quick-start.pdf,443,https,192.168.0.1
+464,Opengear,ACM700x-2-LMx,root:default,Gateway,http://ftp.opengear.com/download/quickstart/acm700x-lmx/acm700x-2-lmx-quick-start.pdf,443,https,192.168.0.1
+465,Opengear,ACM7004-5-LMx,root:default,Gateway,http://ftp.opengear.com/download/quickstart/acm700x-lmx/acm7004-5lmx-quick-start.pdf,443,https,192.168.0.1
+466,Opengear,ACM5000,root:default,Remote Site Manager,http://ftp.opengear.com/download/quickstart/acm5000/acm5000-quick-start.pdf,443,https,192.168.0.1
+467,Opengear,SD4001,root:default,Serial Decvice Server,http://ftp.opengear.com/download/quickstart/x-quickstart/SD4001%20Quick%20Start.pdf,443,https,192.168.0.1
+468,Opengear,SD4002,root:default,Console Server,http://ftp.opengear.com/download/quickstart/x-quickstart/SD4002%20Quick%20Start.pdf,443,https,192.168.0.1
+469,Opengear,CM4116,root:default,Console Server,"http://ftp.opengear.com/download/quickstart/x-quickstart/CM4116,%204132%20&%204148%20Quick%20Start.pdf",443,https,192.168.0.1
+470,Opengear,CM4132,root:default,Console Server,"http://ftp.opengear.com/download/quickstart/x-quickstart/CM4116,%204132%20&%204148%20Quick%20Start.pdf",443,https,192.168.0.1
+471,Opengear,CM4148,root:default,Console Server,"http://ftp.opengear.com/download/quickstart/x-quickstart/CM4116,%204132%20&%204148%20Quick%20Start.pdf",443,https,192.168.0.1
+472,Opengear,ACM5504-2-P,root:default,Monitoring,http://ftp.opengear.com/download/quickstart/acm5500/acm5504-2-P-quick-start.pdf,443,https,192.168.0.1
+473,Opengear,ACM5504-5-G-I,root:default,Gateway,http://ftp.opengear.com/download/quickstart/acm5500/acm5504-5-G-I-quick-start.pdf,443,https,192.168.0.1
+474,Opengear,ACM5504-5-GS-I,root:default,Gateway,http://ftp.opengear.com/download/quickstart/acm5500/acm5504-5-GS-I-quick-start.pdf,443,https,192.168.0.1
+475,Opengear,ACM5504-5-G-W-I,root:default,Gateway,http://ftp.opengear.com/download/quickstart/acm5500/acm5504-5-G-W-I-quick-start.pdf,443,https,192.168.0.1
+476,Opengear,ACM5504-5-GV-I,root:default,Gateway,http://ftp.opengear.com/download/quickstart/acm5500/acm5504-5-GV-I-quick-start.pdf,443,https,192.168.0.1
+477,Cisco,2600,Administrator:admin,Router,https://192-168-1-1ip.mobi/default-router-passwords-list/,23,telnet,
+478,Cisco,3600,Administrator:admin,Router,https://192-168-1-1ip.mobi/default-router-passwords-list/,23,telnet,
+479,Cisco,3700,cisco:cisco,Router,,23,telnet,
+480,Cisco,SPA 122,admin:admin,Router,https://www.ukvoipforums.com/viewtopic.php?t=18,,,
+481,Cisco,Aironet 1200,root:cisco,Access Point,https://192-168-1-1ip.mobi/default-router-passwords-list/,80,HTTP,
+482,Inteno,DG201-R1B,admin:admin,Router,https://setuprouter.com/router/inteno/dg201-r1b/login.htm,80,http,192.168.5.1
+483,Allnet,All0305,root:admin,Outdoor Access Point,https://www.cleancss.com/router-default/Allnet,80,HTTP,192.168.1.1
+484,Allnet,ALL129DSL,admin:admin,Router,https://www.cleancss.com/router-default/Allnet,80,http,
+485,Allnet,ALL0275,none:admin,Access Point,https://www.cleancss.com/router-default/Allnet,80,http,
+486,Allnet,All0276,none:none,Wireless Router,https://www.cleancss.com/router-default/Allnet,,,
+487,ASRock,G10,admin:admin,Router,https://www.cleancss.com/router-default/ASRock,,,192.168.1.1
+488,ASRock,H2R,admin:admin,Router,https://www.cleancss.com/router-default/ASRock,,,192.168.1.1
+489,ASRock,X10,admin:admin,Router,https://www.cleancss.com/router-default/ASRock,,,
+490,Alcatel,TIMESTEP VPN 1520,root:permit,Gateway,https://www.cleancss.com/router-default/Alcatel,,,
+491,Alcatel,Speedtouch 510,none:none,Router,https://www.cleancss.com/router-default/Alcatel,,,192.168.1.254
+492,Alcatel,TG585,Administrator:none,Router,https://www.cleancss.com/router-default/Alcatel,,,192.168.1.254
+493,Alcatel,TG782T,admin:none,Router,https://www.cleancss.com/router-default/Alcatel,,,10.0.0.138
+494,LB-Link,BL-WR3000,admin:admin,Router,https://www.cleancss.com/router-default/B-LINK,80,HTTP,192.168.16.1
+495,LB-Link,BL-WA01,admin:admin,Wireless Router,https://www.cleancss.com/user-manuals/X2N/BL-WAXX,80,HTTP,192.168.16.1
+496,LB-Link,BL-MP02,admin:admin,Wireless Router,https://www.cleancss.com/user-manuals/X2N/BL-MP01,80,http,192.168.16.254
+497,LB-Link,BL-MP01,admin:admin,Wireless Router,https://www.cleancss.com/user-manuals/X2N/BL-MP01,80,httpp,192.168.16.254
+498,LB-Link,BL-310r,admin:admin,Wireless Router,https://www.cleancss.com/router-default/B-LINK,80,http,192.168.16.1
+499,APC,AP9606,apc:apc,Management Card,https://www.cleancss.com/router-default/APC,,,
+500,APC,AP9210,apc:apc,Switch,https://www.cleancss.com/router-default/APC,,,
+501,APC,WMR1000G,Admin:APC,Wireless Router,https://www.cleancss.com/router-default/APC,,,
+502,PCI,BLW-54MF,admin:admin,Router,https://www.cleancss.com/router-default/PCI,,,
+503,PCI,BLW-HPMM,admin:0000,Router,https://www.cleancss.com/router-default/PCI,,,
+504,Alien,ALR-9900,root:alien.,RFID Reader,https://www.cleancss.com/router-default/Alien,,,
+505,Amigo,BRC70n,admin:admin,Router,https://wikidevi.com/wiki/Amigo_BRC70n,80,HTTP,192.168.1.1
+506,Amigo,BRB72n,admin:admin,Router,https://wikidevi.com/wiki/Amigo_BRB72n,80,HTTP,192.168.1.1
+507,Amigo,BRC76n,admin:admin,Wireless Router,https://wikidevi.com/wiki/Amigo_BRC76n,80,HTTP,192.168.1.1
+508,Amigo,BRD70n,admin:admin,Wireless Router,https://wikidevi.com/wiki/Amigo_BRD70n,80,HTTP,192.168.1.1
+509,Amigo,BRE70n,admin:admin,Wireless Router,https://wikidevi.com/wiki/Amigo_BRE70n,80,http,192.168.1.1
+510,Amigo,BRF70n,admin:admin,Wireless Router,https://www.cleancss.com/router-default/AMIGO,80,http,192.168.1.1
+511,Canon,iR-2525i,7654321:7654321,Printer,https://www.cleancss.com/router-default/Canon,,,
+512,Canon,iR-2535i,7654321:7654321,Printer,https://www.cleancss.com/router-default/Canon,,,
+513,Canon,iR-350,7654321:7654321,Printer,https://www.cleancss.com/router-default/Canon,,,
+514,Canon,iR-ADV C2020L,7654321:7654321,Printer,https://www.cleancss.com/router-default/Canon,,,
+515,Canon,iR-ADV C5035,7654321:7654321,Printer,https://www.cleancss.com/router-default/Canon,,,
+516,Canon,iR-ADV C5235,7654321:7654321,Printer,https://www.cleancss.com/router-default/Canon,,,
+517,Canon,iR-ADV C5240,7654321:7654321,Printer,https://www.cleancss.com/router-default/Canon,,,
+518,Handlink,AP-100,admin:admin,Access Point,https://www.cleancss.com/user-manuals/TWS/-AP-100,80,HTTP,10.59.100.1
+519,Handlink,WAP-001,admin:admin,Wireless Router,https://www.cleancss.com/router-default/Handlink/WAP-001,80,HTTP,10.59.1.254
+520,Encore,ENDSL-4R5G,admin:admin,Wireless Router,https://wikidevi.com/wiki/Encore_ENDSL-4R5G,80,HTTP,192.168.1.1
+521,RayTalk,RB-300,root:root,Router,http://router-password.com/raytalk/rb-300/,80,HTTP,192.168.1.1
+522,Snom,320 VoIP Business Phone,Administrator:0000,Phone,https://www.cirt.net/passwords?vendor=Snom,80,HTTP,
+523,Snom,360 VoIP Business Phone,Administrator:0000,Phone,https://www.cirt.net/passwords?vendor=Snom,80,HTTP,
+524,SolarWinds,Web Help Desk,whd:whd,Monitoring & Reporting Software,https://support.solarwinds.com/SuccessCenter/s/,80,http,
+525,Askey,AWRT-300N,admin:admin,Smart Hub,https://bestvpn.org/default-router-passwords/,80,HTTP,192.168.1.1
+526,Askey,AWRT-550N,admin:admin,Smart Hub,https://www.askey.com.tw/index.html,80,HTTP,192.168.15.1
+527,Askey,AWRT-550N,admin:admin,Smart Hub,https://www.askey.com.tw/index.html,80,HTTP,192.168.15.1
+528,Asus,DWL-2200AP,admin:password,Access Point,https://bestvpn.org/default-router-passwords/,80,http,192.168.0.1
+529,Asus,DWL-3200AP,admin:admin,Access Point,https://bestvpn.org/default-router-passwords/,80,HTTP,192.168.1.1
+530,Asus,DWL-3260AP,admin:admin,Access Point,https://bestvpn.org/default-router-passwords/,80,HTTP,192.168.1.1
+531,Asus,DWL-5000AP,admin:admin,Access Point,https://bestvpn.org/default-router-passwords/,80,HTTP,192.168.1.1
+532,Asus,DWL-6000AP,admin:admin,Access Point,https://bestvpn.org/default-router-passwords/,80,HTTP,192.168.1.1
+533,Asus,ENHWI-N,admin:admin,Wireless Router,https://bestvpn.org/default-router-passwords/,80,HTTP,192.168.1.1
+534,Asus,ENHWI-N,admin:admin,Wireless Router,https://bestvpn.org/default-router-passwords/,80,HTTP,192.168.1.1
+535,Asus,ENHWI-N,admin:admin,Wireless Router,https://bestvpn.org/default-router-passwords/,80,HTTP,192.168.1.1
+536,Alcatel,VPN,root:permit,VPN Gateway,https://datarecovery.com/rd/default-passwords/,,,
+537,Alcatel,VPN,root:permit,VPN Gateway,https://datarecovery.com/rd/default-passwords/,,,
+538,APC,NetBotz 355,root:apc,IP Camera,https://download.schneider-electric.com/files?p_File_Name=JGAY-7D6KJP_R2_DE.pdf&p_Doc_Ref=SPD_JGAY-7D6KJP_DE,,,
+539,APC,NBRK0450,root:apc,Rack Monitor,https://download.schneider-electric.com/files?p_File_Name=LSCZ-7BUKZ9_R6_DE.pdf&p_Doc_Ref=SPD_LSCZ-7BUKZ9_DE,,,
+540,APC,NBRK0550,root:apc,Rack Monitor,https://download.schneider-electric.com/files?p_File_Name=LSCZ-7BUKZ9_R6_DE.pdf&p_Doc_Ref=SPD_LSCZ-7BUKZ9_DE,,,
+541,APC,NBRK0570,root:apc,Rack Monitor,https://download.schneider-electric.com/files?p_File_Name=LSCZ-7BUKZ9_R6_DE.pdf&p_Doc_Ref=SPD_LSCZ-7BUKZ9_DE,,,
+542,APC,NetBotz 455,root:apc,IP Camera,https://download.schneider-electric.com/files?p_File_Name=LSCZ-7DGMPF_R3_DE.pdf&p_Doc_Ref=SPD_LSCZ-7DGMPF_DE,,,
+543,3M,VOL-0215 ETC,volition:volition,Router,https://www.cleancss.com/router-default/3M,,,
+544,3WARE,3DM2,Administrator:3ware,Raid Controller,https://www.thomas-krenn.com/de/wiki/3ware_Controller_3DM2_Passwort,,,
+545,8level,WRT-150,admin:admin,Router,https://setuprouter.com/router/8level/wrt-150/login.htm,,,192.168.1.1
+546,Dell,PowerConnect 2708,admin:none,Switch,https://www.miarec.com/knowledge/how-configure-port-mirroring-dell-powerconnect-2700-series,80,HTTP,192.168.2.1
+547,Dell,PowerConnect 2716,admin:none,Switch,https://www.miarec.com/knowledge/how-configure-port-mirroring-dell-powerconnect-2700-series,80,HTTP,192.168.2.1
+548,Dell,PowerConnect 2724,admin:none,Switch,https://www.miarec.com/knowledge/how-configure-port-mirroring-dell-powerconnect-2700-series,80,HTTP,192.168.2.1
+549,Dell,PowerConnect 2748,admin:none,Switch,https://www.miarec.com/knowledge/how-configure-port-mirroring-dell-powerconnect-2700-series,80,HTTP,192.168.2.1
+550,Juniper,SRX100,root:none,Gateway,https://www.cleancss.com/router-default/Juniper/SRX100,80,HTTP,192.168.1.1
+551,Juniper,SRX210,root:none,Gateway,https://www.cleancss.com/router-default/Juniper/SRX210,80,HTTP,192.168.1.1
+552,Juniper,SSG 140,netscreen:netscreen,Firewall,https://www.cleancss.com/router-default/Juniper/SSG_140,80,HTTP,192.168.1.1
+553,Juniper,SSG 20,netscreen:netscreen,Gateway,https://www.cleancss.com/router-default/Juniper/SSG_20,80,HTTP,192.168.1.1
+554,Juniper,ISG2000,netscreen:netscreen,Gateway,https://www.juniper.net/documentation/hardware/netscreen-systems/netscreen-systems61/HW_ISG2000_610.pdf,80,HTTP,192.168.1.1
+555,Juniper,ISG2000,netscreen:netscreen,Gateway,https://www.juniper.net/documentation/hardware/netscreen-systems/netscreen-systems61/HW_ISG2000_610.pdf,80,HTTP,192.168.1.1
+556,Wago,PM8240,admin:wago,Controller,https://www.mmf.de/manual/wago_pfc200mane.pdf,,,
+557,Huawei,ctrl-1,admin:Change_me,iot,https://support.huawei.com/enterprise/en/doc/EDOC1100057456/ddea0b29/default-accounts,80,http,94.224.147.56
+558,Mobotix,*,admin:meinsm,IP Camera,https://community.mobotix.com/t/ich-habe-mein-passwort-vergessen-was-kann-ich-tun/509,,,
+559,Yokogawa,nano,User001:User001,Industrial 802.11n wireless AP/bridge/client,https://web-material3.yokogawa.com/1/25593/details/IM04L51B01-05EN.pdf,443,https,200.34.12.4.5
+560,TP-Link,access,admin:admin,Access Point,"https://www.tp-link.com/us/support/faq/426/#:~:text=The%20default%20IP%20address%20is,admin%20(all%20lower%20case).",,,

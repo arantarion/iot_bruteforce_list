@@ -44,9 +44,10 @@ Admin
 sweex
 adslroot
 vodafone/admin
+vodafone
+superonline
 lgnortel
 cameras
 manager
-&lt;randomly generated&gt;
 Administrator
 Shiko

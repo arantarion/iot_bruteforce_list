@@ -1,0 +1,12 @@
+Passwords
+https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10-million-password-list-top-1000.txt
+https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/best1050.txt
+https://github.com/danielmiessler/SecLists/blob/master/Passwords/xato-net-10-million-passwords-1000.txt
+https://github.com/danielmiessler/SecLists/blob/master/Passwords/darkweb2017-top1000.txt
+https://github.com/danielmiessler/SecLists/blob/master/Passwords/cirt-default-passwords.txt
+https://github.com/danielmiessler/SecLists/blob/master/Passwords/500-worst-passwords.txt
+https://github.com/danielmiessler/SecLists/blob/master/Passwords/2023-200_most_used_passwords.txt
+https://github.com/danielmiessler/SecLists/blob/master/Passwords/2020-200_most_used_passwords.txt
+https://github.com/danielmiessler/SecLists/blob/master/Passwords/Default-Credentials/default-passwords.txt
+https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10-million-password-list-top-1000.txt
+

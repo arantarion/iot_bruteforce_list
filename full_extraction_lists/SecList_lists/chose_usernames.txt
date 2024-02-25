@@ -1,0 +1,2 @@
+https://github.com/danielmiessler/SecLists/blob/master/Usernames/top-usernames-shortlist.txt
+https://github.com/danielmiessler/SecLists/blob/master/Usernames/xato-net-10-million-usernames.txt

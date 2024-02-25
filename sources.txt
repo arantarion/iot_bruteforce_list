@@ -1,0 +1,27 @@
+#### Passwords only
+
+https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10-million-password-list-top-1000.txt
+https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/best1050.txt
+https://github.com/danielmiessler/SecLists/blob/master/Passwords/xato-net-10-million-passwords-1000.txt
+https://github.com/danielmiessler/SecLists/blob/master/Passwords/darkweb2017-top1000.txt
+https://github.com/danielmiessler/SecLists/blob/master/Passwords/cirt-default-passwords.txt
+https://github.com/danielmiessler/SecLists/blob/master/Passwords/500-worst-passwords.txt
+https://github.com/danielmiessler/SecLists/blob/master/Passwords/2023-200_most_used_passwords.txt
+https://github.com/danielmiessler/SecLists/blob/master/Passwords/2020-200_most_used_passwords.txt
+https://github.com/danielmiessler/SecLists/blob/master/Passwords/Default-Credentials/default-passwords.txt
+https://www.microsoft.com/en-us/security/blog/2021/11/08/learn-how-microsoft-strengthens-iot-and-ot-security-with-zero-trust/
+https://nordpass.com/de/most-common-passwords-list/
+
+
+#### Usernames only
+
+https://github.com/danielmiessler/SecLists/blob/master/Usernames/top-usernames-shortlist.txt
+https://github.com/danielmiessler/SecLists/blob/master/Usernames/xato-net-10-million-usernames.txt
+
+
+#### Mixed
+
+https://github.com/ihebski/DefaultCreds-cheat-sheet
+https://defpass.com/
+https://datarecovery.com/rd/default-passwords/
+https://router-network.com/

@@ -1,0 +1,25 @@
+.related-posts {
+	font-size: 16px;
+	margin-top: 55px;
+}
+
+.related-posts .entry-title {
+	font-size: 20px;
+}
+
+.related-posts .section-header {
+	border-bottom: 1px solid var(--ms-mid-gray);
+	font-size: 26px;
+	margin: 0 0 30px;
+	padding: 0 0 30px;
+}
+
+footer .related-posts .read-more {
+	display: block;
+}
+
+@media only screen and (min-width: 768px) {
+	.related-posts .thumb-link {
+		display: block;
+	}
+}

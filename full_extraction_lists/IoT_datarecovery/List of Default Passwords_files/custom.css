@@ -1,0 +1,18 @@
+#chatBeaconBtn button:focus {
+    border: 1px solid #09f;
+}
+
+
+app-root .window-header .company-logo {
+    height: 39px;
+    width: 183px;
+}
+
+app-root .window-header .company-logo-2 {
+    height: 56px;
+    width: 262px;
+}
+
+app-root .window-header {
+    background-color: #204360 !important;
+}

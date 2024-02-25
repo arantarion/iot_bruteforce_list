@@ -1,0 +1,349 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400");
+
+@keyframes showChatCtrl {
+    from {
+        right: -20%;
+    }
+
+    to {
+        right: 0px;
+    }
+}
+
+
+@keyframes showInvite {
+    from {
+        bottom: -150px;
+    }
+
+    to {
+        bottom: 28px;
+    }
+}
+
+
+@keyframes showMarquee{
+    from {
+        bottom: -175px;
+    }
+
+    to {
+        bottom: 25px;
+    }
+}
+
+
+#chatBeaconBtn {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 91px;
+    z-index: 999999999;
+}
+   
+
+#chatBeaconBtn:not(.hide){
+    right:20px;
+    bottom: 20px;
+}
+
+    #chatBeaconBtn * {
+        font-family: "Lato";
+    }
+
+#smsBtn {
+    background-color: gray;
+    border-radius: 5px;
+    padding: 4px 8px;
+    margin-left: 7px;
+    border: none;
+    outline: none;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+    #smsBtn > img {
+        height: 20px;
+        margin-left: 8px;
+    }
+
+
+    #beaconBtn {
+        background: transparent;
+        outline: none;
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        border: none;
+        
+        
+
+    }
+        #beaconBtn > img:nth-child(2) {
+            display: none;
+            text-align: right;
+            height: 2px;
+        }
+
+    #chatBeaconBtn.hide {
+        display:none;
+    }
+
+#chatBeaconCtrl {
+    position: fixed;
+    right: -20%;
+    width: 20%;
+    min-width: 280px;
+    z-index: 99999999;
+    height: 90%;
+    bottom: 0;
+    filter: drop-shadow(-1px -1px 3px rgba(0, 0, 0, .2));
+    display: none;
+}
+
+    #chatBeaconCtrl * {
+        font-family: "Lato";
+    }
+
+    #chatBeaconCtrl iframe {
+        height: 100%;
+        width: 100%;
+        border: none;
+        background-color: transparent;
+    }
+
+    #chatBeaconCtrl.open {
+        display: block;
+        animation: showChatCtrl 500ms forwards;
+    }
+
+    #chatBeaconCtrl.open.video{
+        width: 40%;
+    }
+
+    #chatBeaconCtrl button {
+        background-color: transparent;
+        border: none;
+        color: white;
+        margin: 10px 10px 0 0;
+        font-size: 24px;
+    }
+
+#chatBeaconInvite {
+    display:none;
+    position: fixed;
+    bottom: 0;
+    right: 125px;
+    max-height: 150px;
+}
+    
+    #chatBeaconInvite *{
+        font-family: "Lato";
+    }
+
+    #chatBeaconInvite button{
+        position: absolute;
+        border-radius: 5px;
+        padding: 4px;
+        border: none;
+    }
+
+    #chatBeaconInvite button .text{
+        padding: 4px;
+    }
+
+    #chatBeaconInvite.show {
+        display: block;
+        animation: showInvite 500ms forwards;
+    }
+
+    #chatBeaconInvite .accept {
+        left: 0;
+        background-color: transparent;
+        height: 95px;
+        width: 200px;
+        text-align: left;
+    }
+
+        #chatBeaconInvite .accept .text::after {
+            content: "Can I answer any questions for you?";
+        }
+
+    #chatBeaconInvite .decline {
+        background-color: gray;
+        right: 95px;
+        bottom: 14px;
+        color: white;
+        font-weight: 300;
+        width: 100px;
+    }
+
+    #chatBeaconInvite .decline .text::after {
+        content: "DECLINE";
+    }
+
+#chatBeaconMarquee {
+    animation: showMarquee .5s forwards;
+    border-radius: 5px 20px 5px 20px;
+    font-size: 16px;
+    position: fixed;
+    right: 22px;
+    z-index: 9998;
+    background: linear-gradient(-60deg, #00004a, #0099ff);
+    border: 1px solid #006699;
+    border-radius: 26px 11px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, .15);
+    width: 360px;
+    height: 175px;
+}
+
+    #chatBeaconMarquee .accept-btn {
+        background-color: rgba(249, 249, 249, 0.9);
+        border-radius: 20px 5px;
+        position: absolute;
+        top: 96px;
+        height: 73px;
+        left: 5px;
+        width: 267px;
+        outline: none;
+        border: none;
+        font-size: 12px;
+        font-family: "Lato";
+        display: flex;
+        justify-content: center;
+    }
+
+        #chatBeaconMarquee .accept-btn .text {
+            text-align: left;
+            font-size: 12px;
+            margin-left: 42px;
+            font-family: "Lato";
+            height: 100%;
+            margin-right: 25px;
+            padding-top: 4px;
+            font-weight: 400;
+        }
+
+    #chatBeaconMarquee .close-btn {
+        background-color: transparent;
+        outline: none;
+        border: none;
+        height: 15px;
+        width: 15px;
+        background-image: url(../imgs/close.svg);
+        background-repeat: no-repeat;
+        position: absolute;
+        right: 10px;
+        top: 10px;
+    }
+
+    #chatBeaconMarquee .flair {
+        background-image: url(../imgs/phil.png);
+        background-repeat: no-repeat;
+        background-size: contain;
+        border: 3px solid #00a27d;
+        border-radius: 50px;
+        height: 82px;
+        top: -20px;
+        left: -20px;
+        width: 82px;
+        position: absolute;
+    }
+
+    #chatBeaconMarquee .banner {
+        color: white;
+        font-size: 26px;
+        text-align: center;
+        position: absolute;
+        left: 45px;
+        font-weight: 400;
+        font-family: "Lato";
+        height: 55px;
+        width: 280px;
+        padding-top: 38px;
+    }
+
+    #chatBeaconMarquee .banner::after {
+        content: "Want to know more?"
+    }
+
+    @media screen and (max-width: 599px){
+
+        @keyframes showMarquee {
+            from {
+                bottom: -175px;
+            }
+
+            to {
+                bottom: 22px;
+            }
+        }
+
+        #chatBeaconCtrl {
+            height: 100%;
+        }
+
+        #chatBeaconMarquee {
+            width: 330px;
+        }
+
+        #chatBeaconMarquee .accept-btn{
+            width: 230px;
+            top: 92px;
+        }
+
+            #chatBeaconMarquee .accept-btn .text {
+                width: 230px;
+                top: 92px;
+                margin-right: 0;
+                margin-left: 20px;
+            }
+    }
+
+@media only screen and (max-width: 959px) {
+
+    @keyframes showChatCtrl {
+        from {
+            right: -100%;
+        }
+
+        to {
+            right: 0px;
+        }
+    }
+
+
+    #chatBeaconCtrl {
+        right: -100%;
+        width: 100%;
+        min-width: 100%;
+        height: 100%;
+    }
+
+        #chatBeaconCtrl.open {
+            animation: showChatCtrl 500ms forwards;
+        }
+}
+
+@media only screen and (min-width: 960px) and (max-width: 1279px) {
+
+    @keyframes showChatCtrl {
+        from {
+            right: -40%;
+        }
+
+        to {
+            right: 0px;
+        }
+    }
+
+    #chatBeaconCtrl {
+        right: -40%;
+        width: 40%;
+    }
+
+        #chatBeaconCtrl.open {
+            animation: showChatCtrl 500ms forwards;
+        }
+}
